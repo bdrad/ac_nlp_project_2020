@@ -1,0 +1,1394 @@
+01_01.txt
+	Breast  cancer  screening.  Female.  Average-risk,  with  less  than  15%  lifetime  risk  of  breast  cancer. 
+	Breast cancer screening. Female. Intermediate-risk, with personal history of breast cancer,  lobular neoplasia, atypical ductal hyperplasia, or 15% to 20% lifetime risk of breast cancer. 
+	Breast cancer screening. Female. High-risk, with a BRCA gene mutation and their untested  first-degree relatives, women with a history of chest irradiation between 10 to 30 years of  age, women with 20% or greater lifetime risk of breast cancer. 
+
+01_02.txt
+	Breast cancer screening during lactation. Initial imaging. 
+	Breast  cancer  screening  during  pregnancy.  Age  younger  than  30  at  high  risk.  Initial  imaging. 
+	Breast cancer screening during pregnancy. Age 30 to 39 years at elevated risk (intermediate  or high risk). Initial imaging. 
+	Breast  cancer  screening  during  pregnancy.  Age  40  years  or  older,  any  risk  level.  Initial  imaging. 
+	Pregnant women with a palpable breast mass. Initial imaging. 
+	Clinically suspicious nipple discharge during pregnancy. Initial imaging. 
+	Locoregional staging of newly diagnosed breast cancer during pregnancy. Initial imaging. 
+
+01_03.txt
+	Evaluation of saline breast implants. Asymptomatic patient. Any age. Initial imaging. 
+	Evaluation  of  saline  breast  implants.  Clinical  examination  equivocal  for  implant  rupture.  Age younger than 30 years. Initial imaging. 
+	Evaluation  of  saline  breast  implants.  Clinical  examination  equivocal  for  implant  rupture.  Age 30–39 years. Initial imaging. 
+	Evaluation  of  saline  breast  implants.  Clinical  examination  equivocal  for  implant  rupture.  Age 40 years or older. Initial imaging. 
+	Evaluation of silicone breast implants. Asymptomatic patient. Any age. Initial imaging. 
+	Evaluation of silicone breast implants. Suspected implant complication. Age younger than 30  years. Initial imaging. 
+	Evaluation  of  silicone  breast  implants.  Suspected  implant  complication.  Age  30–39  years.  Initial imaging. 
+	Evaluation  of  silicone  breast  implants.  Suspected  implant  complication.  Age  40  years  or  older. Initial imaging. 
+	Evaluation of unexplained axillary adenopathy. Silicone breast implants (current or prior).  Age younger than 30 years. Initial imaging. 
+	Evaluation of unexplained axillary adenopathy. Silicone breast implants (current or prior).  Age 30–39 years. Initial imaging. 
+	Evaluation of unexplained axillary adenopathy. Silicone breast implants (current or prior).  Age 40 years or older. Initial imaging. 
+	Suspected breast implant associated anaplastic large-cell lymphoma (BIA-ALCL) (delayed seroma,  swelling,  mass,  pain  but  no  erythema,  warmth  or  skin  changes  that  would  raise concern for inflammatory breast cancer or mastitis). Any age. Breast implant of any type. Initial imaging. 
+
+01_04.txt
+	Female  with  clinically  insignificant  breast  pain  (nonfocal  [greater  than  one  quadrant],  diffuse, or cyclical) without other suspicious clinical finding. Any age. Initial imaging. 
+	Female with clinically significant breast pain (focal and noncyclical). Age less than 30. Initial  imaging. 
+	Female  with clinically  significant  breast  pain  (focal and  noncyclical).  Age 30 to 39.  Initial  imaging. 
+	Female  with  clinically  significant  breast  pain  (focal  and  noncyclical).  Age  greater  than  or  equal to 40. Initial imaging. 
+
+01_05.txt
+	Physiologic nipple discharge. Female of any age. Initial imaging examination. 
+	Pathologic  nipple  discharge.  Male  or  female  40  years  of  age  or  older.  Initial  imaging  examination. 
+	Pathologic  nipple  discharge.  Male  or  female  30  to  39  years  of  age.  Initial  imaging  examination. 
+	Pathologic  nipple  discharge.  Female  younger  than  30  years  of  age.  Initial  imaging examination.
+	Pathologic nipple discharge. Male younger than 30 years of age. Initial imaging examination. 
+
+01_06.txt
+	Male patient of any age with symptoms of gynecomastia and physical examination consistent  with gynecomastia or pseudogynecomastia. Initial imaging. 
+	Male younger than 25 years of age with indeterminate palpable breast mass. Initial imaging. 
+	Male 25 years of age or older with indeterminate palpable breast mass. Initial imaging. 
+	Male 25 years of age or older with indeterminate palpable breast mass. Mammography or  digital breast tomosynthesis indeterminate or suspicious. 
+	Male of any age with physical examination suspicious for breast cancer (suspicious palpable  breast mass, axillary adenopathy, nipple discharge, or nipple retraction). Initial imaging. 
+
+01_07.txt
+	Initial  determination  of  tumor  size  and  extent  within  the  breast  prior  to  neoadjuvant  chemotherapy. Initial imaging examination. 
+	Imaging  of  the  breast  after  initiation  or  completion  of  neoadjuvant  chemotherapy.  Initial  imaging examination. 
+	Known  breast  cancer.  Axillary  evaluation  prior  to  neoadjuvant  chemotherapy.  Initial  imaging examination. 
+	Known  breast  cancer.  Axillary  evaluation  after  completion  of  neoadjuvant  chemotherapy,  axilla not previously evaluated. Initial imaging examination. 
+	Known breast cancer with clinical suspicion of metastatic disease. Staging or assessment of  response to neoadjuvant chemotherapy. Initial imaging examination. 
+
+01_08.txt
+	Palpable breast mass. Female, 40 years of age or older, initial evaluation.
+	Palpable breast mass. Female, 40 years of age or older, mammography findings suspicious  for malignancy. Next examination to perform.
+	Palpable breast mass. Female, 40 years of age or older, mammography findings probably benign. Next examination to perform.
+	Palpable breast mass. Female, 40 years of age or older, mammography findings benign (like  lipoma) at site of palpable mass. Next examination to perform.
+	Palpable breast mass. Female, 40 years of age or older, mammography findings negative. Next examination to perform.
+	Palpable  breast  mass.  Female,  younger  than  30  years  of  age,  initial  evaluation.
+	Palpable  breast  mass.  Female,  younger  than  30  years  of  age,  US  findings  suspicious  for  malignancy.  Next  examination  to  perform.
+	Palpable breast mass. Female, younger than 30 years of age, US findings probably benign.  Next examination to perform.
+	Palpable breast mass. Female, younger than 30 years of age, US findings benign (like simple  cyst). Next examination to perform. 
+	Palpable  breast  mass.  Female,  younger  than  30  years  of  age,  US  findings  negative.  Next  examination to perform. 
+	Palpable breast mass. Female, 30 to 39 years of age, initial evaluation.
+
+01_09.txt
+	Newly  diagnosed.  Stage  I  breast  cancer.  Asymptomatic.  Rule  out  bone  metastases.  Initial  imaging. 
+	Newly diagnosed. Stage I breast cancer. Asymptomatic. Rule out thoracic metastases. Initial  imaging. 
+	Newly  diagnosed.  Stage  I  breast  cancer.  Asymptomatic.  Rule  out  abdominal  metastases.  Initial imaging. 
+	Newly  diagnosed.  Stage  I  breast  cancer.  Asymptomatic.  Rule  out  brain  metastases.  Initial  imaging. 
+	Surveillance. Stage I breast cancer. Asymptomatic. Rule out bone, thoracic, abdominal, and  brain metastases. Initial imaging. 
+	Surveillance. Stage I breast cancer. Asymptomatic. Rule out local recurrence. 
+
+02_01.txt
+	Acute Chest Pain — Suspected Aortic Dissection 
+
+02_02.txt
+	Acute Nonspecific Chest Pain—Low Probability of Coronary Artery Disease 
+
+02_03.txt
+	Asymptomatic Patient at Risk for Coronary Artery Disease  Low risk. 
+	Asymptomatic Patient at Risk for Coronary Artery Disease  Intermediate risk. 
+	Asymptomatic Patient at Risk for Coronary Artery Disease  High risk. 
+
+02_04.txt
+	Blunt Chest Trauma  First-line evaluation. High-energy mechanism. 
+	Normal  anteroposterior  (AP)  chest  radiograph,  normal  examination,  and  normal  mental  status. No high-energy mechanism. 
+	Blunt Chest Trauma  Clinically suspected cardiac injury after initial imaging and clinical evaluation. 
+
+02_05.txt
+	Chest pain, low to intermediate probability for acute coronary syndrome. Initial imaging. 
+	Chest pain, high probability for acute coronary syndrome. Initial imaging. 
+
+02_06.txt
+	Chronic chest pain; high probability of coronary artery disease. 
+
+02_07.txt
+	Chronic  chest  pain,  noncardiac  etiology  unlikely:  low  to  intermediate  probability  of  coronary artery disease. Initial imaging. 
+
+02_08.txt
+	Dyspnea due to heart failure. Ischemia not excluded. 
+	Dyspnea due to suspected nonischemic heart failure. Ischemia excluded. 
+	Dyspnea due to suspected valvular heart disease. Ischemia excluded. 
+	Dyspnea due to suspected cardiac arrhythmia. Ischemia excluded. 
+	Dyspnea due to suspected pericardial disease. Ischemia excluded. 
+
+02_09.txt
+	Preintervention  planning  for  transcatheter  aortic  valve  replacement  at  the  aortic  valve  plane. 
+	Preintervention  planning  for  transcatheter  aortic  valve  replacement  in  the  supravalvular  aorta and iliofemoral system. 
+
+02_10.txt
+	Known or suspected congenital heart disease in the adult. 
+
+02_11.txt
+	Nonischemic  Myocardial  Disease  with  Clinical  Manifestations  (Ischemic  Cardiomyopathy  Already Excluded)  Suspected arrhythmogenic cardiomyopathy. 
+	Nonischemic  Myocardial  Disease  with  Clinical  Manifestations  (Ischemic  Cardiomyopathy  Already Excluded)  Suspected myocardial infiltrative disease. 
+	Nonischemic  Myocardial  Disease  with  Clinical  Manifestations  (Ischemic  Cardiomyopathy  Already Excluded)  Suspected hypertrophic cardiomyopathy. 
+	Nonischemic  Myocardial  Disease  with  Clinical  Manifestations  (Ischemic  Cardiomyopathy  Already Excluded)  Suspected acute/subacute myocardial disease. 
+
+02_12.txt
+	Suspected Infective Endocarditis 
+
+02_13.txt
+	Suspected new-onset nonacute heart failure, not previously diagnosed. Initial imaging. 
+	Differentiating  new-onset heart failure  with  reduced  ejection  fraction  (HFrEF) from  new- onset heart failure with preserved ejection fraction (HFpEF). 
+	Confirmed  new-onset  heart  failure  with  reduced  ejection  fraction  of  uncertain  etiology:  ischemic versus nonischemic. 
+
+02_14.txt
+	Suspected pulmonary embolism. Intermediate probability with a negative D-dimer or low  pretest probability. 
+	Suspected pulmonary embolism. Intermediate probability with a positive D-dimer or high  pretest probability. 
+	Suspected pulmonary embolism. Pregnant patient. 
+
+03_01.txt
+	Acute nonlocalized abdominal pain and fever. No recent surgery. Initial imaging. 
+	Acute nonlocalized abdominal pain and fever. Postoperative patient. Initial imaging. 
+	Acute nonlocalized abdominal pain. Neutropenic patient. Initial imaging. 
+	Acute nonlocalized abdominal pain. Not otherwise specified. Initial imaging. 
+
+03_02.txt
+	Suspected acute pancreatitis. First-time presentation. Epigastric pain and increased amylase  and lipase. Less than 48 to 72 hours after symptom onset. Initial imaging. 
+	Suspected  acute  pancreatitis.  Initial  presentation  with  atypical  signs  and  symptoms;  including equivocal amylase and lipase values (possibly confounded by acute kidney injury  or  chronic  kidney  disease)  and  when  diagnoses  other  than  pancreatitis  may  be  possible  (bowel perforation, bowel ischemia, etc). Initial imaging. 
+	Acute  pancreatitis.  Critically  ill,  systemic  inflammatory  response  syndrome  (SIRS),  severe  clinical  scores  (eg,  Acute  Physiology,  Age,  and  Chronic  Health  Evaluation  [APACHE]-II,  Bedside Index for Severity in AP [BISAP], or Marshall). Greater than 48 to 72 hours after  onset of symptoms. 
+	Acute pancreatitis. Continued SIRS, severe clinical scores, leukocytosis, and fever. Greater  than 7 to 21 days after onset of symptoms. 
+	Known necrotizing pancreatitis. Significant deterioration in clinical status, including abrupt  decrease in hemoglobin or hematocrit, hypotension, tachycardia, tachypnea, abrupt change  in fever curve, or increase in white blood cells. 
+	Acute  pancreatitis.  Known  pancreatic  or  peripancreatic  fluid  collections  with  continued  abdominal pain, early satiety, nausea, vomiting, or signs of infection. Greater than 4 weeks  after symptom onset. 
+
+03_03.txt
+	Chronic liver disease. Diagnosing liver fibrosis. 
+	Chronic liver disease. Screening and surveillance for hepatocellular carcinoma (HCC). No  prior diagnosis of HCC. 
+	Chronic liver disease. Surveillance for hepatocellular carcinoma (HCC). Previous diagnosis  of HCC. 
+
+03_04.txt
+	Colorectal cancer screening. Average-risk individual. Age greater than or equal to 50 years.  Initial screening, then follow-up every 5 years after initial negative screen. 
+	Colorectal cancer screening. Moderate-risk individual. First-degree family history of cancer  or adenoma. Initial screening, then follow-up every 5 years after initial negative screen. 
+	Colorectal cancer detection. Moderate-risk individual. Average-risk individual after positive  fecal  occult  blood  test  (FOBT)  or  positive  fecal  immunochemical  test  indicating  a  relative  elevation in risk. 
+	Colorectal  cancer  screening.  High-risk  individual.  Hereditary  nonpolyposis  colorectal  cancer; ulcerative colitis or Crohn colitis. 
+	Colorectal cancer screening. Average-, moderate-, or high-risk individual after incomplete  colonoscopy. 
+
+03_05.txt
+	Suspected Crohn disease, no prior Crohn diagnosis. Initial imaging. 
+	Known Crohn disease, suspected acute exacerbation. 
+	Known Crohn disease, disease surveillance; monitoring therapy. 
+
+03_06.txt
+	Oropharyngeal dysphagia with an attributable cause. Initial imaging. 
+	Unexplained oropharyngeal dysphagia. Initial imaging. 
+	Retrosternal dysphagia in immunocompetent patients. Initial imaging. 
+	Retrosternal dysphagia in immunocompromised patients. Initial imaging. 
+	Early postoperative dysphagia. Oropharyngeal or retrosternal. Initial imaging. 
+	Delayed (greater than 1 month) postoperative development of dysphagia. Oropharyngeal or  retrosternal. Initial imaging. 
+
+03_07.txt
+	Suspected acute mesenteric ischemia. Initial imaging. 
+	Suspected chronic mesenteric ischemia. Initial imaging. 
+
+03_08.txt
+	Jaundice. No known predisposing conditions. Initial imaging. 
+	Jaundice. Suspected mechanical obstruction based on initial imaging, clinical condition, or  laboratory values. 
+	Jaundice.  Suspected  medical,  metabolic,  or  functional  etiologies  based  on  initial  imaging,  clinical condition, or laboratory values. No suspected mechanical obstruction. 
+
+03_09.txt
+	Left lower quadrant pain. Suspected diverticulitis. Initial imaging. 
+	Left lower quadrant pain. Suspected complications of diverticulitis. 
+
+03_10.txt
+	Indeterminate >1 cm lesion on initial imaging with ultrasound. Normal liver. (No suspicion  or evidence of extrahepatic malignancy or underlying liver disease.) 
+	Indeterminate >1 cm lesion on initial imaging with CT (without or with contrast). Normal  liver. (No suspicion or evidence of extrahepatic malignancy or underlying liver disease.) 
+	Indeterminate  >1  cm  lesion  on  initial  imaging  with  noncontrast-enhanced  MRI.  Normal  liver. (No suspicion or evidence of extrahepatic malignancy or underlying liver disease.) 
+	Indeterminate  >1  cm  lesion  on  initial  imaging  with  ultrasound.  Known  history  of  an  extrahepatic malignancy. 
+	Indeterminate >1 cm lesion on initial imaging with CT (without or with contrast). Known  history of an extrahepatic malignancy. 
+	Indeterminate  >1  cm  lesion  on  initial  imaging  with  noncontrast-enhanced  MRI.  Known  history of an extrahepatic malignancy. 
+	Indeterminate  >1  cm  lesion  on  initial  imaging  with  ultrasound.  Known  or  suspected  liver  disease associated with a high risk of hepatocellular carcinoma (chronic hepatitis, cirrhosis,  hemochromatosis, etc.) 
+	Indeterminate >1 cm lesion on initial imaging with CT (without or with contrast). Known or  suspected  liver  disease  associated  with  a  high  risk  of  hepatocellular  carcinoma  (chronic  hepatitis, cirrhosis, hemochromatosis, etc.) 
+	Indeterminate >1 cm lesion on initial imaging with noncontrast-enhanced MRI. Known or  suspected  liver  disease  associated  with  a  high  risk  of  hepatocellular  carcinoma  (chronic  hepatitis, cirrhosis, hemochromatosis, etc.) 
+	Indeterminate <1 cm lesion on initial imaging with ultrasound. Normal liver. (No suspicion  or evidence of extrahepatic malignancy or underlying liver disease.) 
+	Indeterminate <1 cm lesion on initial imaging with CT (without or with contrast). Normal  liver. (No suspicion or evidence of extrahepatic malignancy or underlying liver disease.) 
+	Indeterminate  <1  cm  lesion  on  initial  imaging  with  noncontrast-enhanced  MRI.  Normal  liver. (No suspicion or evidence of extrahepatic malignancy or underlying liver disease.) 
+	Indeterminate  <1  cm  lesion  on  initial  imaging  with  ultrasound.  Known  history  of  an  extrahepatic malignancy. 
+	Indeterminate <1 cm lesion on initial imaging with CT (without or with contrast). Known  history of an extrahepatic malignancy. 
+	Indeterminate  <1  cm  lesion  on  initial  imaging  with  noncontrast-enhanced  MRI.  Known  history of an extrahepatic malignancy. 
+	Indeterminate  <1  cm  lesion  on  initial  imaging  with  ultrasound.  Known  or  suspected  liver  disease associated with a high risk of hepatocellular carcinoma (chronic hepatitis, cirrhosis,  hemochromatosis, etc.) 
+	Indeterminate <1 cm lesion on initial imaging with CT (without or with contrast). Known or  suspected  liver  disease  associated  with  a  high  risk  of  hepatocellular  carcinoma  (chronic  hepatitis, cirrhosis, hemochromatosis, etc.) 
+	Indeterminate <1 cm lesion on initial imaging with noncontrast-enhanced MRI. Known or  suspected  liver  disease  associated  with  a  high  risk  of  hepatocellular  carcinoma  (chronic  hepatitis, cirrhosis, hemochromatosis, etc.) 
+
+03_11.txt
+	Endoscopy reveals nonvariceal upper gastrointestinal arterial bleeding source. 
+	Endoscopy confirms nonvariceal upper gastrointestinal bleeding without a clear source. 
+	Nonvariceal upper gastrointestinal bleeding; negative endoscopy.  
+	Postsurgical and traumatic causes of nonvariceal upper gastrointestinal bleeding; endoscopy  contraindicated. 
+
+03_12.txt
+	Palpable abdominal mass. Suspected intra-abdominal neoplasm. Initial imaging. 
+	Palpable abdominal mass. Suspected abdominal wall mass. Initial imaging. 
+
+03_13.txt
+	Incidentally detected pancreatic cyst less than or equal to 2.5 cm in size. Initial evaluation. 
+	Incidentally detected pancreatic cyst greater than 2.5 cm in size. No high-risk stigmata or  worrisome features. Initial evaluation. 
+	Incidentally  detected  pancreatic  cyst  greater  than  2.5  cm  in  size.  High-risk  stigmata  or  worrisome features. Initial evaluation. 
+	Incidentally detected main pancreatic duct dilation greater than 7 mm in size. Suspected main  duct intraductal papillary mucinous neoplasm (IPMN). Initial evaluation. 
+	Follow-up imaging of pancreatic cyst. 
+
+03_14.txt
+	Pretreatment Staging of Colorectal Cancer  Rectal cancer. Locoregional staging. 
+	Colorectal cancer. Staging for distant metastases. 
+
+03_15.txt
+	Right lower quadrant pain, fever, leukocytosis. Suspected appendicitis. Initial imaging. 
+	Right lower quadrant pain, fever, leukocytosis. Possible appendicitis. Atypical presentation.  Initial imaging.  
+	Pregnant woman. Right lower quadrant pain, fever, leukocytosis. Suspected appendicitis.  Initial imaging.  
+
+03_16.txt
+	Right upper quadrant pain. Suspected biliary disease. Initial imaging. 
+	Right  upper  quadrant  pain.  No  fever  or  high  white  blood  cell  (WBC)  count.  Suspected  biliary disease. Negative or equivocal ultrasound. 
+	Right upper quadrant pain. Fever, elevated WBC count. Suspected biliary disease. Negative  or equivocal ultrasound. 
+	Right  upper  quadrant  pain.  Suspected  acalculous  cholecystitis.  Negative  or  equivocal  ultrasound. 
+
+03_17.txt
+	Pancreatic ductal adenocarcinoma. Initial staging pretreatment. 
+	Pancreatic ductal adenocarcinoma. Follow-up post-neoadjuvant therapy. Evaluate  resectability for borderline resectable tumor. 
+
+03_18.txt
+	Suspected Small-Bowel Obstruction  Suspected high-grade small-bowel obstruction (SBO), based on clinical evaluation or initial  radiography (if performed). 
+	Suspected intermittent or low-grade SBO. 
+
+04_01.txt
+	Abnormal Vaginal Bleeding  Postmenopausal  vaginal  bleeding.  First  study.  (Endometrial  sampling  may  also  be  performed  initially  followed  by  imaging  if  results  are  inconclusive  or  symptoms  persist  despite negative findings.) 
+	Postmenopausal vaginal bleeding, endometrium ≤5 mm by transvaginal ultrasound. (Some  centers may choose to use ≤4 mm rather than ≤5 mm. Please see narrative.) Follow-up study. 
+	Abnormal Vaginal Bleeding  Postmenopausal  vaginal  bleeding,  endometrium  >5  mm  by  transvaginal  ultrasound.  (Endometrial  sampling  would  also  be  warranted  in  this  clinical  setting  to  evaluate  for  malignancy.)  (Some  centers  may  choose  to  use  >4  mm.  Please  see  narrative.)  Follow-up  study. 
+	Premenopausal vaginal bleeding. First study. 
+	Abnormal Vaginal Bleeding  Premenopausal vaginal bleeding, endometrium <16 mm by transvaginal ultrasound. Follow- up study. 
+	Premenopausal vaginal bleeding, endometrium ≥16 mm by transvaginal ultrasound. Follow- up study. (Endometrial sampling may also be warranted in this clinical setting depending on  patient risk factors for malignancy.) 
+	Abnormal Vaginal Bleeding  Heterogeneous  endometrium  or  suspected  focal  abnormality  at  transvaginal  ultrasound.  Follow-up study. 
+	Endometrium not adequately visualized at transvaginal ultrasound. Follow-up study. 
+
+04_02.txt
+	Acute Pelvic Pain in the Reproductive Age Group  Gynecological etiology suspected, serum β-hCG positive. 
+	Acute Pelvic Pain in the Reproductive Age Group  Gynecological etiology suspected, serum β-hCG negative. 
+	Acute Pelvic Pain in the Reproductive Age Group  Nongynecological etiology suspected, serum β-hCG positive. 
+	Acute Pelvic Pain in the Reproductive Age Group   Nongynecological etiology suspected, serum β-hCG negative. 
+
+04_03.txt
+	Assessment of Fetal Well-Being. Low-risk pregnancy. 
+	Pregnancy at risk for adverse fetal outcome. 
+	Preterm pregnancy. Abnormal antenatal testing. 
+	Term and post-term pregnancy. Abnormal antenatal testing. 
+
+04_04.txt
+	Assessment of Gravid Cervix  Patient: 16–24 weeks’ gestation; at risk for preterm delivery, cervix <3 cm long; suggestion  of funneling by transabdominal ultrasound examination; or postcerclage. 
+
+04_05.txt
+	Clinically suspected adnexal mass, no acute symptoms. Premenopausal. Initial imaging. 
+	Clinically suspected adnexal mass, no acute symptoms. Postmenopausal. Initial imaging. 
+	Adnexal mass, likely benign, no acute symptoms. Premenopausal. Initial follow-up. 
+	Adnexal mass, likely benign, no acute symptoms. Postmenopausal. Initial follow-up. 
+	Adnexal mass, indeterminate, no acute symptoms. Premenopausal. Initial follow-up. 
+	Adnexal mass, indeterminate, no acute symptoms. Postmenopausal. Initial follow-up. 
+	Adnexal  mass,  highly  suspicious  for  malignancy,  no  acute  symptoms.  Premenopausal  and  postmenopausal. Initial follow-up. 
+	Clinically suspected adnexal  mass,  no acute symptoms. Pregnant. Initial imaging and  follow-up. 
+
+04_06.txt
+	Female infertility. Evaluation of ovulatory function and ovarian reserve. Initial imaging. 
+	Female infertility. Clinical features or history of polycystic ovary syndrome. Initial imaging. 
+	Female infertility. History or clinical suspicion of endometriosis. Initial imaging.
+	Female infertility. Suspicion of tubal occlusion. Initial imaging. 
+	Female infertility. Recurrent pregnancy loss. Initial imaging. 
+
+04_07.txt
+	First trimester vaginal bleeding. Positive urine or serum pregnancy test. 
+
+04_08.txt
+	Suspected or initial diagnosis of gestational trophoblastic disease (GTD). 
+	Staging and risk assessment: suspected or established diagnosis of gestational trophoblastic  neoplasia (GTN). 
+	Surveillance of GTN, including refractory, relapsed, or quiescent GTN. 
+	Assessment of complications: GTD and GTN. 
+
+04_09.txt
+	Growth disturbance. Low risk for fetal growth restriction. Initial evaluation. 
+	Growth disturbance. High risk for fetal growth restriction. Initial evaluation. 
+	Established fetal growth restriction. Follow-up evaluation. 
+
+04_10.txt
+	Known or suspected multiple gestations. Monochorionic or dichorionic. First trimester US. 
+	Multiple gestations. Dichorionic. Second trimester US. Anatomy scan. 
+	Multiple gestations. Monochorionic. Second trimester US. Anatomy scan. 
+	Multiple gestations. Dichorionic. Growth and antepartum surveillance.  
+	Multiple gestations. Monochorionic. Growth and antepartum surveillance. 
+	Multiple gestations. Known twin discordance. Monochorionic or dichorionic.  
+
+04_11.txt
+	Ovarian cancer screening. Premenopausal. Average risk. 
+	Ovarian cancer screening. Postmenopausal. Average risk. 
+	Ovarian cancer screening. Premenopausal. High risk (personal history or family history or  known or suspected genetic predisposition or elevated CA-125). 
+	Ovarian cancer screening. Postmenopausal. High risk (personal history or family history or  known or suspected genetic predisposition or elevated CA-125). 
+
+04_12.txt
+	Pelvic Floor Dysfunction  Protruding/bulging  vaginal  mass,  chronic  pelvic  pressure/discomfort,  clinically  suspected  pelvic organ prolapse. 
+	Pelvic Floor Dysfunction  Urinary dysfunction. Involuntary leakage of urine, frequent urination, urgency. Straining to  void, incomplete voiding, splinting, or digital maneuvers to void. 
+	Pelvic Floor Dysfunction  Anal incontinence. Involuntary leakage of stool/liquid/gas. 
+	Pelvic Floor Dysfunction  Defecatory  dysfunction.  Straining  during  defecation,  difficulty  incomplete evacuation, or splinting or digital maneuvers to defecate.   initiating  defecation, 
+	Pelvic Floor Dysfunction  Clinically suspected postoperative complication following pelvic floor repair. 
+	Pelvic Floor Dysfunction  Clinically  suspected  recurrent  prolapse  and  pelvic  floor  dysfunction  following  pelvic  floor  repair. 
+
+04_13.txt
+	Postmenopausal subacute or chronic pelvic pain, localized to the deep pelvis. Initial imaging. 
+	Postmenopausal  subacute  or  chronic  pelvic  pain,  clinically  suspected  pathologies  in  perineum, vulva, or vagina. Initial imaging. 
+
+04_14.txt
+	Pretreatment Evaluation and Follow-Up of Endometrial Cancer  Newly  diagnosed  endometrial  cancer;  when  imaging  is  indicated  for  treatment  planning.  (See narrative for clinical scenarios where imaging would be indicated.) 
+	Pretreatment Evaluation and Follow-Up of Endometrial Cancer  Assessing the depth of myometrial invasion. 
+	Lymph node evaluation. 
+	Pretreatment Evaluation and Follow-Up of Endometrial Cancer   Assessing endocervical tumor extent. 
+	Post-therapy evaluation in patients with clinically suspected recurrence. 
+
+04_15.txt
+	Pretreatment Planning of Invasive Cancer of the Cervix  FIGO stage Ib1, tumor size <4 cm. 
+	Pretreatment Planning of Invasive Cancer of the Cervix  FIGO stage Ib2, tumor size >4 cm. 
+	Pretreatment Planning of Invasive Cancer of the Cervix  FIGO stage >Ib. 
+
+04_16.txt
+	Second and Third Trimester Bleeding  No other signs or symptoms. 
+	Cervix or internal cervical os not well seen by transabdominal ultrasound. 
+	Second and Third Trimester Bleeding  Placenta previa diagnosed on prior US. 
+	Persistent low lying-placenta. 
+	Second and Third Trimester Bleeding  Placenta previa and history of Caesarean section. 
+	Uterine contractions and pain. 
+
+04_17.txt
+	Initial staging of pretreatment ovarian cancer. 
+	Extent of disease in suspected or known recurrence of ovarian cancer. 
+
+04_18.txt
+	Low  risk  for  placenta  accreta  spectrum  disorder.  No  known  clinical  risk  factors.  Initial  imaging. 
+	High risk for placenta accreta spectrum disorder. Initial imaging. 
+	Follow-up of placenta accreta spectrum disorder. 
+
+05_01.txt
+	Major blunt trauma. Hemodynamically unstable. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Not otherwise specified. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Suspected facial injury. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Suspected extremity trauma. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Suspected bowel trauma. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Suspected urinary system, including urethra  trauma. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Suspected chest trauma. Initial imaging. 
+	Major blunt trauma. Hemodynamically stable. Pregnant patient. Initial imaging. 
+
+06_01.txt
+	Acute blunt or penetrating trauma to the hand or wrist. Initial imaging. 
+	Suspect acute hand or wrist trauma. Initial radiographs negative or equivocal. Next imaging  study. 
+	Acute  wrist  fracture  on  radiographs.  Suspect  wrist  tendon  or  ligament  trauma.  Next  imaging study. 
+	Initial radiographs showing distal radioulnar joint or carpal malalignment in the absence of  fracture. Next imaging study. 
+	Acute  hand  fracture  on  radiographs.  Suspect  hand  tendon  or  ligament  trauma.  Next  imaging study. 
+	Initial  radiographs  showing  metacarpophalangeal,  proximal  interphalangeal,  or  distal  interphalangeal joint malalignment in the absence of fracture. Next imaging study. 
+	Suspect  penetrating  trauma  with  a  foreign  body  in  the  soft  tissues  in  the  hand  or  wrist.  Initial radiographs are negative. Next imaging study. 
+
+06_02.txt
+	Acute hip pain. Fall or minor trauma. Suspect fracture. Initial imaging. 
+	Acute hip pain. Fall or minor trauma. Negative radiographs. Suspect fracture. Next imaging  study. 
+
+06_03.txt
+	Acute Trauma to the Ankle  Adult or child >5 years old. Patient meets Ottawa Ankle Rules:  1.  Inability to bear weight immediately after the injury, OR  2.  Point tenderness over the medial malleolus, the posterior edge or inferior tip of the   lateral malleolus, talus, or calcaneus, OR   3.  Inability to ambulate for 4 steps in the emergency department. 
+	Adult  or  child  >5  years  old.  Acute  injury  to  the  ankle;  does  not  meet  the  Ottawa  Ankle  Rules. No  point tenderness  over the  malleoli,  talus, or  calcaneus  on  physical  examination.  Able to walk.  Neurologically intact (including no peripheral neuropathy). First study. 
+	Adult or child >5 years old. Acute injury to the ankle. Does not meet Ottawa Ankle Rules.  Patient  is  not  neurologically  intact  and/or  has  a  peripheral  neuropathy  that  involves  the  ankle and foot. First study. 
+	Acute Trauma to the Ankle  Adult or child >5 years old. Acute injury to the ankle with persistent pain. Radiographs not  obtained at time of injury. Initial study. 
+	Adult or child >5 years old. Acute injury to the ankle with >1 week persistent pain. Initial  radiographs negative. 
+	Adult  or  child  >5  years  old.  Acute  injury  to  the  ankle.  Radiographs  demonstrate  talus  fracture. Next study. 
+	Acute Trauma to the Ankle   Adult or child >5 years old. Acute injury to the ankle. Radiographs suggest an osteochondral  injury. Next study. 
+	Adult  or  child  >5  years  old.  Acute  injury  to  the  ankle.  Radiographs  and/or  physical  examination suggest syndesmotic injury. Next study. 
+
+06_04.txt
+	Adult  or  child  older  than  5  years  of  age.  Acute  trauma  to  the  foot.  Ottawa  rules  can  be  evaluated  without  exclusionary  criteria.  Ottawa  rules  are  negative.  No  suspected  abnormalities in regions not evaluated by the Ottawa rules. Initial imaging. 
+	Adult  or  child  older  than  5  years  of  age.  Acute  trauma  to  the  foot.  Ottawa  rules  can  be  evaluated without exclusionary criteria. Ottawa rules are positive. Initial imaging. 
+	Adult or child older than 5 years of age. Acute trauma to the foot. Ottawa rules cannot be  evaluated due to exclusionary criteria. Initial imaging. 
+	Adult  or  child  older  than  5  years  of  age.  Acute  trauma  to  the  foot.  Ottawa  rules  can  be  evaluated without exclusionary criteria. Ottawa rules are negative. Suspected pathology in  an anatomic area not addressed by Ottawa rules (not involving the midfoot; eg, metatarsal- phalangeal joint, metatarsal, toe, tendon, etc). Initial imaging. 
+	Adult or child older than 5 years of age. Acute trauma to the foot. Suspect Lisfranc injury,  tendon injury, or occult fracture or dislocation. Radiographs are normal or equivocal. Next  imaging study. 
+	Adult  or  child  older  than  5  years  of  age.  Acute  trauma  to  the  foot.  Suspect  penetrating  trauma with a foreign body. Radiographs of the foot are negative. Next imaging study. 
+
+06_05.txt
+	Acute Trauma to the Knee  Adult or child >1 year old. Fall or twisting injury, no focal tenderness, no effusion; able to  walk. First study. 
+	Adult or child >1 year old. Fall or twisting injury, with one or more of the following: focal  tenderness, effusion, inability to bear weight. First study. 
+	Acute Trauma to the Knee  Adult  or  child  >1  year  old.  Fall  or  twisting  injury  with  either  no  fracture  or  a  Segond  fracture seen on a radiograph, suspect internal derangement. Next study. 
+	Adult  or  child  >1  year  old.  Fall  or  twisting  injury  with  a  tibial  plateau  fracture  on  a  radiograph, with additional bone or soft-tissue injury suspected. Next study. 
+	Acute Trauma to the Knee   Adult or child >1 year old. Injury to knee, mechanism unknown. Focal patellar tenderness,  effusion, able to walk.  
+	Adult  or  child  >1  year  old.  Significant  trauma  to  the  knee  from  motor  vehicle  accident,  suspect knee dislocation. 
+
+06_06.txt
+	Chronic ankle pain. Initial imaging. 
+	Chronic ankle pain. Multiple sites of degenerative joint disease in the hindfoot detected by  ankle radiographs. Next study. 
+	Chronic ankle pain. Ankle radiographs normal, suspected osteochondral lesion. Next study. 
+	Chronic  ankle  pain.  Ankle  radiographs  normal  or  nonspecific,  suspected  tendon  abnormality. Next study. 
+	Chronic ankle pain. Ankle radiographs normal or nonspecific, suspected ankle instability.  Next study. 
+	Chronic ankle pain. Ankle radiographs normal or nonspecific, suspected ankle impingement  syndrome. Next study. 
+	Chronic ankle pain. Ankle radiographs normal, pain of uncertain etiology. Next study. 
+
+06_07.txt
+	Inflammatory  sacroiliac  or  back  symptoms.  Suspected  axial  spondyloarthropathy.  Initial  evaluation. 
+	Inflammatory sacroiliac symptoms. Suspected axial spondyloarthropathy. Radiographs  negative or equivocal. 
+	Inflammatory  back  pain  symptoms.  Suspected  axial  spondyloarthropathy.  Radiographs  negative or equivocal. 
+	Inflammatory  sacroiliac  symptoms.  Suspected  axial  spondyloarthropathy.  Negative  radiographs and MRI of the sacroiliac joints. 
+	Spine ankyloses. Suspected fracture.
+	Known axial spondyloarthropathy. Follow-up for treatment response or disease progression. 
+
+06_08.txt
+	Evaluation for chronic elbow pain. First test. 
+	Mechanical symptoms (locking, clicking, limited motion); suspect intra-articular osteocartilaginous body or synovial abnormality; radiographs nondiagnostic.
+	Suspect occult fracture or other bone abnormality; radiographs nondiagnostic. 
+	Assess stability of osteochondral injury; radiographs nondiagnostic. 
+	Palpable soft-tissue mass; radiographs nondiagnostic. 
+	Suspect chronic epicondylitis, refractory to empirical treatment; radiographs nondiagnostic. 
+	Suspect collateral ligament tear; radiographs nondiagnostic. 
+	Suspect biceps tendon tear; radiographs nondiagnostic. 
+	Suspect nerve abnormality; radiographs nondiagnostic. 
+	Elbow stiffness; suspect heterotopic ossification/osteophytosis by radiography. Next test. 
+	Suspect inflammatory arthritis or bursitis; radiographs obtained. 
+
+06_09.txt
+	Chronic extremity joint pain. Suspect rheumatoid arthritis.
+	Chronic extremity joint pain. Suspect seronegative spondyloarthropathy.
+	Chronic extremity joint pain. Suspect gout.
+	Chronic extremity joint pain. Suspect calcium pyrophosphate dihydrate disease (pseudogout). 
+	Chronic extremity joint pain. Suspect erosive osteoarthritis. 
+
+06_10.txt
+	Chronic Foot Pain  Chronic foot pain of unknown etiology. First study. 
+	Adult or child. Painful rigid flat foot. Radiographs unremarkable or equivocal and clinical  concern for tarsal coalition. 
+	Chronic Foot Pain  Radiographs  unremarkable  or  equivocal  and  clinical  concern  for  complex  regional  pain  syndrome type I. 
+	Adult  or  child.  Radiographs  noncontributory.  Pain  and  tenderness  over  head  of  second  metatarsal and clinical concern for Freiberg infraction. 
+	Chronic Foot Pain  Pain and tenderness over tarsus, unresponsive to conservative therapy. Radiographs showed  accessory ossicle. 
+	Radiographs  unremarkable,  equivocal,  or  further  diagnostic  information  needed.  Clinical  concern for inflammatory arthopathy, including rheumatoid arthritis. 
+	Chronic Foot Pain  Localized pain at the  plantar aspect of the heel. Radiographs unremarkable or equivocal.  Clinical concern for plantar fasciitis. 
+	Burning pain and paresthesias along the plantar surface of the foot and toes. Radiographs  unremarkable or equivocal. Clinical concern for tarsal tunnel syndrome. 
+	Pain  in  the  3-4  web  space  with  radiation  to  the  toes.  Radiographs  unremarkable  or  equivocal. Clinical concern for Morton neuroma. 
+	Chronic Foot Pain  Athlete  with  pain  and  tenderness  over  tarsal  navicular.  Radiographs  unremarkable  or  equivocal. Clinical concern for stress injury or occult fracture. 
+	Radiographs  unremarkable  or  equivocal  and  with  persistent  clinical  concern  for  tendinopathy. 
+
+06_11.txt
+	Chronic hip pain. First test. 
+	Chronic  hip  pain.  Radiographs  negative,  equivocal,  or  nondiagnostic.  Suspect  extra- articular noninfectious soft-tissue abnormality, such as tendonitis. 
+	Chronic hip pain. Radiographs negative, equivocal, or nondiagnostic. Suspect impingement. 
+	Chronic  hip  pain.  Radiographs  negative,  equivocal,  or  nondiagnostic.  Suspect  labral  tear  with or without clinical findings consistent with or suggestive of impingement. 
+	Chronic hip pain. Evaluate articular cartilage. Next test after radiographs. 
+	Chronic  hip  pain.  Radiographs  positive.  Arthritis  of  uncertain  type.  Infection  is  a  consideration. 
+	Chronic  hip  pain.  Radiographs  suggestive  of  pigmented  villonodular  synovitis  or  osteochondromatosis. 
+	Chronic hip pain and low back, pelvic, or knee pathology. Want to exclude hip as the source.  Radiographs negative, equivocal, or showing mild osteoarthritis. 
+	Computer navigation of hip arthroplasty or modeling. 
+
+06_12.txt
+	Adult or child greater than or equal to 5 years of age. Chronic knee pain. Initial imaging. 
+	Adult  or  child  greater  than  or  equal  to  5  years  of  age.  Chronic  knee  pain.  Initial  knee  radiograph negative or demonstrates joint effusion. Next imaging procedure. 
+	Adult  or  child  greater  than  or  equal  to  5  years  of  age.  Chronic  knee  pain.  Initial  knee  radiograph  demonstrates  osteochondritis  dissecans  (OCD),  loose  bodies,  or  history  of  cartilage or meniscal repair. Next imaging procedure. 
+	Adult  or  child  greater  than  or  equal  to  5  years  of  age.  Chronic  knee  pain.  Initial  knee  radiograph  demonstrates  degenerative  changes  or  chondrocalcinosis.  Next  imaging  procedure. 
+	Adult  or  child  greater  than  or  equal  to  5  years  of  age.  Chronic  knee  pain.  Initial  knee  radiograph  demonstrates  signs  of  prior  osseous  injury  (ie,  Segond  fracture,  tibial  spine  avulsion, etc). Next imaging procedure. 
+
+06_13.txt
+	Chronic wrist pain. With or without prior injury. Best initial study. 
+	Chronic wrist pain. Routine radiographs normal or nonspecific. Persistent symptoms. Next  study. 
+	Chronic wrist pain. Routine radiographs normal or nonspecific. Suspect inflammatory  arthritis. Next study. 
+	Chronic  wrist  pain.  Radiographs  normal  or  show  nonspecific  arthritis.  Exclude  infection.  Next study. 
+	Ulnar-sided chronic wrist pain. Radiographs normal or nonspecific. Next study. 
+	Radial-sided chronic wrist pain. Radiographs normal or nonspecific. Next study. 
+	Chronic wrist pain. Radiographs normal or nonspecific. Suspect Kienböck’s disease. Next  study. 
+	Chronic wrist pain. Kienböck’s disease on radiographs. Next study. 
+	Chronic wrist pain. Palpable mass or suspected occult ganglion cyst. Radiographs normal or  nonspecific. Next study. 
+	Chronic wrist pain. Suspect occult fracture or stress fracture. Radiographs nondiagnostic.  Next study. 
+	Chronic  wrist  pain.  Radiographs  show  old  scaphoid  fracture.  Evaluate  for  nonunion,  malunion, osteonecrosis, or post-traumatic osteoarthritis. Next study. 
+	Chronic  wrist  pain.  Radiographs  normal  or  nonspecific.  Suspect  carpal  tunnel  syndrome.  Next study. 
+
+06_14.txt
+	Follow-up of Malignant or Aggressive Musculoskeletal Tumors  Lower-risk  patient  (low  grade).  Evaluation  for  metastatic  disease  to  the  lung  from  musculoskeletal primary. Baseline examination at time of diagnosis. 
+	Lower-risk  patient  (low  grade).  Evaluation  for  metastatic  disease  to  the  lung  from  musculoskeletal primary. Follow-up examination 3–6 months after treatment or surgery. 
+	Follow-up of Malignant or Aggressive Musculoskeletal Tumors  Higher-risk  patient  (high  grade).  Evaluation  for  metastatic  disease  to  the  lung  from  musculoskeletal primary. Baseline examination at time of diagnosis. 
+	Higher-risk  patient  (high  grade).  Evaluation  for  metastatic  disease  to  the  lung  from  musculoskeletal primary. Follow-up examination 3–6 months after treatment or surgery. 
+	Follow-up of Malignant or Aggressive Musculoskeletal Tumors  Evaluation  for  osseous  metastatic  disease  from  musculoskeletal  primary.  Asymptomatic.  Baseline and follow-up examination. 
+	Evaluation  for  osseous  metastatic  disease  from  musculoskeletal  primary.  Symptomatic.  Baseline and follow-up examination. 
+	Follow-up of Malignant or Aggressive Musculoskeletal Tumors  Osseous tumor, without significant hardware present. Local recurrence. 
+	Osseous tumor, with significant hardware present. Local recurrence. 
+	Follow-up of Malignant or Aggressive Musculoskeletal Tumors  Soft-tissue tumors. Local recurrence surveillance. Follow-up examination 3–6 months after  treatment or surgery. 
+
+06_15.txt
+	Imaging After Shoulder Arthroplasty  Follow-up of the asymptomatic patient with a primary shoulder arthroplasty. 
+	Symptomatic  patient  with  a  primary  shoulder  arthroplasty;  unknown  diagnosis.  Initial  study. 
+	Imaging After Shoulder Arthroplasty  Evaluating patients with a painful primary shoulder arthroplasty: suspect aseptic loosening.  Additional imaging following radiographs. 
+	Imaging After Shoulder Arthroplasty  Evaluating  patients  with  a  painful  primary  shoulder  arthroplasty:  suspect  infection.  Additional imaging following radiographs. 
+	Evaluating  patients  with  a  painful  primary  total  shoulder  arthroplasty:  suspect  fracture.  Additional imaging following radiographs. 
+	Imaging After Shoulder Arthroplasty  Evaluating  primary  shoulder  arthroplasty  patients  with  possible  rotator  cuff  tear.  Additional imaging following radiographs. 
+	Evaluating primary shoulder arthroplasty patients with possible nerve injury. Additional  imaging following radiographs. 
+
+06_16.txt
+	Imaging After Total Hip Arthroplasty  Follow-up of the asymptomatic patient with a total hip arthroplasty. 
+	Total hip arthroplasty, evaluating suspected component malposition. 
+	Imaging After Total Hip Arthroplasty  Evaluating patients with a painful primary total hip arthroplasty: infection not excluded. 
+	Evaluating patients with a painful primary total hip arthroplasty: suspect aseptic loosening  (infection excluded). 
+	Imaging After Total Hip Arthroplasty  Evaluating suspected particle disease (aggressive granulomatous disease, infection excluded). 
+	Evaluating patients with a painful primary metal-on-metal total hip arthroplasty or surface  replacement: evaluate for aseptic lymphocyte-dominated vasculitis-associated lesion. 
+	Imaging After Total Hip Arthroplasty  Total hip arthroplasty, trochanteric pain; suspect abductor injury or trochanteric bursitis. 
+	Total hip arthroplasty; suspect iliopsoas bursitis or tendinitis. 
+	Imaging After Total Hip Arthroplasty   Total hip arthroplasty, suspect nerve damage. 
+	Total hip arthroplasty, evaluate heterotopic bone. 
+	Imaging After Total Hip Arthroplasty  Total hip arthroplasty, suspect periprosthetic fracture. 
+
+06_17.txt
+	Follow-up of the asymptomatic patient with a total knee arthroplasty. 
+	Status post total knee arthroplasty. Measuring component wear. 
+	Pain  after  total  knee  arthroplasty.  Periprosthetic  infection  not  excluded.  Initial  imaging  evaluation, including image-guided intervention. 
+	Pain after total knee arthroplasty. Joint aspiration cultures positive for infection. Additional  imaging following radiographs. 
+	Pain  after  total  knee  arthroplasty.  Joint  aspiration  culture(s)  negative  or  inconclusive.  Suspect  infection.  Additional  imaging  following  radiographs,  including  image-guided  intervention. 
+	Pain after total knee arthroplasty. Negative studies for infection. Suspect aseptic loosening.  Additional imaging following radiographs. 
+	Pain  after  studies  granulomas/osteolysis. Additional imaging following radiographs.   total  knee  arthroplasty.  Negative   for   infection.  Suspect 
+	Pain after total knee arthroplasty. Clinical concern for instability. 
+	Pain after total knee arthroplasty. Suspect periprosthetic fracture. 
+	Status  post  total  knee  arthroplasty.  Suspect  complications  related  to  the  patella  or  the  patellar  loosening  or  wear,  impingement, and osteonecrosis).   (subluxation,  dislocation,   fracture,  component   liner 
+	Pain after total knee arthroplasty. Measuring component rotation. 
+	Pain after total knee arthroplasty. Suspect periprosthetic soft-tissue abnormality unrelated  to infection, including quadriceps or patellar tendinopathy (quadriceps or patellar tendon  tears,  postoperative  arthrofibrosis,  patellar  clunk  syndrome,  or  impingement  of  nerves  or  other soft tissues). 
+
+06_18.txt
+	New  symptomatic  compression  fracture  identified  on  radiographs  or  CT.  No  known  malignancy. 
+	Osteoporotic compression fracture, with or without edema on MRI and no “red flags”. With  or without spinal deformity, worsening symptoms, or pulmonary dysfunction. 
+	Painful  osteoporotic  compression  fracture  with  edema  on  MRI.  Contraindication  to  vertebral  augmentation  or surgery  (eg,  fitness,  pregnancy,  infection,  coagulation  disorder,  etc). 
+	Known malignancy and new back pain. Compression fracture identified on radiographs or  CT. 
+	Asymptomatic pathologic spinal fracture with or without edema on MRI. 
+	Pathologic spinal fracture with severe and worsening pain. 
+	Pathologic spinal fracture with spinal deformity or pulmonary dysfunction. 
+	Pathologic spinal fracture with neurologic deficits. 
+
+06_19.txt
+	Osteonecrosis of the Hip  Adult or Child. Clinically suspected osteonecrosis. First study. 
+	Adult.  Clinically  suspected  osteonecrosis.  Normal  radiographs  or  radiographs  that  show  femoral head lucencies suspicious for osteonecrosis. 
+	Child. Clinically suspected osteonecrosis. Normal radiographs or radiographs suspicious for  osteonecrosis. 
+	Osteonecrosis of the Hip   Adult.  Osteonecrosis  with  femoral  head  collapse  by  radiographs  in  the  painful  hip(s).  Surgery contemplated. 
+	Child.  Osteonecrosis  with  femoral  head  collapse  by  radiographs  in  the  painful  hip(s).  Surgery contemplated. 
+	Osteonecrosis of the Hip   Adult  or  child.  Osteonecrosis  clinically  suspected.  Radiographs  normal  or  abnormal  but  MRI contraindicated. Further evaluation is needed. 
+
+06_20.txt
+	Asymptomatic BMD screening or individuals with established or clinically suspected low BMD.
+	Osteoporosis and Bone Mineral Density  In patients with T-scores less than −1.0 and one or more of the following:  a.  Women age ≥70 years or men age ≥80 years  b.  Historical height loss >4 cm (>1.5 inches)  c.  Self-reported but undocumented prior vertebral fracture  d.  Glucocorticoid therapy equivalent to ≥5 mg of prednisone or equivalent per day for ≥3 months 
+	Follow-up. Patients demonstrated to have risk for fracture or low density. 
+	Identify low BMD. Premenopausal females with risk factors. Males 20–50 years of age with risk factors.
+	Follow-up to low BMD. Premenopausal females with risk factors. Males 20–50 years of age  with risk factors. 
+	Osteoporosis and Bone Mineral Density  Diagnosis. Males and females >50 years of age with advanced degenerative changes of the  spine with or without scoliosis. 
+	Suspected  fracture  (nonscreening)  of  a  vertebral  body  based  on  acute  or  subacute  symptomatology  in  a  patient  with  suspected  osteoporosis  or  a  patient  treated  with  corticosteroids (>3 months). First examination. 
+	Suspected  fracture  (nonscreening)  of  a  vertebral  body  based  on  acute  or  subacute  symptomatology  in  a  patient  with  suspected  osteoporosis  or  a  patient  treated  with  corticosteroids (>3 months). Initial radiograph is negative. 
+	Osteoporosis and Bone Mineral Density  Patients  on  long-term  treatment  (3–5  years)  of  bisphosphonates  with  thigh  or  groin  pain.  First examination.  
+	Patients on long-term treatment (3–5 years) of bisphosphonates with thigh or groin pain and  negative radiographs. 
+
+06_21.txt
+	Suspect primary bone tumor. Initial imaging. 
+	Suspect  primary  bone  tumor.  Radiographs  negative  or  do  not  explain  symptoms.  Next  imaging study. 
+	Suspect  primary  bone  tumor.  Benign  radiographic  features.  Not  osteoid  osteoma.  Next  imaging study. 
+	Suspect primary bone tumor. Radiographs or clinical presentation suggest osteoid osteoma.  Next imaging study. 
+	Suspect  primary  bone  tumor.  Lesion  on  radiographs.  Indeterminate  or  aggressive  appearance for malignancy. Next imaging study. 
+	“Incidental” osseous lesion on MRI or CT scan for unrelated indication. Suspect primary  bone tumor. Not clearly benign. Next imaging study. 
+
+06_22.txt
+	Atraumatic shoulder pain. Initial imaging. 
+	Atraumatic  shoulder  pain.  Suspect  rotator  cuff  disorders  (tendinosis,  tear,  calcific  tendinitis). Initial radiographs normal or inconclusive. Next imaging study. 
+	Atraumatic shoulder pain. Suspect labral tear and instability. Initial radiographs normal or  inconclusive. Next imaging study. 
+	Atraumatic shoulder pain. Suspect bursitis. Initial radiographs normal or inconclusive. Next  imaging study. 
+	Atraumatic  shoulder  pain.  Suspect  adhesive  capsulitis.  Initial  radiographs  normal  or  inconclusive. Next imaging study. 
+	Atraumatic  shoulder  pain.  Suspect  biceps  tendinitis,  bursitis,  dislocation,  or  tear.  Initial  radiographs normal or inconclusive. Next imaging study. 
+	Pain  after  rotator  cuff  repair.  Initial  radiographs  normal  or  inconclusive.  Next  imaging  study. 
+	Atraumatic shoulder pain. Neurogenic pain (excluding plexopathy). Initial imaging. 
+
+06_23.txt
+	Traumatic shoulder pain. Any etiology. Initial imaging. 
+	Traumatic shoulder pain. Nonlocalized shoulder pain. Negative radiographs. Next imaging  study. 
+	Traumatic shoulder pain. Radiographs show humeral head or neck fracture. Next imaging  study. 
+	Traumatic shoulder pain. Radiographs show scapula fracture. Next imaging study. 
+	Traumatic  shoulder  pain.  Radiographs  show  Bankart  or  Hill-Sachs  lesion.  Next  imaging  study. 
+	Traumatic shoulder pain. Radiographs normal. Physical examination and history consistent  with dislocation event or instability. Next imaging study. 
+	Traumatic  shoulder  pain.  Radiographs  normal.  Physical  examination  findings  consistent  with labral tear. Next imaging study. 
+	Traumatic  shoulder  pain.  Radiographs  normal.  Physical  examination  findings  consistent  with rotator cuff tear. Next imaging study.  
+	Traumatic shoulder pain. Radiographs already performed. Physical examination consistent  with vascular compromise. Next imaging study. 
+	Traumatic  shoulder  pain.  Radiographs  already  performed.  Neuropathic  syndrome  (excluding plexopathy). Next imaging study. 
+
+06_24.txt
+	Soft-tissue mass. Superficial or palpable. Initial imaging study. 
+	Soft-tissue  mass.  Nonsuperficial  (deep)  or  nonspecific  clinical  assessment  or  located  in  an  area  difficult  to  adequately  evaluate  with  radiographs  (flank,  paraspinal  region,  groin,  or  deep soft tissues of the hands and feet). Initial imaging study. 
+	Soft-tissue  mass.  Nondiagnostic  initial  evaluation  (ultrasound  and/or  radiograph).  Next  imaging study. 
+	Soft-tissue mass. Nondiagnostic initial evaluation. Presenting with spontaneous hemorrhage  or suspicion of vascular mass. Next imaging study. 
+	Soft-tissue  mass.  Nondiagnostic  initial  evaluation.  Patient  non–MRI  compatible  or  with  metal limiting MR evaluation. Next imaging study. 
+
+06_25.txt
+	Suspected stress (fatigue) fracture, excluding vertebrae. First imaging study. 
+	Suspected stress (fatigue) fracture, hip. Negative radiographs. Next imaging study. 
+	Suspected stress (fatigue) fracture, excluding hip and vertebrae. Negative radiographs. Next  imaging study. 
+	Suspected stress (fatigue) fracture, excluding vertebrae. Negative radiographs. Immediate  “need-to-know” diagnosis. Next imaging study. 
+	Confirmed  stress  (fatigue)  fracture,  excluding  vertebrae.  Follow-up  imaging  study  for  “return-to-play” evaluation. 
+	Suspected stress (insufficiency) fracture, pelvis or hip. First imaging study. 
+	Suspected stress (insufficiency) fracture, pelvis or hip. Negative radiographs. Next imaging  study. 
+	Suspected stress (insufficiency) fracture of lower extremity, excluding pelvis and hip. First  imaging study. 
+	Suspected  stress  (insufficiency)  fracture  of  lower  extremity,  excluding  pelvis  and  hip.  Negative radiographs. Next imaging study. 
+	Follow-up imaging study for characterizing nonspecific focal uptake on Tc-99m MDP bone  scintigraphy, suspected to be a stress fracture. 
+	Suspect stress (fatigue or insufficiency) fracture, pelvis or hip or sacrum. Pregnant patient. 
+	Suspect stress (fatigue or insufficiency) fracture of the long bones. Pregnant patient.  
+
+06_26.txt
+	Suspected osteomyelitis of the foot in patients with diabetes mellitus. Initial imaging. 
+	Soft-tissue swelling without ulcer. Suspected osteomyelitis or early neuropathic arthropathy  changes  of  the  foot  in  patients  with  diabetes  mellitus.  Additional  imaging  following  radiographs. 
+	Soft-tissue swelling with ulcer. Suspected osteomyelitis of the foot in patients with diabetes  mellitus  with  or  without  neuropathic  arthropathy.  Additional  following  radiographs. 
+
+06_27.txt
+	Suspected Osteomyelitis, Septic Arthritis, or Soft Tissue Infection (Excluding Spine and  Diabetic Foot)  Suspected osteomyelitis, septic arthritis, or soft-tissue infection (excluding spine and diabetic  foot). First study. 
+	Soft-tissue  or  juxta-articular  swelling.  Suspected  soft-tissue  infection.  Additional  imaging  following radiographs. 
+	Suspected  Osteomyelitis,  Septic  Arthritis,  or  Soft  Tissue  Infection  (Excluding  Spine  and  Diabetic Foot)  Soft-tissue or juxta-articular swelling with a history of puncture wound. Suspected foreign  body. Negative radiographs. 
+	Suspected  Osteomyelitis,  Septic  Arthritis,  or  Soft  Tissue  Infection  (Excluding  Spine  and  Diabetic Foot)  Soft-tissue or juxta-articular swelling with cellulitis and a skin lesion, injury, wound, ulcer,  or blister. Suspected osteomyelitis. Additional imaging following radiographs.  
+	Suspected  Osteomyelitis,  Septic  Arthritis,  or  Soft  Tissue  Infection  (Excluding  Spine  and  Diabetic Foot)  Soft-tissue  or  juxta-articular  swelling  with  a  history  of  prior  surgery.  Suspected  osteomyelitis or septic arthritis. Additional imaging following radiographs.  
+	Suspected  Osteomyelitis,  Septic  Arthritis,  or  Soft  Tissue  Infection  (Excluding  Spine  and  Diabetic Foot)  Pain  and  swelling  or  cellulitis  associated  with  site  of  previous  nonarthroplasty  hardware.  Suspected osteomyelitis or septic arthritis. Additional imaging following radiographs. 
+	Suspected  Osteomyelitis,  Septic  Arthritis,  or  Soft  Tissue  Infection  (Excluding  Spine  and  Diabetic Foot)  Draining sinus (not associated with a joint prosthesis). Suspected osteomyelitis. Additional  imaging following radiographs. 
+	Clinical examination suggesting crepitus. Suspected soft-tissue gas. First study. 
+	Suspected  Osteomyelitis,  Septic  Arthritis,  or  Soft  Tissue  Infection  (Excluding  Spine  and  Diabetic Foot)  Initial radiographs showing soft-tissue gas in absence of puncture wound. 
+
+06_28.txt
+	Age greater than or equal to 16 years and less than 65 years. Suspected acute blunt cervical  spine trauma; imaging not indicated by NEXUS or CCR clinical criteria. Patient meets low- risk criteria. Initial imaging. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Imaging  indicated by NEXUS or CCR clinical criteria. Initial imaging. 
+	Age  greater  than  or  equal  to  16  years.  Suspected  acute  cervical  spine  blunt  trauma.  Confirmed or suspected cervical spinal cord or nerve root injury, with or without traumatic  injury identified on cervical CT. Next imaging study. 
+	Age greater than or equal to 16 years. Acute cervical spine injury detected on radiographs.  Treatment planning for mechanically unstable spine. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Clinical  or imaging findings suggest arterial injury with or without positive cervical spine CT. Next  imaging study. 
+	Age  greater  than  or  equal  to  16  years.  Suspected  acute  cervical  spine  blunt  trauma.  Obtunded patient  with  no  traumatic  injury  identified on  cervical  spine  CT.  Next imaging  study after CT cervical spine without IV contrast. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Clinical  or imaging findings suggest ligamentous injury. Next imaging study after CT cervical spine  without IV contrast. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Follow- up imaging on patient with no unstable injury demonstrated initially, but kept in collar for  neck pain. No new neurologic symptoms. Includes whiplash associated disorders. 
+	Age  greater  than  or  equal  to  16  years.  Blunt  trauma  meeting  criteria  for  thoracic  and  lumbar imaging. Initial imaging. 
+	Age greater than or equal to 16 years. Acute thoracic or lumbar spine injury detected on  radiographs or noncontrast CT. Neurologic abnormalities. Next imaging study. 
+
+07_01.txt
+	Acute mental status change. Increased risk for intracranial bleeding (ie, anticoagulant use,  coagulopathy),  hypertensive  emergency,  or  clinical  suspicion  for  intracranial  infection,  mass, or elevated intracranial pressure. Initial imaging. 
+	Acute or progressively worsening mental status change in patient with a known intracranial  process  (mass,  recent  hemorrhage,  recent  infarct,  central  nervous  system  infection,  etc).  Initial imaging. 
+	Acute mental status change. Suspected cause(s) found on initial clinical or lab assessment  (intoxication,  medication-related,  hypoglycemia,  sepsis,  etc).  Low  clinical  suspicion  for  trauma, intracranial hemorrhage, stroke, mass, or intracranial infection. Initial imaging. 
+	Persistent or worsening mental status change despite clinical management of the suspected  underlying  cause  (intoxication,  medication-related,  hypoglycemia,  sepsis,  etc)  or  acute  change in mental status of unknown cause. Initial imaging. 
+	New onset delirium. Initial imaging. 
+	New onset psychosis. Initial imaging. 
+
+07_02.txt
+	Acute ataxia following recent head trauma. Initial imaging. 
+	Acute ataxia following recent spine trauma. Initial imaging. 
+	Ataxia.  No  history  of  trauma.  Suspected  intracranial  process.  Stroke  intervention  not  a  consideration. Initial imaging. 
+	Ataxia  of  any  acuity.  No  history  of  trauma.  Suspected  spinal  or  spinal  vascular  process.  Initial imaging. 
+
+07_03.txt
+	Asymptomatic. Structural lesion on physical examination (cervical bruit) and/or risk factors. 
+	Carotid territory or vertebrobasilar TIA, initial screening survey. 
+	New focal neurologic defect, fixed or worsening. Less than 6 hours. Suspected stroke. 
+	New focal neurologic defect, fixed or worsening. Longer than 6 hours. Suspected stroke. 
+	Risk  of  unruptured  aneurysm,  including  patients  with  polycystic  kidney  disease,  patients  who have at least two first-degree relatives with history of subarachnoid hemorrhage (SAH),  and those with previously ruptured and treated aneurysms. 
+	Clinically suspected acute SAH, not yet confirmed. 
+	Proven SAH by lumbar puncture or imaging. 
+	Proven SAH, negative angiogram, follow-up. 
+	Asymptomatic or no new symptoms. Follow-up imaging of previously treated cerebral  aneurysms. 
+	Asymptomatic or no new symptoms. Follow-up imaging of untreated cerebral aneurysms. 
+	Evaluation for cerebral vasospasm after aneurysmal SAH. 
+	Clinically suspected parenchymal hemorrhage (hematoma), not yet confirmed. 
+	Proven parenchymal hemorrhage (hematoma). 
+	Evaluation of high-flow vascular malformations. 
+	Suspected dural venous sinus thrombosis. 
+	Central nervous system vasculitis. 
+
+07_04.txt
+	New or increasing nontraumatic cervical or neck pain. No “red flags.” Initial imaging. 
+	New or increasing nontraumatic cervical radiculopathy. No “red flags.” Initial imaging. 
+	Prior  cervical  spine  surgery.  New  or  increasing  nontraumatic  cervical  or  neck  pain  or  radiculopathy. Initial imaging. 
+	Suspicion  for  infection  with  new  or  increasing  nontraumatic  cervical  or  neck  pain  or  radiculopathy. Initial imaging. 
+	Known malignancy. New or increasing nontraumatic cervical or neck pain or radiculopathy.  Initial imaging. 
+	Cervicogenic  headache  and  new  or  increasing  nontraumatic  cervical  or  neck  pain.  No  neurologic deficit. Initial imaging. 
+	Chronic cervical or neck pain. Initial imaging. 
+	Chronic  cervical  or  neck  pain.  No  neurologic  findings.  Radiographs  show  degenerative  changes. Next imaging study. 
+	Chronic cervical or neck pain without or with radiculopathy. Radiographs show ossification  in the posterior longitudinal ligament (OPLL). Next imaging study. 
+
+07_05.txt
+	Anosmia and abnormalities of the sense of smell. (Olfactory nerve, CN I.) 
+	Weakness  or  paralysis  of  the  mastication  muscles.  Sensory  abnormalities  of  the  head  and  neck. Trigeminal neuralgia. (Trigeminal nerve, CN V.) 
+	Weakness or paralysis of facial expression. Hemifacial spasm. Bell palsy. (Facial nerve, CN  VII.) 
+	Palate weakness. Oropharyngeal pain. (Glossopharyngeal nerve, CN IX.) 
+	Vocal cord paralysis. (Vagal nerve, CN X.) 
+	Weakness or paralysis of the sternocleidomastoid and trapezius muscles. (Accessory nerve,  CN XI.) 
+	Weakness or paralysis of the tongue. (Hypoglossal nerve, CN XII.) 
+	Perineural spread of tumor. (Most commonly trigeminal nerve [CN V], facial nerve [CN  VII].) 
+
+07_06.txt
+	Cognitive decline. Suspected Alzheimer disease. Initial imaging. 
+	Suspected frontotemporal dementia. Initial imaging. 
+	Suspected dementia with Lewy bodies. Initial imaging. 
+	Suspected vascular dementia. Initial imaging. 
+	Suspected idiopathic normal-pressure hydrocephalus. Initial imaging. 
+
+07_07.txt
+	Head Trauma  Minor or mild acute closed head injury (GCS ≥13), imaging not indicated by NOC or CCHR  or NEXUS-II clinical criteria (see Appendix 1). Initial study. 
+	Head Trauma  Minor or mild acute closed head injury (GCS ≥13), imaging indicated by NOC or CCHR or  NEXUS-II clinical criteria (see Appendix 1). Initial study. 
+	Head Trauma  Moderate or severe acute closed head injury (GCS <13). Initial study. 
+	Head Trauma  Short-term follow-up imaging of acute traumatic brain injury. No neurologic deterioration.   Comments   This procedure can be used in patients  with risk factors (see narrative).       
+	Head Trauma  Short-term  follow-up  imaging  of  acute  traumatic  brain  injury.  Neurologic  deterioration,  delayed recovery, or persistent unexplained deficits. 
+	Head Trauma  Subacute or chronic traumatic brain injury with new cognitive and/or neurologic deficit(s). 
+	Head Trauma  Suspected intracranial arterial injury. 
+	Head Trauma  Suspected intracranial venous injury.  
+	Head Trauma  Suspected post-traumatic cerebrospinal fluid (CSF) leak. 
+
+07_08.txt
+	Sudden, severe headache or “worst headache of life.” Initial imaging. 
+	New headache with optic disc edema. Initial imaging. 
+	New  or  progressively  worsening  headache  with  one  or  more  of  the  following  ‘red  flags’:  subacute  head  trauma,  related  activity  or  event  (sexual  activity,  exertion,  position),  neurological  or  immunocompromised state, currently pregnant, or 50 years of age or older. Initial imaging. 
+	New  headache.  Classic  migraine  or  tension-type  primary  headache.  Normal  neurologic  examination. Initial imaging. 
+	New primary headache of suspected trigeminal autonomic origin. Initial imaging. 
+	Chronic headache. No new features. No neurologic deficit. Initial imaging. 
+	Chronic headache. New features or increasing frequency. Initial Imaging. 
+
+07_09.txt
+	Acquired  conductive  hearing  loss  in  absence  of  clinically  evident  mass  in  the  middle  ear.  Initial imaging. 
+	Acquired  conductive  hearing  loss  secondary  to  cholesteatoma  or  neoplasm  with  suspected  intracranial or inner ear extension. Surgical planning. 
+	Acquired sensorineural hearing loss. Initial imaging. 
+	Mixed conductive and sensorineural hearing loss. Initial imaging. 
+	Congenital hearing loss or total deafness or cochlear implant candidate. Surgical planning. 
+	Episodic  vertigo  with  or  without  associated  hearing  loss  or  aural  fullness  (peripheral  vertigo). Initial imaging. 
+	Persistent vertigo with or without neurological symptoms (central vertigo). Initial imaging. 
+
+07_10.txt
+	Low Back Pain  Acute, subacute, or chronic uncomplicated low back pain or radiculopathy. No red flags. No  prior management. 
+	Low Back Pain   Acute, subacute, or chronic uncomplicated low back pain or radiculopathy. One or more of  the following: low velocity trauma, osteoporosis, elderly individual, or chronic steroid use. 
+	Low Back Pain  Acute, subacute, or chronic low back pain or radiculopathy. One or more of the following:  suspicion of cancer, infection, or immunosuppression. 
+	Low Back Pain  Acute,  subacute,  or  chronic  low  back  pain  or  radiculopathy.  Surgery  or  intervention  candidate  with  persistent  or  progressive  symptoms  during  or  following  6  weeks  of  conservative management. 
+	Low Back Pain  Low  back  pain  or  radiculopathy.  New  or  progressing  symptoms  or  clinical  findings  with  history of prior lumbar surgery. 
+	Low  back  pain  with  suspected  cauda  equina  syndrome  or  rapidly  progressive  neurologic  deficit. 
+
+07_11.txt
+	New  symptomatic  compression  fracture  identified  on  radiographs  or  CT.  No  known  malignancy. 
+	Osteoporotic compression fracture, with or without edema on MRI and no “red flags”. With  or without spinal deformity, worsening symptoms, or pulmonary dysfunction. 
+	Painful  osteoporotic  compression  fracture  with  edema  on  MRI.  Contraindication  to  vertebral  augmentation  or surgery  (eg,  fitness,  pregnancy,  infection,  coagulation  disorder,  etc). 
+	Known malignancy and new back pain. Compression fracture identified on radiographs or  CT. 
+	Asymptomatic pathologic spinal fracture with or without edema on MRI. 
+	Pathologic spinal fracture with severe and worsening pain. 
+	Pathologic spinal fracture with spinal deformity or pulmonary dysfunction. 
+	Pathologic spinal fracture with neurologic deficits. 
+
+07_12.txt
+	Rapidly progressive dementia; suspected Creutzfeldt-Jakob disease. Initial imaging. 
+	Chorea; suspected Huntington disease. Initial imaging. 
+	Parkinsonian syndromes. Initial imaging. 
+	Suspected neurodegeneration with brain iron accumulation. Initial imaging. 
+	Suspected motor neuron disease. Initial imaging. 
+
+07_13.txt
+	Myelopathy  Traumatic.
+	Myelopathy  Painful.
+	Myelopathy  Sudden onset or slowly progressive. 
+
+07_14.txt
+	Nonpulsatile neck mass(es). Not parotid region or thyroid. Initial imaging. 
+	Pulsatile neck mass(es). Not parotid region or thyroid. Initial imaging. 
+	Parotid region mass(es). Initial imaging. 
+	Child. Neck mass(es). Not parotid region or thyroid. Initial imaging. 
+
+07_15.txt
+	Adult.  Suspected  or  known  hypofunctioning  pituitary  gland  (hypopituitarism,  growth  hormone  deficiency,  growth  deceleration,  panhypopituitarism,  hypogonadotropic  hypogonadism). Initial imaging. 
+	Adult.  Suspected  or  known  hyperfunctioning  pituitary  adenoma  (hyperthyroidism  [high  thyroid-stimulating  hormone],  Cushing  syndrome  [high  adrenal  corticotrophic  hormone],  hyperprolactinemia, acromegaly, or gigantism). Initial imaging.  
+	Adult. Diabetes insipidus. Initial imaging. 
+	Adult. Pituitary apoplexy. Initial imaging. 
+	Adult. Surveillance postpituitary or sellar mass resection. 
+	Child, males younger than 9 years of age; females younger than 8 years of age. Precocious  puberty. Initial imaging. 
+
+07_16.txt
+	Traumatic visual defect. Suspect orbital injury. Initial imaging. 
+	Nontraumatic orbital asymmetry, exophthalmos, or enophthalmos. Initial imaging. 
+	Suspected orbital cellulitis, uveitis, or scleritis. Initial imaging. 
+	Suspected optic neuritis. Initial imaging. 
+	Visual loss. Etiology identified on ophthalmologic examination or laboratory tests. 
+	Visual loss. Intraocular mass, optic nerve, or pre-chiasm symptoms. Initial imaging. 
+	Nonischemic visual loss. Chiasm or post-chiasm symptoms. Initial imaging. 
+	Ophthalmoplegia or diplopia. Initial imaging. 
+
+07_17.txt
+	Penetrating neck injury. Clinical soft injury signs. 
+	Penetrating neck injury. Normal or equivocal CTA. Concern for vascular injury. 
+	Penetrating neck injury. Normal or equivocal CTA. Concern for aerodigestive injury. 
+
+07_18.txt
+	Brachial plexopathy, acute or chronic, nontraumatic. No known malignancy. 
+	Lumbosacral plexopathy, acute or chronic, nontraumatic. No known malignancy. 
+	Brachial plexopathy, traumatic (not perinatal). 
+	Lumbosacral plexopathy, traumatic.
+	Brachial plexopathy, known malignancy or post-treatment syndrome. 
+	Lumbosacral plexopathy, known malignancy or post-treatment syndrome. 
+
+07_19.txt
+	Seizures and Epilepsy  Medically refractory epilepsy. Surgical candidate or surgical planning. 
+	New-onset seizure. Unrelated to trauma. Alcohol or drug related. 
+	Seizures and Epilepsy  New-onset seizure. Unrelated to trauma. Age 18–40. 
+	New-onset seizure. Unrelated to trauma. Older than age 40. 
+	Seizures and Epilepsy  New-onset seizure. Unrelated to trauma. Focal neurological deficit. 
+	New-onset seizure. Post-traumatic, acute. 
+	Seizures and Epilepsy   New-onset seizure. Post-traumatic. Subacute or chronic.   Comments   Consider this procedure if intravenous  contrast is contraindicated.         
+
+07_20.txt
+	Acute (<4 weeks) uncomplicated rhinosinusitis. 
+	Possible surgical candidate. Recurrent acute rhinosinusitis, chronic rhinosinusitis, sinonasal  polyposis, or noninvasive fungal sinusitis. 
+	Acute rhinosinusitis. Suspected orbital or intracranial complication. 
+	Sinonasal obstruction. Suspected mass. 
+	Suspected invasive fungal sinusitis. 
+
+07_21.txt
+	Age greater than or equal to 16 years and less than 65 years. Suspected acute blunt cervical  spine trauma; imaging not indicated by NEXUS or CCR clinical criteria. Patient meets low- risk criteria. Initial imaging. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Imaging  indicated by NEXUS or CCR clinical criteria. Initial imaging. 
+	Age  greater  than  or  equal  to  16  years.  Suspected  acute  cervical  spine  blunt  trauma.  Confirmed or suspected cervical spinal cord or nerve root injury, with or without traumatic  injury identified on cervical CT. Next imaging study. 
+	Age greater than or equal to 16 years. Acute cervical spine injury detected on radiographs.  Treatment planning for mechanically unstable spine. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Clinical  or imaging findings suggest arterial injury with or without positive cervical spine CT. Next  imaging study. 
+	Age  greater  than  or  equal  to  16  years.  Suspected  acute  cervical  spine  blunt  trauma.  Obtunded patient  with  no  traumatic  injury  identified on  cervical  spine  CT.  Next imaging  study after CT cervical spine without IV contrast. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Clinical  or imaging findings suggest ligamentous injury. Next imaging study after CT cervical spine  without IV contrast. 
+	Age greater than or equal to 16 years. Suspected acute cervical spine blunt trauma. Follow- up imaging on patient with no unstable injury demonstrated initially, but kept in collar for  neck pain. No new neurologic symptoms. Includes whiplash associated disorders. 
+	Age  greater  than  or  equal  to  16  years.  Blunt  trauma  meeting  criteria  for  thoracic  and  lumbar imaging. Initial imaging. 
+	Age greater than or equal to 16 years. Acute thoracic or lumbar spine injury detected on  radiographs or noncontrast CT. Neurologic abnormalities. Next imaging study. 
+
+07_22.txt
+	Neurogenic thoracic outlet syndrome. Initial imaging and follow-up imaging after surgery or  intervention. 
+	Venous  thoracic  outlet  syndrome.  Initial  imaging  and  follow-up  imaging  after  surgery  or  intervention. 
+	Arterial  thoracic  outlet  syndrome.  Initial  imaging and  follow-up  imaging after surgery  or  intervention. 
+
+07_23.txt
+	Palpable thyroid nodule. Not goiter. Euthyroid. Initial imaging. 
+	Suspected goiter. Initial imaging. 
+	Thyrotoxicosis. Initial imaging. 
+	Primary hypothyroidism. Initial imaging. 
+	Preoperative evaluation of differentiated thyroid cancer. 
+	Early imaging after treatment of differentiated thyroid cancer. 
+	Suspected recurrence of differentiated thyroid cancer. 
+	Suspected recurrence of medullary thyroid cancers. 
+
+07_24.txt
+	Subjective or objective pulsatile tinnitus (no myoclonus or Eustachean tube dysfunction). 
+	Asymmetric  or  unilateral,  subjective,  nonpulsatile  tinnitus  (no  otoscopic  finding;  no  asymmetric hearing loss, neurologic deficit, or trauma). 
+	Symmetric or bilateral, subjective, nonpulsatile tinnitus (no hearing loss, neurologic deficit,  or trauma). 
+
+08_01.txt
+	Child  up  to  age  5.  Acute  limp.  Nonlocalized  symptoms.  No  concern  for  infection.  Initial  imaging. 
+	Child up to age 5. Acute limp. Pain. Localized symptoms. No concern for infection. Initial  imaging. 
+	Child  up  to  age  5.  Acute  limp.  Nonlocalized  symptoms.  Concern  for  infection.  Initial  imaging. 
+	Child up to age 5. Acute limp. Symptoms localized to the hip. Concern for infection. Initial  imaging. 
+	Child up to age 5. Acute limp. Symptoms localized to lower extremity (not pelvis or hips).  Concern for infection. Initial imaging. 
+
+08_02.txt
+	Child.  Back  pain  with  none  of  the  following  clinical  red  flags:  constant  pain,  night  pain,  radicular  pain,  pain  lasting  >4  weeks,  abnormal  neurologic  examination.  Initial  imaging  evaluation. 
+	Child. Back pain with 1 or more of the following clinical red flags: constant pain, night pain, radicular pain, pain lasting >4 weeks, abnormal neurologic examination. Initial imaging evaluation.
+	Child. Back pain with 1 or more of the following clinical red flags: constant pain, night pain,  radicular  pain,  pain  lasting  >4  weeks,  abnormal  neurologic  examination.  Negative  radiographs. 
+	Child. Back pain with 1 or more of the following clinical red flags: constant pain, night pain,  radicular  pain,  pain  lasting  >4  weeks,  abnormal  neurologic  examination.  Positive  radiographs. 
+	Child. Chronic back pain associated with overuse. Mechanical back pain. 
+	Child. Back pain associated with suspected inflammation, infection, or malignancy. 
+
+08_03.txt
+	Child, younger than 4 weeks of age. Equivocal physical examination or risk factors for DDH.  Initial imaging. 
+	Child, between 4 weeks to 4 months of age. Equivocal physical examination or risk factors for DDH. Initial imaging.
+	Child, younger than 4 months of age. Physical findings of DDH. Initial imaging. 
+	Child, between 4 to 6 months of age. Concern for DDH. Initial imaging. 
+	Child, older than 6 months of age. Concern for DDH. Initial imaging. 
+	Child, younger than 6 months of age. Known diagnosis of DDH, nonoperative surveillance  imaging in harness. 
+
+08_04.txt
+	Fever Without Source or Unknown Origin—Child  Neonate younger than 1 month of age with fever without source (FWS) and no respiratory  symptoms. 
+	Neonate younger than 1 month of age with FWS and respiratory symptoms. 
+	Infant  or  child  aged  1  to  36  months  with  FWS  with  low  risk  for  occult  pneumonia  (no  respiratory signs or symptoms, fever <39°C, leukocytosis <20,000/mm3). 
+	Infant or child aged 1 to 36 months with FWS with any of the following: respiratory signs or  symptoms, fever ≥39°C, or white blood cell count ≥20,000/mm3. 
+	Fever Without Source or Unknown Origin—Child  Child with FWS and neutropenia. 
+	Fever Without Source or Unknown Origin—Child   Infant or child more than 1 month of age with fever of unknown origin (FUO). 
+
+08_05.txt
+	Child.  Minor  acute  head  trauma.  Very  low  risk  for  clinically  important  brain  injury  per  PECARN criteria. Excluding suspected abusive head trauma. Initial imaging. 
+	Child.  Minor  acute  blunt  head  trauma.  Intermediate  risk  for  clinically  important  brain  injury per PECARN criteria. Excluding suspected abusive head trauma. Initial imaging. 
+	Child. Minor acute blunt head trauma. High risk for clinically important brain injury per  PECARN criteria. Excluding suspected abusive head trauma. Initial imaging. 
+	Child.  Moderate  or  severe  acute  blunt  head  trauma  (GCS  less  than  or  equal  to  13).  Excluding suspected abusive head trauma. Initial imaging. 
+	Child. Subacute blunt head trauma with cognitive or neurologic signs. 
+	Child. Chronic blunt head trauma with new or progressive cognitive or neurologic deficits.  Excluding suspected abusive head trauma and post-traumatic seizure. 
+
+08_06.txt
+	Child. Primary headache. Initial imaging. 
+	Child. Secondary headache. Initial imaging. 
+	Child. Sudden severe headache (thunderclap headache). Initial imaging. 
+	Child. Headache attributed to infection. Initial imaging. 
+	Child. Headache attributed to remote trauma. Initial imaging. 
+
+08_07.txt
+	Child. Isolated microscopic hematuria (nonpainful, nontraumatic) without proteinuria.  Initial imaging. 
+	Child. Isolated microscopic hematuria (nonpainful, nontraumatic) with proteinuria. Initial  imaging. 
+	Child. Isolated macroscopic hematuria (nonpainful, nontraumatic). Initial imaging. 
+	Child. Painful hematuria (nontraumatic). Suspected urolithiasis. Initial imaging. 
+	Child. Traumatic hematuria (macroscopic). Initial imaging. 
+	Child. Traumatic hematuria (microscopic). Initial imaging. 
+
+08_08.txt
+	Child. 3 months of age and older. Immunocompetent. Suspected uncomplicated community- acquired pneumonia in a well-appearing child who does not require hospitalization. Initial  imaging. 
+	Child. 3 months of age and older. Immunocompetent. Community-acquired pneumonia that  does  not  respond  to  initial  outpatient  treatment  or  requires  hospital  admission.  Initial  imaging. 
+	Child.  3  months  of  age  and  older.  Immunocompetent.  Suspected  hospital-acquired  pneumonia. Initial imaging. 
+	Child.  Immunocompetent.  Pneumonia  complicated  by  suspected  moderate  or  large  parapneumonic effusion by chest radiograph. Next imaging study. 
+	Child. Immunocompetent. Pneumonia  complicated  by  suspected bronchopleural  fistula by  chest radiograph. Next imaging study. 
+	Child.  Immunocompetent.  Pneumonia  complicated  by  suspected  lung  abscess  by  chest  radiograph. Next imaging study. 
+	Child. 3 months of age and older. Immunocompetent. Recurrent nonlocalized pneumonia by  chest radiograph. Next imaging study. 
+	Child. 3 months of age and older. Immunocompetent. Recurrent localized pneumonia by chest  radiograph. Next imaging study. 
+
+08_09.txt
+	Child. Congenital scoliosis. Initial imaging. 
+	Child (0 to 9 years of age). Early onset idiopathic scoliosis. Initial imaging. 
+	Adolescent  (10  to  18  years  of  age).  Adolescent  idiopathic  scoliosis.  No  risk  factors.  Initial  imaging. 
+	Adolescent  (10  to  18  years  of  age).  Adolescent  idiopathic  scoliosis.  Risk  factors.  Initial  imaging. 
+
+08_10.txt
+	Seizures — Child  Neonatal seizures.   US head   MRI head without IV contrast 
+	Simple febrile seizures. 
+	Seizures — Child  Complex febrile seizures. 
+	Post-traumatic seizures. 
+	Seizures — Child  Partial seizures. 
+	First generalized seizure (neurologically normal). 
+	Seizures — Child  Generalized seizures (neurologically abnormal). 
+	Intractable or refractory seizures. 
+
+08_11.txt
+	Child. Uncomplicated acute sinusitis. Initial imaging. 
+	Child.  Persistent  sinusitis  (worsening  course  or  severe  presentation,  or  not  responding  to  treatment),  or  recurrent  sinusitis,  or  chronic  sinusitis,  or  define  paranasal  sinus  anatomy  before functional endoscopic sinus surgery. Initial imaging. 
+	Child. Sinusitis with clinical concern of orbital or intracranial complications. Initial imaging. 
+	Child. Suspected invasive fungal sinusitis. Initial imaging. 
+
+08_12.txt
+	Child. Suspected acute appendicitis, low clinical risk. Initial imaging. 
+	Child. Suspected acute appendicitis, intermediate clinical risk. Initial imaging. 
+	Child. Suspected acute appendicitis, high clinical risk. Initial imaging. 
+	Child.  Suspected  acute  appendicitis,  equivocal  or  nondiagnostic  right  lower  quadrant  ultrasound. Next imaging study. 
+	Child.  Suspected  acute  appendicitis  with  clinical  suspicion  or  initial  imaging  suggestive  of  complication (eg, abscess, bowel obstruction). Next imaging study. 
+
+08_13.txt
+	Suspected  physical  abuse.  Child  ≤24  months  of  age.  Neurological  or  visceral  injuries  not  clinically suspected. Initial imaging evaluation. 
+	Suspected  physical  abuse.  Child  >24  months  of  age.  Neurological  or  visceral  injuries  not  clinically suspected. Initial imaging evaluation. 
+	Child with one or more of the following: neurologic signs or symptoms, apnea, complex skull  fracture,  other  fractures,  or  injuries  highly  suspicious  for  child  abuse.  Initial  imaging  evaluation. 
+	Child.  Suspected  physical  abuse.  Suspected  thoracic  or  abdominopelvic  injuries  (eg,  abdominal  skin  bruises,  distension,  tenderness,  or  elevated  liver  or  pancreatic  enzymes).  Initial imaging evaluation. 
+	Child ≤24 months of age. High suspicion for abuse. Negative initial skeletal survey. Follow- up imaging evaluation. 
+
+08_14.txt
+	Child, 3 to 16 years of age, acute cervical spine trauma, meets low risk criteria (based on  PECARN or NEXUS). Initial imaging. 
+	Child, 3 to 16 years of age, acute cervical spine trauma, at least one risk factor with reliable  clinical examination (based on PECARN or NEXUS). Initial imaging. 
+	Child,  younger  than  3  years  of  age,  acute  cervical  spine  trauma,  Pieretti-Vanmarcke  weighted score greater than or equal to 2 to 8 points. Initial imaging. 
+	Child, younger than 16 years of age, suspected thoracolumbar spine trauma. Initial imaging. 
+
+08_15.txt
+	Age <2 months, first febrile urinary tract infection. 
+	Age  >2  months  and  ≤6  years,  first  febrile  urinary  tract  infection  with  good  response  to  treatment. 
+	Age >6 years, first febrile urinary tract infection with good response to treatment. 
+	Child. Atypical (poor response to antibiotics within 48 hours, sepsis, poor urine stream,  raised creatinine, or non–E coli UTI) or recurrent febrile urinary tract infection. 
+
+08_16.txt
+	Vomiting in Infants Up to 3 Months of Age  Bilious vomiting in neonate up to 1 week old. 
+	Bilious vomiting in infant 1 week to 3 months old. 
+	Intermittent nonbilious vomiting since birth. 
+	Vomiting in Infants Up to 3 Months of Age  New onset nonbilious vomiting. 
+
+09_01.txt
+	Acute respiratory illness in immunocompetent patients with negative physical examination,  normal vital signs, and no other risk factors. Initial imaging. 
+	Acute respiratory illnesses in immunocompetent patients with positive physical examination,  abnormal vital signs, organic brain disease, or other risk factors. Initial imaging. 
+	Acute respiratory illness in immunocompetent patients with positive physical examination,  abnormal vital signs, organic brain disease, or other risk factors and negative or equivocal  initial chest radiograph. Next imaging study. 
+	Acute respiratory illnesses in immunocompetent patients with pneumonia complicated by  suspected parapneumonic effusion or abscess on initial chest radiograph. Next imaging  study. 
+	Acute  asthma  exacerbation  in  immunocompetent  patients,  uncomplicated  (no  suspicion  of  pneumonia or pneumothorax). Initial imaging. 
+	Acute  asthma  exacerbation  pneumonia or pneumothorax). Initial imaging. 
+	Acute  COPD  exacerbation  in  immunocompetent  patients,  uncomplicated  (no  chest  pain,  fever,  or  leukocytosis,  no  history  of  coronary  artery  disease,  or  heart  failure).  Initial  imaging. 
+	Acute  COPD  exacerbation  in  immunocompetent  patients  with  accompanying  chest  pain,  fever,  or  leukocytosis,  or  a  history  of  coronary  artery  disease,  or  heart  failure.  Initial  imaging. 
+
+09_02.txt
+	Acute respiratory illness in immunocompromised patients. Cough,  dyspnea, chest  pain, or  fever. Initial imaging. 
+	Acute respiratory illness in immunocompromised patients. Normal, equivocal, or nonspecific  chest radiograph. Next imaging study. 
+	Acute  respiratory  illness  in  immunocompromised  patients.  Abnormal  chest  radiograph,  multiple, diffuse, or confluent opacities. Next imaging study. 
+	Acute  respiratory  illness  in  immunocompromised  patients.  Abnormal  chest  radiograph,  noninfectious disease suspected. Next imaging study. 
+
+09_03.txt
+	Blunt Chest Trauma  First-line evaluation. High-energy mechanism. 
+	Normal  anteroposterior  (AP)  chest  radiograph,  normal  examination,  and  normal  mental  status. No high-energy mechanism. 
+	Blunt Chest Trauma  Clinically suspected cardiac injury after initial imaging and clinical evaluation. 
+
+09_04.txt
+	Chronic dyspnea. Unclear etiology. Initial imaging. 
+	Chronic dyspnea. Suspected chronic obstructive pulmonary disease (COPD). Initial imaging. 
+	Chronic dyspnea. Suspected central airways disease. Initial imaging. 
+	Chronic dyspnea. Suspected interstitial lung disease. Initial imaging. 
+	Chronic dyspnea. Suspected disease of the pleura or chest wall. Initial imaging. 
+	Chronic dyspnea. Suspected diaphragm dysfunction. Initial imaging. 
+
+09_05.txt
+	Massive (life-threatening) hemoptysis. Initial imaging. 
+	Nonmassive (non–life-threatening) hemoptysis. Initial imaging. 
+	Recurrent hemoptysis. Initial imaging. 
+
+09_06.txt
+	Suspect active tuberculosis. 
+	Newly  positive  PPD  or  IGRA  OR  positive  PPD  or  IGRA  with  unknown  prior  status.  No  clinical symptoms. 
+	PPD  not  available.  Placement  in  group  home  or  skilled  nursing  facility.  No  clinical  symptoms. 
+
+09_07.txt
+	Intensive Care Unit Patients  Admission or transfer to ICU. 
+	Stable patient. No change in clinical status. 
+	Patient with clinical worsening. 
+	Post-insertion of tube or catheter. 
+	Post-chest tube removal. 
+
+09_08.txt
+	Lung cancer screening. Patient 55 to 80 years of age and 30 or more packs per year smoking  history and currently smoke or have quit within the past 15 years. 
+	Lung  cancer  screening.  Patient  50  years  of  age  or  older  and  20  or  more  packs  per  year  history  of  smoking  and  one  additional  risk  factor  (ie,  radon  exposure  or  occupational  exposure or cancer history or family history of lung cancer or history of COPD or history of  pulmonary fibrosis). 
+	Lung cancer screening. Patient younger than 50 years of age or patient older than 80 years  of  age  or  patient  any  age  with  less  than  20  packs  per  year  history  of  smoking  and  no  additional  risk  factor  (ie,  radon  exposure  or  occupational  exposure  or  cancer  history  or  family history of lung cancer or history of COPD or history of pulmonary fibrosis). 
+
+09_09.txt
+	Noninvasive initial clinical staging of non–small-cell lung carcinoma. 
+	Noninvasive initial clinical staging of small-cell lung carcinoma. 
+
+09_10.txt
+	Occupational exposure, screening, and surveillance of lung disease. Initial imaging. 
+	Occupational exposure, suspected interstitial lung disease. Initial imaging. 
+	Occupational  exposure,  suspected  interstitial  lung  disease  based  on  radiography.  Next  imaging study. 
+	Occupational exposure, suspected airway disease. Initial imaging. 
+	Confirmed occupational lung disease, suspected thoracic neoplasm. 
+
+09_11.txt
+	Radiographically Detected Solitary Pulmonary Nodule  Solid nodule 1 cm, low clinical suspicion for cancer. 
+	Solid nodule 1 cm, moderate to high clinical suspicion for cancer. 
+	Radiographically Detected Solitary Pulmonary Nodule  Solid nodule <1 cm, low clinical suspicion for cancer. 
+	Solid nodule <1 cm, moderate to high clinical suspicion for cancer. 
+
+09_12.txt
+	Suspected rib fractures from minor blunt trauma (injury confined to ribs). Initial imaging. 
+	Suspected rib fractures after cardiopulmonary resuscitation (CPR). Initial imaging. 
+	Suspected pathologic rib fracture. Initial imaging. 
+
+09_13.txt
+	Routine Chest Radiography  No clinical concern on basis of history or physical examination. 
+	Suspicion  of  acute  or  potentially  unstable  chronic  cardiopulmonary  disease  by  history  or  physical examination. 
+	Increased  risk,  patient-  or  procedure-related  (ie,  advanced  age  [particularly  >70  years],  unreliable history and physical examination, high-risk surgery). 
+
+09_14.txt
+	Suspected pulmonary embolism. Intermediate probability with a negative D-dimer or low  pretest probability. 
+	Suspected pulmonary embolism. Intermediate probability with a positive D-dimer or high  pretest probability. 
+	Suspected pulmonary embolism. Pregnant patient. 
+
+09_15.txt
+	Suspected pulmonary hypertension. 
+
+09_16.txt
+	Neurogenic thoracic outlet syndrome. Initial imaging and follow-up imaging after surgery or  intervention. 
+	Venous  thoracic  outlet  syndrome.  Initial  imaging  and  follow-up  imaging  after  surgery  or  intervention. 
+	Arterial  thoracic  outlet  syndrome.  Initial  imaging and  follow-up  imaging after surgery  or  intervention. 
+
+10_01.txt
+	Acute Onset Flank Pain—Suspicion of Stone Disease (Urolithiasis)  Suspicion of stone disease.
+	Acute Onset Flank Pain—Suspicion of Stone Disease (Urolithiasis)  Recurrent symptoms of stone disease.
+	Acute Onset Flank Pain—Suspicion of Stone Disease (Urolithiasis)  Pregnant patient. 
+
+10_02.txt
+	Adult or child. Acute onset of scrotal pain. Without trauma, without antecedent mass. Initial  imaging. 
+
+10_03.txt
+	Acute  pyelonephritis.  Uncomplicated  patient  (eg,  no  history  of  diabetes  or  immune  compromise or history of stones or obstruction or prior renal surgery or lack of response to  therapy). Initial imaging. 
+	Acute pyelonephritis. Complicated patient (eg, diabetes or immunocompromised or history  of stones or prior renal surgery or not responding to therapy). Initial imaging. 
+
+10_04.txt
+	Man <40 years of age, transient or episodic hematospermia, and no other symptoms or signs  of disease. 
+	Man ≥40 years of age, or man of any age with persistent hematospermia, or hematospermia  accompanied by associated symptoms or signs of disease. 
+
+10_05.txt
+	Hematuria  Patients  with  vigorous  exercise,  presence  of  infection  or  viral  illness,  or  present  or  recent  menstruation. 
+
+10_06.txt
+	Incidentally Discovered Adrenal Mass  No history of malignancy; mass 1-4 cm in diameter. Initial evaluation. 
+	No history of malignancy; mass 1–4 cm in diameter. Follow-up evaluation for indeterminate  lesion on initial evaluation. 
+	Incidentally Discovered Adrenal Mass  No  history  of  malignancy;  mass  >4  cm  in  diameter.  (If  not  typical  for  adenoma,  myelolipoma, hemorrhage, or simple cyst, consider resection.) 
+	Incidentally Discovered Adrenal Mass  History of malignancy; mass <4 cm in diameter. Initial evaluation. 
+	History of malignancy; mass >4 cm in diameter.   Comments     Alternative to biopsy to diagnose  metastasis.   
+
+10_07.txt
+	Indeterminate Renal Mass  Patient with normal renal function. 
+	Patient with renal insufficiency (contraindication to intravenous contrast). 
+
+10_08.txt
+	Lower urinary tract symptoms. Suspicion of benign prostatic hyperplasia. Initial imaging. 
+
+10_09.txt
+	Penetrating  trauma,  lower  abdomen  and  pelvis.  Suspected  lower  urinary  tract  trauma.  Initial imaging. 
+
+10_10.txt
+	Follow-up for clinically localized renal cell cancer; post radical or partial nephrectomy. 
+	Follow-up for clinically localized renal cell cancer; post ablation. 
+	Follow-up for clinically localized renal cell cancer; active surveillance. 
+
+10_11.txt
+	Prostate cancer follow-up. Status post radical prostatectomy. Clinical concern for residual  or recurrent disease. 
+	Prostate  cancer  follow-up.  Clinical  concern  for  residual  or  recurrent  disease  after  nonsurgical local and pelvic treatments. 
+	Metastatic  prostate  cancer  treated  by  systemic  therapy  (androgen  deprivation  therapy  [ADT], chemotherapy, immunotherapy). Follow-up. 
+
+10_12.txt
+	Nonmuscle invasive bladder cancer (NMIBC), no symptoms or risk factors. Post-treatment  surveillance. 
+	Nonmuscle  invasive  bladder  cancer  (NMIBC),  with  symptoms  or  risk  factors.  Post- treatment surveillance. 
+	Muscle-invasive  bladder  cancer  (MIBC)  with  or  without  cystectomy.  Post-treatment  surveillance. 
+
+10_13.txt
+	Pretreatment staging of muscle-invasive bladder cancer. 
+
+10_14.txt
+	Clinically suspected prostate cancer, no prior biopsy (biopsy naïve). Detection. 
+	Clinically suspected prostate cancer, prior negative TRUS-guided biopsy. Detection. 
+	Clinically established low-risk prostate cancer. Active surveillance. 
+	Clinically established intermediate-risk prostate cancer. Staging and/or surveillance. 
+	Clinically established high-risk prostate cancer. Staging. 
+
+10_15.txt
+	Recurrent Lower Urinary Tract Infections in Women  “Uncomplicated” with no underlying risk factors.
+	Recurrent Lower Urinary Tract Infections in Women  “Complicated,”  or  patients  who  are  nonresponders  to  conventional  therapy,  get  frequent  reinfections or relapses, and have known underlying risk factors. (See Appendix 1.) 
+
+10_16.txt
+	Renal Cell Carcinoma Staging 
+
+10_17.txt
+	Renal Failure  Acute kidney injury (AKI), unspecified. 
+	Renal Failure  Chronic kidney disease (CKD). 
+
+10_18.txt
+	Renal transplant dysfunction. 
+
+10_19.txt
+	High index of suspicion of renovascular hypertension. Normal renal function.
+	High index of suspicion of renovascular hypertension. Decreased renal function, eGFR <30  mL/min/1.73 m2. 
+
+10_20.txt
+	Staging of Testicular Malignancy  Staging testis tumor. Diagnosed by orchiectomy. 
+
+11_01.txt
+	Asymptomatic abdominal aortic aneurysm surveillance (without repair). 
+
+11_02.txt
+	Planning for pre-endovascular repair (EVAR) or open repair of AAA. 
+	Follow-up for postendovascular repair (EVAR) or open repair of AAA. 
+
+11_03.txt
+	 Chylothorax treatment planning: traumatic etiology. 
+	 Chylothorax treatment planning: nontraumatic or unknown etiology. 
+
+11_04.txt
+	Clinically Suspected Pulmonary Arteriovenous Malformation (PAVM) 
+
+11_05.txt
+	Upper  or  lower  extremity.  Suspected  vascular  malformation  presenting  with  pain  or  findings  of  physical  deformity  including  soft-tissue  mass,  diffuse  or  focal  enlargement,  discoloration, or ulceration. Initial imaging. 
+	Upper or lower extremity. Vascular murmur (bruit or thrill). Initial imaging. 
+
+11_06.txt
+	Preintervention  planning  for  transcatheter  aortic  valve  replacement  at  the  aortic  valve  plane. 
+	Preintervention  planning  for  transcatheter  aortic  valve  replacement  in  the  supravalvular  aorta and iliofemoral system. 
+
+11_07.txt
+	Imaging  of  deep  inferior  epigastric  arteries  for  surgical  planning  (breast  reconstruction  surgery). 
+
+11_08.txt
+	Suspected acute mesenteric ischemia. Initial imaging. 
+	Suspected chronic mesenteric ischemia. Initial imaging. 
+
+11_09.txt
+	Previous infrainguinal endovascular therapy or bypass. Asymptomatic. Surveillance. 
+	Previous  infrainguinal  endovascular  therapy  or  bypass.  Claudication  or  CLI.  Initial  imaging. 
+	Previous  infrainguinal  endovascular  therapy  or  bypass,  presenting  with  cold,  painful  extremity and diminished pulses (acute limb ischemia). Initial imaging. 
+
+11_10.txt
+	Suspected popliteal entrapment syndrome. Initial imaging. 
+	Suspected external iliac artery endofibrosis. Initial imaging. 
+	Suspected or known lower-extremity inflammatory vasculitides. Initial imaging. 
+	Suspected or known dissection or connective tissue lower-extremity vascular diseases. Initial  imaging. 
+	Suspected  or  known  other  noninflammatory  lower-extremity  vascular  diseases  (such  as  fibromuscular dysplasia, segmental arterial mediolysis). Initial imaging. 
+	Lower-extremity vascular trauma. Initial imaging. 
+
+11_11.txt
+	Nontraumatic Aortic Disease 
+
+11_12.txt
+	Endoscopy reveals nonvariceal upper gastrointestinal arterial bleeding source. 
+	Endoscopy confirms nonvariceal upper gastrointestinal bleeding without a clear source. 
+	Nonvariceal upper gastrointestinal bleeding; negative endoscopy.  
+	Postsurgical and traumatic causes of nonvariceal upper gastrointestinal bleeding; endoscopy  contraindicated. 
+
+11_13.txt
+	Penetrating neck injury. Clinical soft injury signs. 
+	Penetrating neck injury. Normal or equivocal CTA. Concern for vascular injury. 
+	Penetrating neck injury. Normal or equivocal CTA. Concern for aerodigestive injury. 
+
+11_14.txt
+	Pulsatile abdominal mass, suspected abdominal aortic aneurysm. 
+
+11_15.txt
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Asymptomatic  bilateral  great  saphenous  venous  insufficiency  with  visible  varicose  veins.  Patient desires treatment for cosmesis. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Left small saphenous venous insufficiency resulting in intermittent pain and swelling without  skin discoloration or ulceration. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Left great saphenous venous insufficiency with associated lower leg skin ulceration. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Symptomatic bilateral great saphenous venous insufficiency and large visible varicose veins during pregnancy.
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Chronic left femoral venous thrombosis with left great saphenous venous insufficiency and  lower-extremity swelling. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Symptomatic  bilateral  great  saphenous  venous  insufficiency  with  remote  history  of  deep  venous thrombosis with no residual thrombus present. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Right  great  saphenous  venous  insufficiency  status  post  vein  stripping  1  year  ago  with  persistent  lower-extremity  swelling.  Reflux  is  noted  in  the  below-knee  greater  saphenous  vein measuring up to 5 mm. 
+
+11_16.txt
+	High index of suspicion of renovascular hypertension. Normal renal function.
+	High index of suspicion of renovascular hypertension. Decreased renal function, eGFR <30  mL/min/1.73 m2. 
+
+11_17.txt
+	Sudden onset of cold, painful leg. 
+
+11_18.txt
+	Suspected lower extremity deep vein thrombosis. Initial imaging. 
+
+11_19.txt
+	Suspected thoracic aortic aneurysm. Initial imaging. 
+
+11_20.txt
+	Suspected upper-extremity deep vein thrombosis. Initial imaging. 
+
+11_21.txt
+	Planning for pre-thoracic endovascular repair (TEVAR) of thoracic aorta disease. 
+	Follow-up for post-thoracic endovascular repair (TEVAR) of thoracic aortic disease. 
+
+11_22.txt
+	Neurogenic thoracic outlet syndrome. Initial imaging and follow-up imaging after surgery or  intervention. 
+	Venous  thoracic  outlet  syndrome.  Initial  imaging  and  follow-up  imaging  after  surgery  or  intervention. 
+	Arterial  thoracic  outlet  syndrome.  Initial  imaging and  follow-up  imaging after surgery  or  intervention. 
+
+11_23.txt
+	Vascular claudication–assessment for revascularization. 
+
+12_01.txt
+	Planning for pre-endovascular repair (EVAR) or open repair of AAA. 
+	Follow-up for postendovascular repair (EVAR) or open repair of AAA. 
+
+12_02.txt
+	 Chylothorax treatment planning: traumatic etiology. 
+	 Chylothorax treatment planning: nontraumatic or unknown etiology. 
+
+12_03.txt
+	New  symptomatic  compression  fracture  identified  on  radiographs  or  CT.  No  known  malignancy. 
+	Osteoporotic compression fracture, with or without edema on MRI and no “red flags”. With  or without spinal deformity, worsening symptoms, or pulmonary dysfunction. 
+	Painful  osteoporotic  compression  fracture  with  edema  on  MRI.  Contraindication  to  vertebral  augmentation  or surgery  (eg,  fitness,  pregnancy,  infection,  coagulation  disorder,  etc). 
+	Known malignancy and new back pain. Compression fracture identified on radiographs or  CT. 
+	Asymptomatic pathologic spinal fracture with or without edema on MRI. 
+	Pathologic spinal fracture with severe and worsening pain. 
+	Pathologic spinal fracture with spinal deformity or pulmonary dysfunction. 
+	Pathologic spinal fracture with neurologic deficits. 
+
+12_04.txt
+	Initial therapeutic procedure for a patient with dilated bile ducts from choledocholithiasis. 
+	Initial therapeutic procedure for a patient with elevated bilirubin and suspected sclerosing  cholangitis. 
+	Initial  therapeutic  procedure  for  a  liver  transplant  recipient  with  elevated  bilirubin  and  suspected biliary anastomotic stenosis or bile leak, with no dilated ducts. 
+	Initial  therapeutic  procedure  for  a  patient  with  bile  leak  and  dilated  bile  ducts  following  laparoscopic cholecystectomy. 
+	Initial therapeutic procedure for a patient with dilated bile ducts and suspected biliary sepsis  or acute cholangitis. 
+	Initial therapeutic procedure for a patient with malignant common bile duct obstruction (eg,  pancreatic carcinoma). 
+	Initial  therapeutic  procedure  for  a  patient  with  hilar  biliary  obstruction  from  malignant  etiology (eg, Klatskin tumor). 
+	Initial  therapeutic  procedure  for  a  patient  with  dilated  bile  ducts  and  coagulopathy  (INR  >2.0 or platelet count <60 K). 
+	Initial therapeutic procedure for a patient with dilated bile ducts and moderate to massive  ascites. 
+
+12_05.txt
+	Device  selection.  Adult  or  child  ≥13  years  of  age.  Intravenous  access  for  long-term  total  parenteral nutrition and intermittent intravenous antibiotics. 
+	Device  selection.  Adult  or  child  ≥13  years  of  age.  Sickle  cell  anemia  requires  intravenous  access for the treatment of recurrent sickle cell crisis. 
+	Device  selection.  Adult or  child  ≥13 years  of  age.  Stage  3  chronic  kidney  disease  requires  central venous access for 6 weeks of antibiotic treatment. 
+	Device  selection.  Adult  or  child  ≥13  years  of  age.  Intensive  care  unit  (ICU)  patient  with  sepsis and acute renal insufficiency requires intravenous access for approximately 7 to 10  days. 
+	Site selection. Adult or child ≥13 years of age. Head and neck surgery. Central venous access  required for adjuvant chemotherapy. 
+	Site selection. Adult or child ≥13 years of age. Sepsis in a patient with stage 4 chronic kidney  disease, requires 7 to 10 days of intravenous antibiotic therapy. 
+	Site selection. Adult or child ≥13 years of age. ICU patient with sepsis. The patient receives  hemodialysis via nontunneled catheter placed via the right internal jugular vein. Multilumen  central venous access required. 
+	Site  selection  for  permanent  hemodialysis  catheter.  Adult  or  child  ≥13  years  of  age.  End  stage renal disease has undergone creation of a left arm arteriovenous fistula. The fistula has  not yet matured. 
+	Immediate removal of the tunneled catheter, culture of the  catheter tip and placement of a nontunneled central venous  catheter via different site  Retain the catheter and commence empiric antibiotics once  peripheral and central blood cultures have been drawn  Catheter should be removed if positive blood cultures are  confirmed  Catheter salvage may be considered even after positive  blood cultures are acquired 
+	Thrombotic  complications.  Adult  or  child  ≥13  years  of  age.  Chest  port  placed  via  right  internal jugular vein is being used for chemotherapy. The infusion nurse can infuse saline  but is unable to aspirate blood from the catheter. 
+	Thrombotic complications. Adult or child ≥13 years of age. Permanent hemodialysis catheter  placed via the right internal jugular vein. Poor flows are documented at hemodialysis via  both lumens. 
+	Thrombotic  complications.  Adult  or  child  ≥13  years  of  age.  Arm  swelling  secondary  to  extensive  thrombus  surrounding  a  triple  lumen  PICC  placed  via  left  Basilic  vein.  The  catheter  is  being  used  for  long-term  parenteral  nutrition  and  intermittent  intravenous  antibiotics. The catheter is functioning. 
+	Infectious  complications.  Adult  or  child  ≥13  years  of  age.  Preventive  measures  to  reduce  catheter-related bloodstream infections when placing a nontunneled central venous catheter  in ICU patient. 
+	Infectious complications. Adult or child ≥13 years of age. Therapeutic measures to manage  catheter-related bloodstream infections. 
+
+12_06.txt
+	Cirrhotic patient with active bleeding from large high-flow gastric varices, significant portal  hypertension, and a MELD score of 14. CT demonstrates a large gastrorenal shunt. 
+	Cirrhotic patient with bleeding from large high-flow gastric varices with a MELD score of  20. CT demonstrates a large gastrorenal shunt. 
+	Cirrhotic patient bleeding from small, low-flow gastric varices and moderate ascites with a  MELD score of 18. MRI does not demonstrate a gastrorenal shunt. 
+	Cirrhotic patient bleeding from large, high-flow gastric varices with hepatic encephalopathy  and a MELD score of 18. MRI demonstrates a large gastrorenal shunt. 
+	Cirrhotic  patient  bleeding  from  esophageal  varices  and  gastric  varices  not  amenable  to  endoscopic  management  with  a  MELD  score  of  13  and  a  hepatic  wedge  pressure  of  22  mmHg. CT demonstrates a small gastrorenal shunt. 
+	Cirrhotic patient bleeding from large high-flow gastric varices with a MELD score of 12 and  a hepatic wedge pressure of 10 mmHg. MRI demonstrates a large gastrorenal shunt. 
+	Patient with gastric variceal bleeding, found to have chronic splenic vein occlusion on MRI. 
+	Patient with chronic intrahepatic and extrahepatic portal vein occlusion with cavernous  transformation on CT with gastric variceal bleeding. 
+
+12_07.txt
+	Radiologic Management of Hepatic Malignancy  Hepatocellular carcinoma: Solitary tumor <3 cm. 
+	Hepatocellular carcinoma: Solitary tumor 5 cm. 
+	Radiologic Management of Hepatic Malignancy  Hepatocellular carcinoma: More than 1 tumor, at least 1 of them >5 cm. 
+	Intrahepatic cholangiocarcinoma: 4 cm in diameter, no evidence of biliary obstruction. 
+	Radiologic Management of Hepatic Malignancy  Metastatic  liver  disease:  Multifocal  metastatic  neuroendocrine  tumor  (includes  carcinoid  tumors as well as islet cell tumors of the pancreas). 
+	Metastatic liver disease: Multifocal colorectal carcinoma (liver dominant or isolated). 
+	Radiologic Management of Hepatic Malignancy   Solitary colorectal liver metastasis. 
+
+12_08.txt
+	Nonsmoker,  sedentary  lifestyle.  No  symptoms  at  rest  but  mild  left  lower-extremity  claudication on walking, asymmetrically diminished left femoral pulse. Next steps on initial  physician visit. 
+	Long history of mild claudication. Acute-onset left lower-extremity pain. Absent left femoral  pulse on palpation, faint dorsalis pedis and posterior tibial pulses by Doppler. Next steps. 
+	Known atrial fibrillation and spine surgery 3 weeks ago. Sudden-onset right lower-extremity  pain. Diminished pulses in right lower extremity. CTA demonstrates isolated filling defect in  right common iliac artery. 
+	Past  medical  history  of  heavy  smoking.  Severe  claudication  and  no  symptoms  at  rest.  Angiogram demonstrates bilateral 90% common iliac artery stenosis (TASC A). 
+	Past medical history significant for diabetes mellitus, hypertension, and smoking. Increasing  claudication of right lower extremity involving right buttock for last 3 months. CTA pelvis  with runoff reveals short-segment occlusion of right common iliac artery (TASC B).  
+	Past  medical  history  significant  for  diabetes  mellitus,  hypertension,  and  heavy  smoking.  Gradually increasing claudication of bilateral lower extremities for at least 2 months. CTA  pelvis with runoff reveals bilateral common iliac artery occlusion without any involvement  of the external or internal iliac artery (TASC C).  
+	Worsening  claudication  and  small  ischemic  ulcers  on  digits  of  both  feet.  Angiogram  demonstrates  diffuse  disease  involving  distal  aorta  and  both  iliac  vessels,  with  multiple  stenoses  >50%,  bilateral  75%  mid–superficial  femoral  artery  stenosis,  and  2-vessel  tibial  runoff bilaterally (TASC D). 
+
+12_09.txt
+	Radiologic Management of Iliofemoral Venous Thrombosis  First episode of iliofemoral DVT. Symptoms present for <14 days, otherwise healthy. 
+	Iliofemoral  DVT  and  symptoms  ≤10  days.  Computed  tomography  scan  demonstrates  potential for May-Thurner syndrome. 
+	Iliofemoral DVT and limb-threatening ischemia (phlegmasia cerulea dolens). 
+	Iliofemoral DVT with minimal symptoms. DVT diagnosed one week ago. 
+
+12_10.txt
+	Patient with right lower quadrant abdominal pain, fever, and leukocytosis for 7 days. Physical  examination shows no peritoneal signs. CT scan shows a thin-walled fluid collection, greater  than 3 cm, adjacent to the cecum, nonvisualization of the appendix, and an appendicolith.  Imaging findings are highly suspicious for appendicitis. Treatment includes antibiotics. 
+	Patient with a history of left hemicolectomy 2 months ago for colon carcinoma. Two weeks  after placement of a drain into an abdominal abscess; the patient presents with abdominal  pain and fever. Drain output is 25 cc per day and the collection is unchanged in size by CT.  Treatment includes antibiotics. 
+	Patient who is an intravenous drug abuser presents with fever and tachycardia and on imaging  is found to have 2 noncommunicating splenic abscesses accessible percutaneously through a 1  cm rim of normal splenic tissue. Treatment includes antibiotics. 
+	Patient  with  abdominal  pain  radiating  to  the  back  5  weeks  after  hospitalization  for  acute  pancreatitis.  Afebrile.  CT  scan  shows  a  walled-off  collection  in  the  body  of  the  pancreas  indenting  a  broad  portion  of  the  body  of  the  stomach,  affecting  the  gastric  outlet.  The  collection is percutaneously accessible with a 3-cm window. MR cholangiopancreatography  shows a patent pancreatic duct. 
+	Patient with a 2 week history of cough, fever, and foul-smelling sputum. Worsening condition  despite a full course of broad-spectrum antibiotics. Sputum cultures negative. CT scan shows  a right lower lobe abscess. Treatment includes antibiotics. 
+	Patient with a 3 week history of pneumonia, fever, dyspnea. Worsening condition despite a  full course of broad-spectrum antibiotics. CT scan shows a loculated pleural collection with  overlying pleural thickening (empyema). Treatment includes antibiotics. 
+	Woman of childbearing age with abdominal pain, fever, and leukocytosis. Marked tenderness  on  pelvic  examination.  CT  scan  shows  a  walled-off,  probable  tubo-ovarian  abscess  (TOA)  greater than 3 cm. Treatment includes antibiotics. 
+	Patient  with  recent  endoscopic  retrograde  cholangiopancreatography  and  sphincterotomy  now with 3 weeks of worsening right upper quadrant pain, fever, jaundice, and malaise. CT  scan reveals 2 liver abscesses greater than 3 cm. MRCP demonstrates no biliary obstruction  or stones. Treatment includes antibiotics. 
+	Patient presents to the emergency department with 5 days of progressive ankle swelling and 2  days of fever. An ultrasound was obtained given the diffuse soft-tissue swelling around the  ankle which revealed a subperiosteal abscess. Treatment includes antibiotics. 
+
+12_11.txt
+	Radiologic Management of Lower Gastrointestinal Tract Bleeding  Lower  GI  hemodynamically stable patient. Next procedure/intervention. 
+	Lower GI tract bleeding. Active bleeding in a hemodynamically unstable patient or a patient  who has required more than 5 units of blood. Next procedure/intervention. 
+	Radiologic Management of Lower Gastrointestinal Tract Bleeding  Lower  GI  tract  bleeding.  Colonoscopy  localized  the  bleeding  site  and  treatment  was  attempted. Ongoing or recurrent bleeding. Next procedure/intervention. 
+	Lower  GI  tract  bleeding.  Intermittent  or  obscure  nonlocalized  recurrent  bleeding.  Next  procedure/intervention (assumes prior negative endoscopy). 
+
+12_12.txt
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Asymptomatic  bilateral  great  saphenous  venous  insufficiency  with  visible  varicose  veins.  Patient desires treatment for cosmesis. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Left small saphenous venous insufficiency resulting in intermittent pain and swelling without  skin discoloration or ulceration. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Left great saphenous venous insufficiency with associated lower leg skin ulceration. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Symptomatic bilateral great saphenous venous insufficiency and large visible varicose veins during pregnancy.
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Chronic left femoral venous thrombosis with left great saphenous venous insufficiency and  lower-extremity swelling. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Symptomatic  bilateral  great  saphenous  venous  insufficiency  with  remote  history  of  deep  venous thrombosis with no residual thrombus present. 
+	Radiologic Management of Lower-Extremity Venous Insufficiency  Right  great  saphenous  venous  insufficiency  status  post  vein  stripping  1  year  ago  with  persistent  lower-extremity  swelling.  Reflux  is  noted  in  the  below-knee  greater  saphenous  vein measuring up to 5 mm. 
+
+12_13.txt
+	Radiologic Management of Mesenteric Ischemia  Patient with recent onset abdominal pain, no peritoneal signs, known atrial fibrillation. CTA  shows filling defect in proximal SMA consistent with embolus. 
+	Patient with recent onset abdominal pain, no peritoneal signs, known atrial fibrillation. CTA  shows calcified atherosclerotic plaque involving the aorta and its major branches, as well as  proximal short-segment occlusion of the proximal SMA. 
+	Hospitalized  patient  with  cardiac  disease  causing  low  cardiac  output  who  developed  abdominal  pain  but  without  peritoneal  signs.  CT  angiogram  shows  patent  origins  and  proximal portions of celiac artery, SMA, and IMA, with diffuse irregular narrowing of SMA  branches. 
+	Radiologic Management of Mesenteric Ischemia  Patient with history of abdominal pain after meals for the past few months and weight loss.  CTA shows aortic atherosclerotic disease and suggests SMA-origin stenosis with occlusion of  celiac origin and an occluded IMA. 
+	Patient  with  pain  after  meals  and  CTA  showing  widely  patent  origins  of  SMA  and  IMA,  with possible compression of the celiac origin by the median arcuate ligament. 
+	Previously healthy patient with worsening diffuse abdominal pain for 2 weeks. CTA shows  occlusion  of  the  superior  mesenteric  vein  and  its  major  tributaries.  Small  bowel  appears  normal. 
+
+12_14.txt
+	Radiologic Management of Thoracic Nodules and Masses  Middle-aged patient (35–60 years old) with an incidental 1.5-cm lung nodule. The lesion was  smooth. No associated adenopathy. No known risk factors for lung cancer. 
+	Middle-aged  patient  (35–60  years  old)  who  had  a  CT  pulmonary  angiogram  that  was  negative for pulmonary embolism but that demonstrated an incidental 1.5-cm lung nodule.  The  lesion  was  smooth.  No  associated  adenopathy.  Patient  has  a  70  pack/year  smoking  history and evidence of significant COPD on chest CT. 
+	Middle-aged  patient  (35–60  years  old)  with  a  newly  diagnosed  colon  carcinoma.  Three  pulmonary nodules, ranging up to 2 cm in diameter, noted on staging CT of the chest. At  least 1 of the lesions demonstrates a lobulated appearance. 
+	Radiologic Management of Thoracic Nodules and Masses  Young adult patient (20–35 years old) with 1.0-cm smooth-walled noncalcified lung nodule  seen on CT after minor motor vehicle trauma. No known risk factors for lung cancer. 
+	Middle-aged patient (35–60 years old) with persistent 1.5-cm ground-glass nodule noted on  an  initial  CT  scan  and  a  follow-up  3-month  CT  scan.  No  smoking  history  and  no  recent  respiratory infection. 
+	Elderly patient (>80 years old) with multifocal <2cm pure ground-glass opacities (no solid  component) after chest CT recommended from an abnormal coronary CT examination. No  smoking history and no recent respiratory infection. 
+	Radiologic Management of Thoracic Nodules and Masses  Middle-aged  patient  (35–60  years  old)  with  a  2-cm  smooth-walled  lung  nodule  containing  fatty elements by Hounsfield attenuation noted on CT. No prior imaging or risk factors for  lung cancer. 
+	Radiologic Management of Thoracic Nodules and Masses   Middle-aged  patient  (35–60  years  old)  with  known  multiple  pulmonary  nodules  from  metastatic cancer. All lesions but 1 have regressed on the current chemotherapy regimen. 
+	Radiologic Management of Thoracic Nodules and Masses  Elderly patient (>60 years old) with a positive purified protein derivative (tuberculin) test  and  abnormal  chest  radiograph.  On  CT  scanning,  bulky  (up  to  3  cm)  mediastinal  adenopathy is noted throughout the mediastinum (pretracheal, subcarinal, aortopulmonary  window). The nodes do not demonstrate calcifications or necrosis. No associated pulmonary  nodules. 
+	Elderly patient (>60 years old) with a long >30 pack/year smoking history meeting criteria  for low-dose screening CT (LDCT). LDCT demonstrates a 2-cm pulmonary nodule in the  lingula.  There  is  mediastinal  adenopathy  (up  to  2  cm)  in  the  pretracheal  and  subcarinal  regions as well as left perihilar (up to 2 cm) adenopathy. 
+	Radiologic Management of Thoracic Nodules and Masses  Middle-aged  patient  (35–60  years  old)  with  shortness  of  breath  presenting  with  bilateral  hilar  adenopathy  measuring  up  to  2  cm,  enlarging  on  serial  3-month  imaging.  Recent  nondiagnostic bronchoscopic biopsy via TBNA. No intraparenchymal pulmonary nodules. 
+	Middle-aged patient (35–60 years old) presenting with a 3-cm lobular mass involving the left  pleura associated with rib erosion. 
+
+12_15.txt
+	Urinary diversion after remote history of cystectomy for cancer. No fever, normal white blood  cell (WBC) count and urine output. Loopogram shows no reflux into distal ureters. CT shows  new moderate bilateral hydronephrosis. 
+	Seven-day history of right flank pain, fever, and leukocytosis. Urinalysis positive for blood  and  infection.  CT  scan  shows  a  10  mm  calculus  in  the  mid  right  ureter  without  hydronephrosis. 
+	Pregnant patient (20+ weeks) with 3-day history of left flank pain, fever, and leukocytosis.  Urinalysis positive for infection. Ultrasound shows new, moderate left hydronephrosis. 
+	Advanced  cervical  carcinoma  with  decreased  estimated  glomerular  filtration  rate  <15.  Normal  WBC,  positive  pelvic  pressure,  no  flank  pain.  CT  scan  reveals  new  bilateral  hydronephrosis and hydroureter that is due to local invasion by a pelvic mass. 
+	Prolonged history of right flank pain, fever, and leukocytosis. Urinalysis positive for blood  and infection. Patient appears septic and is hypotensive. CT scan shows dilated right ureter  and renal pelvis with perinephric stranding. No etiology for ureteral obstruction identified  with current imaging. 
+	Urinary ascites after recent abdominal surgery. Elevated blood urea nitrogen or creatinine,  moderate abdominal pain, and no peritoneal signs. CT urogram reveals contrast leak from  left pelvic ureteral injury. Current therapy consists of Foley catheter in the bladder. 
+
+12_16.txt
+	Middle-aged  woman  with  multiple  uterine  fibroids  resulting  in  a  20-week-sized  uterus  on  physical examination and menorrhagia. Bulk symptoms of urinary frequency and bloating  are present. The patient has a recent negative serum pregnancy test and has no desire for  future fertility. 
+	Childbearing-age  woman  with  multiple  submucosal  and  intramural fibroids  presents  with  menorrhagia  and  pelvic  pain.  Most  of  the  fibroids  measure  <4  cm,  with  two  dominant  fibroids  measuring  >6  cm.  Uterus  is  12  cm  on  MRI.  The  patient  states  that  she  does  not  desire future pregnancies and is concerned about the loss of femininity with hysterectomy. 
+	Childbearing  age  woman  with  menometrorrhagia.  On  MRI,  she  has  three  dominant  leiomyomas, ranging in size from 6 to 8 cm and intramural in location. She states that she  does not have plans for future pregnancy but would like to have the option in the future. 
+	Middle-aged woman with menorrhagia. MRI reveals a single 3 cm intramural fibroid and  diffuse adenomyosis. 
+	Middle-aged  woman  with  pelvic  discomfort  and  8  cm  pedunculated  subserosal  fibroid  on  MRI.  
+	Middle-aged  woman  with  constipation.  MRI  reveals  a  12  cm  subserosal  leiomyoma  compressing the rectum. 
+
+12_17.txt
+	Acute  venous  thromboembolism  (proximal  deep  vein  thrombosis  of  the  leg  or  pulmonary  embolism) with no contraindication to anticoagulation. 
+	Retrievable IVC filter  Permanent IVC filter  Observation 
+	Isolated acute distal deep vein thrombosis of the leg. 
+	Chronic venous thromboembolism (eg, chronic thromboembolic pulmonary hypertension). 
+	Venous  thromboembolism  prophylaxis  in  high-risk  patient  (eg,  major  trauma,  traumatic  brain injury, etc). 
+	Proximal deep vein thrombosis of the leg undergoing catheter-directed thrombolysis. 
+	Indwelling  prophylactic  retrievable  inferior  vena  cava  filter,  resolution  of  risk  factors  for  venous thromboembolism. 
+	Indwelling retrievable inferior vena cava filter for venous thromboembolism, now tolerating  or completed therapeutic anticoagulation. 
+	Indwelling retrievable inferior vena cava filter with failed first retrieval attempt. 
+
+12_18.txt
+	Planning for pre-thoracic endovascular repair (TEVAR) of thoracic aorta disease. 
+	Follow-up for post-thoracic endovascular repair (TEVAR) of thoracic aortic disease. 
+

@@ -1,0 +1,766 @@
+Category 01: Breast
+	Disease 01: Breast Cancer Screening
+		Narrative: /docs/70910/Narrative/
+		Evidence: /docs/70910/EvidenceTable/
+		LitSearch: /docs/70910/LitSearch/
+	Disease 02: Breast Imaging of Pregnant and Lactating Women
+		Narrative: /docs/3102382/Narrative/
+		Evidence: /docs/3102382/EvidenceTable/
+		LitSearch: /docs/3102382/LitSearch/
+	Disease 03: Breast Implant Evaluation 
+		Narrative: /docs/3100728/Narrative/
+		Evidence: /docs/3100728/EvidenceTable/
+		LitSearch: /docs/3100728/LitSearch/
+	Disease 04: Breast Pain
+		Narrative: /docs/3091546/Narrative/
+		Evidence: /docs/3091546/EvidenceTable/
+	Disease 05: Evaluation of Nipple Discharge
+		Narrative: /docs/3099312/Narrative/
+		Evidence: /docs/3099312/EvidenceTable/
+		LitSearch: /docs/3099312/LitSearch/
+	Disease 06: Evaluation of the Symptomatic Male Breast
+		Narrative: /docs/3091547/Narrative/
+		Evidence: /docs/3091547/EvidenceTable/
+	Disease 07: Monitoring Response to Neoadjuvant Systemic Therapy for Breast Cancer
+		Narrative: /docs/3099208/Narrative/
+		Evidence: /docs/3099208/EvidenceTable/
+		LitSearch: /docs/3099208/LitSearch/
+	Disease 08: Palpable Breast Masses
+		Narrative: /docs/69495/Narrative/
+		Evidence: /docs/69495/EvidenceTable/
+		LitSearch: /docs/69495/LitSearch/
+	Disease 09: Stage I Breast Cancer: Initial Workup and Surveillance for Local Recurrence and Distant Metastases in Asymptomatic Women
+		Narrative: /docs/69496/Narrative/
+		Evidence: /docs/69496/EvidenceTable/
+
+Category 02: Cardiac
+	Disease 01: Acute Chest Pain — Suspected Aortic Dissection
+		Narrative: /docs/69402/Narrative/
+		Evidence: /docs/69402/EvidenceTable/
+	Disease 02: Acute Nonspecific Chest Pain — Low Probability of Coronary Artery Disease
+		Narrative: /docs/69401/Narrative/
+		Evidence: /docs/69401/EvidenceTable/
+		LitSearch: /docs/69401/LitSearch/
+	Disease 03: Asymptomatic Patient at Risk for Coronary Artery Disease
+		Narrative: /docs/3082570/Narrative/
+		Evidence: /docs/3082570/EvidenceTable/
+	Disease 04: Blunt Chest Trauma
+		Narrative: /docs/3082590/Narrative/
+		Evidence: /docs/3082590/EvidenceTable/
+	Disease 05: Chest Pain-Possible Acute Coronary Syndrome
+		Narrative: /docs/69403/Narrative/
+		Evidence: /docs/69403/EvidenceTable/
+	Disease 06: Chronic Chest Pain—High Probability of Coronary Artery Disease
+		Narrative: /docs/69405/Narrative/
+		Evidence: /docs/69405/EvidenceTable/
+		LitSearch: /docs/69405/LitSearch/
+	Disease 07: Chronic Chest Pain-Noncardiac Etiology Unlikely: Low to Intermediate Probability of Coronary Artery Disease
+		Narrative: /docs/69337/Narrative/
+		Evidence: /docs/69337/EvidenceTable/
+		LitSearch: /docs/69337/LitSearch/
+	Disease 08: Dyspnea-Suspected Cardiac Origin
+		Narrative: /docs/69407/Narrative/
+		Evidence: /docs/69407/EvidenceTable/
+		LitSearch: /docs/69407/LitSearch/
+	Disease 09: Imaging for Transcatheter Aortic Valve Replacement
+		Narrative: /docs/3082594/Narrative/
+		Evidence: /docs/3082594/EvidenceTable/
+		LitSearch: /docs/3082594/LitSearch/
+	Disease 10: Known or Suspected Congenital Heart Disease in the Adult
+		Narrative: /docs/69355/Narrative/
+		Evidence: /docs/69355/EvidenceTable/
+		LitSearch: /docs/69355/LitSearch/
+	Disease 11: Nonischemic Myocardial Disease with Clinical Manifestations (Ischemic Cardiomyopathy Already Excluded)
+		Narrative: /docs/3082580/Narrative/
+		Evidence: /docs/3082580/EvidenceTable/
+	Disease 12: Suspected Infective Endocarditis
+		Narrative: /docs/69408/Narrative/
+		Evidence: /docs/69408/EvidenceTable/
+	Disease 13: Suspected New-Onset and Known Nonacute Heart Failure
+		Narrative: /docs/3102383/Narrative/
+		Evidence: /docs/3102383/EvidenceTable/
+		LitSearch: /docs/3102383/LitSearch/
+	Disease 14: Suspected Pulmonary Embolism
+		Narrative: /docs/69404/Narrative/
+		Evidence: /docs/69404/EvidenceTable/
+		LitSearch: /docs/69404/LitSearch/
+
+Category 03: Gastrointestinal
+	Disease 01: Acute Nonlocalized Abdominal Pain
+		Narrative: /docs/69467/Narrative/
+		Evidence: /docs/69467/EvidenceTable/
+		LitSearch: /docs/69467/LitSearch/
+	Disease 02: Acute Pancreatitis
+		Narrative: /docs/69468/Narrative/
+		Evidence: /docs/69468/EvidenceTable/
+	Disease 03: Chronic Liver Disease
+		Narrative: /docs/3098416/Narrative/
+		Evidence: /docs/3098416/EvidenceTable/
+		LitSearch: /docs/3098416/LitSearch/
+	Disease 04: Colorectal Cancer Screening
+		Narrative: /docs/69469/Narrative/
+		Evidence: /docs/69469/EvidenceTable/
+		LitSearch: /docs/69469/LitSearch/
+	Disease 05: Crohn Disease
+		Narrative: /docs/69470/Narrative/
+		Evidence: /docs/69470/EvidenceTable/
+	Disease 06: Dysphagia
+		Narrative: /docs/69471/Narrative/
+		Evidence: /docs/69471/EvidenceTable/
+	Disease 07: Imaging of Mesenteric Ischemia
+		Narrative: /docs/70909/Narrative/
+		Evidence: /docs/70909/EvidenceTable/
+		LitSearch: /docs/70909/LitSearch/
+	Disease 08: Jaundice
+		Narrative: /docs/69497/Narrative/
+		Evidence: /docs/69497/EvidenceTable/
+		LitSearch: /docs/69497/LitSearch/
+	Disease 09: Left Lower Quadrant Pain — Suspected Diverticulitis
+		Narrative: /docs/69356/Narrative/
+		Evidence: /docs/69356/EvidenceTable/
+	Disease 10: Liver Lesion — Initial Characterization
+		Narrative: /docs/69472/Narrative/
+		Evidence: /docs/69472/EvidenceTable/
+	Disease 11: Nonvariceal Upper Gastrointestinal Bleeding
+		Narrative: /docs/69413/Narrative/
+		Evidence: /docs/69413/EvidenceTable/
+	Disease 12: Palpable Abdominal Mass-Suspected Neoplasm
+		Narrative: /docs/69473/Narrative/
+		Evidence: /docs/69473/EvidenceTable/
+	Disease 13: Pancreatic Cyst
+		Narrative: /docs/3127236/Narrative/
+		Evidence: /docs/3127236/EvidenceTable/
+	Disease 14: Pretreatment Staging of Colorectal Cancer
+		Narrative: /docs/69339/Narrative/
+		Evidence: /docs/69339/EvidenceTable/
+		LitSearch: /docs/69339/LitSearch/
+	Disease 15: Right Lower Quadrant Pain-Suspected Appendicitis
+		Narrative: /docs/69357/Narrative/
+		Evidence: /docs/69357/EvidenceTable/
+	Disease 16: Right Upper Quadrant Pain
+		Narrative: /docs/69474/Narrative/
+		Evidence: /docs/69474/EvidenceTable/
+		LitSearch: /docs/69474/LitSearch/
+	Disease 17: Staging of Pancreatic Ductal Adenocarcinoma
+		Narrative: /docs/3099847/Narrative/
+		Evidence: /docs/3099847/EvidenceTable/
+		LitSearch: /docs/3099847/LitSearch/
+	Disease 18: Suspected Small-Bowel Obstruction
+		Narrative: /docs/69476/Narrative/
+		Evidence: /docs/69476/EvidenceTable/
+
+Category 04: Gyn and OB
+	Disease 01: Abnormal Vaginal Bleeding
+		Narrative: /docs/69458/Narrative/
+		Evidence: /docs/69458/EvidenceTable/
+	Disease 02: Acute Pelvic Pain in the Reproductive Age Group
+		Narrative: /docs/69503/Narrative/
+		Evidence: /docs/69503/EvidenceTable/
+		LitSearch: /docs/69503/LitSearch/
+	Disease 03: Assessment of Fetal Well-Being
+		Narrative: /docs/3094108/Narrative/
+		Evidence: /docs/3094108/EvidenceTable/
+		LitSearch: /docs/3094108/LitSearch/
+	Disease 04: Assessment of Gravid Cervix
+		Narrative: /docs/69464/Narrative/
+		Evidence: /docs/69464/EvidenceTable/
+		LitSearch: /docs/69464/LitSearch/
+	Disease 05: Clinically Suspected Adnexal Mass, No Acute Symptoms
+		Narrative: /docs/69466/Narrative/
+		Evidence: /docs/69466/EvidenceTable/
+		LitSearch: /docs/69466/LitSearch/
+	Disease 06: Female Infertility
+		Narrative: /docs/3093336/Narrative/
+		Evidence: /docs/3093336/EvidenceTable/
+	Disease 07: First Trimester Vaginal Bleeding
+		Narrative: /docs/69460/Narrative/
+		Evidence: /docs/69460/EvidenceTable/
+		LitSearch: /docs/69460/LitSearch/
+	Disease 08: Gestational Trophoblastic Disease
+		Narrative: /docs/3102395/Narrative/
+		Evidence: /docs/3102395/EvidenceTable/
+		LitSearch: /docs/3102395/LitSearch/
+	Disease 09: Growth Disturbances–Risk of Fetal Growth Restriction
+		Narrative: /docs/69377/Narrative/
+		Evidence: /docs/69377/EvidenceTable/
+		LitSearch: /docs/69377/LitSearch/
+	Disease 10: Multiple Gestations
+		Narrative: /docs/69462/Narrative/
+		Evidence: /docs/69462/EvidenceTable/
+		LitSearch: /docs/69462/LitSearch/
+	Disease 11: Ovarian Cancer Screening
+		Narrative: /docs/69463/Narrative/
+		Evidence: /docs/69463/EvidenceTable/
+		LitSearch: /docs/69463/LitSearch/
+	Disease 12: Pelvic Floor Dysfunction
+		Narrative: /docs/3083064/Narrative/
+		Evidence: /docs/3083064/EvidenceTable/
+	Disease 13: Postmenopausal Subacute or Chronic Pelvic Pain
+		Narrative: /docs/3102399/Narrative/
+		Evidence: /docs/3102399/EvidenceTable/
+		LitSearch: /docs/3102399/LitSearch/
+	Disease 14: Pretreatment Evaluation and Follow-Up of Endometrial Cancer
+		Narrative: /docs/69459/Narrative/
+		Evidence: /docs/69459/EvidenceTable/
+	Disease 15: Pretreatment Planning of Invasive Cancer of the Cervix
+		Narrative: /docs/69461/Narrative/
+		Evidence: /docs/69461/EvidenceTable/
+		LitSearch: /docs/69461/LitSearch/
+	Disease 16: Second and Third Trimester Bleeding
+		Narrative: /docs/69465/Narrative/
+		Evidence: /docs/69465/EvidenceTable/
+	Disease 17: Staging and Follow-up of Ovarian Cancer
+		Narrative: /docs/69378/Narrative/
+		Evidence: /docs/69378/EvidenceTable/
+		LitSearch: /docs/69378/LitSearch/
+	Disease 18: Suspected Placenta Accreta Spectrum Disorder
+		Narrative: /docs/3102403/Narrative/
+		Evidence: /docs/3102403/EvidenceTable/
+		LitSearch: /docs/3102403/LitSearch/
+
+Category 05: Major Trauma
+	Disease 01: Major Blunt Trauma
+		Narrative: /docs/3102405/Narrative/
+		Evidence: /docs/3102405/EvidenceTable/
+
+Category 06: Musculoskeletal
+	Disease 01: Acute Hand and Wrist Trauma
+		Narrative: /docs/69418/Narrative/
+		Evidence: /docs/69418/EvidenceTable/
+		LitSearch: /docs/69418/LitSearch/
+	Disease 02: Acute Hip Pain-Suspected Fracture
+		Narrative: /docs/3082587/Narrative/
+		Evidence: /docs/3082587/EvidenceTable/
+	Disease 03: Acute Trauma to the Ankle
+		Narrative: /docs/69436/Narrative/
+		Evidence: /docs/69436/EvidenceTable/
+	Disease 04: Acute Trauma to the Foot
+		Narrative: /docs/70546/Narrative/
+		Evidence: /docs/70546/EvidenceTable/
+	Disease 05: Acute Trauma to the Knee
+		Narrative: /docs/69419/Narrative/
+		Evidence: /docs/69419/EvidenceTable/
+		LitSearch: /docs/69419/LitSearch/
+	Disease 06: Chronic Ankle Pain
+		Narrative: /docs/69422/Narrative/
+		Evidence: /docs/69422/EvidenceTable/
+		LitSearch: /docs/69422/LitSearch/
+	Disease 07: Chronic Back Pain: Suspected Sacroiliitis/Spondyloarthropathy
+		Narrative: /docs/3094107/Narrative/
+		Evidence: /docs/3094107/EvidenceTable/
+		LitSearch: /docs/3094107/LitSearch/
+	Disease 08: Chronic Elbow Pain
+		Narrative: /docs/69423/Narrative/
+		Evidence: /docs/69423/EvidenceTable/
+		LitSearch: /docs/69423/LitSearch/
+	Disease 09: Chronic Extremity Joint Pain–Suspected Inflammatory Arthritis
+		Narrative: /docs/3097211/Narrative/
+		Evidence: /docs/3097211/EvidenceTable/
+		LitSearch: /docs/3097211/LitSearch/
+	Disease 10: Chronic Foot Pain
+		Narrative: /docs/69424/Narrative/
+		Evidence: /docs/69424/EvidenceTable/
+	Disease 11: Chronic Hip Pain
+		Narrative: /docs/69425/Narrative/
+		Evidence: /docs/69425/EvidenceTable/
+		LitSearch: /docs/69425/LitSearch/
+	Disease 12: Chronic Knee Pain
+		Narrative: /docs/69432/Narrative/
+		Evidence: /docs/69432/EvidenceTable/
+		LitSearch: /docs/69432/LitSearch/
+	Disease 13: Chronic Wrist Pain
+		Narrative: /docs/69427/Narrative/
+		Evidence: /docs/69427/EvidenceTable/
+		LitSearch: /docs/69427/LitSearch/
+	Disease 14: Follow-up of Malignant or Aggressive Musculoskeletal Tumors
+		Narrative: /docs/69428/Narrative/
+		Evidence: /docs/69428/EvidenceTable/
+		LitSearch: /docs/69428/LitSearch/
+	Disease 15: Imaging After Shoulder Arthroplasty
+		Narrative: /docs/3097049/Narrative/
+		Evidence: /docs/3097049/EvidenceTable/
+		LitSearch: /docs/3097049/LitSearch/
+	Disease 16: Imaging after Total Hip Arthroplasty
+		Narrative: /docs/3094200/Narrative/
+		Evidence: /docs/3094200/EvidenceTable/
+		LitSearch: /docs/3094200/LitSearch/
+	Disease 17: Imaging After Total Knee Arthroplasty
+		Narrative: /docs/69430/Narrative/
+		Evidence: /docs/69430/EvidenceTable/
+		LitSearch: /docs/69430/LitSearch/
+	Disease 18: Management of Vertebral Compression Fractures
+		Narrative: /docs/70545/Narrative/
+		Evidence: /docs/70545/EvidenceTable/
+	Disease 19: Osteonecrosis of the Hip
+		Narrative: /docs/69420/Narrative/
+		Evidence: /docs/69420/EvidenceTable/
+		LitSearch: /docs/69420/LitSearch/
+	Disease 20: Osteoporosis and Bone Mineral Density
+		Narrative: /docs/69358/Narrative/
+		Evidence: /docs/69358/EvidenceTable/
+		LitSearch: /docs/69358/LitSearch/
+	Disease 21: Primary Bone Tumors
+		Narrative: /docs/69421/Narrative/
+		Evidence: /docs/69421/EvidenceTable/
+		LitSearch: /docs/69421/LitSearch/
+	Disease 22: Shoulder Pain-Atraumatic
+		Narrative: /docs/3101482/Narrative/
+		Evidence: /docs/3101482/EvidenceTable/
+		LitSearch: /docs/3101482/LitSearch/
+	Disease 23: Shoulder Pain-Traumatic
+		Narrative: /docs/69433/Narrative/
+		Evidence: /docs/69433/EvidenceTable/
+		LitSearch: /docs/69433/LitSearch/
+	Disease 24: Soft-Tissue Masses
+		Narrative: /docs/69434/Narrative/
+		Evidence: /docs/69434/EvidenceTable/
+		LitSearch: /docs/69434/LitSearch/
+	Disease 25: Stress (Fatigue/Insufficiency) Fracture, Including Sacrum, Excluding Other Vertebrae
+		Narrative: /docs/69435/Narrative/
+		Evidence: /docs/69435/EvidenceTable/
+		LitSearch: /docs/69435/LitSearch/
+	Disease 26: Suspected Osteomyelitis of the Foot in Patients with Diabetes Mellitus
+		Narrative: /docs/69340/Narrative/
+		Evidence: /docs/69340/EvidenceTable/
+	Disease 27: Suspected Osteomyelitis, Septic Arthritis, or Soft Tissue Infection (Excluding Spine and Diabetic Foot)
+		Narrative: /docs/3094201/Narrative/
+		Evidence: /docs/3094201/EvidenceTable/
+		LitSearch: /docs/3094201/LitSearch/
+	Disease 28: Suspected Spine Trauma
+		Narrative: /docs/69359/Narrative/
+		Evidence: /docs/69359/EvidenceTable/
+
+Category 07: Neurologic
+	Disease 01: Acute Mental Status Change, Delirium, and New Onset Psychosis
+		Narrative: /docs/3102409/Narrative/
+		Evidence: /docs/3102409/EvidenceTable/
+	Disease 02: Ataxia
+		Narrative: /docs/69477/Narrative/
+		Evidence: /docs/69477/EvidenceTable/
+	Disease 03: Cerebrovascular Disease
+		Narrative: /docs/69478/Narrative/
+		Evidence: /docs/69478/EvidenceTable/
+		LitSearch: /docs/69478/LitSearch/
+	Disease 04: Cervical Neck Pain or Cervical Radiculopathy
+		Narrative: /docs/69426/Narrative/
+		Evidence: /docs/69426/EvidenceTable/
+	Disease 05: Cranial Neuropathy
+		Narrative: /docs/69509/Narrative/
+		Evidence: /docs/69509/EvidenceTable/
+		LitSearch: /docs/69509/LitSearch/
+	Disease 06: Dementia
+		Narrative: /docs/3111292/Narrative/
+		Evidence: /docs/3111292/EvidenceTable/
+	Disease 07: Head Trauma
+		Narrative: /docs/69481/Narrative/
+		Evidence: /docs/69481/EvidenceTable/
+		LitSearch: /docs/69481/LitSearch/
+	Disease 08: Headache
+		Narrative: /docs/69482/Narrative/
+		Evidence: /docs/69482/EvidenceTable/
+	Disease 09: Hearing Loss and/or Vertigo
+		Narrative: /docs/69488/Narrative/
+		Evidence: /docs/69488/EvidenceTable/
+	Disease 10: Low Back Pain
+		Narrative: /docs/69483/Narrative/
+		Evidence: /docs/69483/EvidenceTable/
+		LitSearch: /docs/69483/LitSearch/
+	Disease 11: Management of Vertebral Compression Fractures
+		Narrative: /docs/70545/Narrative/
+		Evidence: /docs/70545/EvidenceTable/
+	Disease 12: Movement Disorders and Neurodegenerative Diseases
+		Narrative: /docs/3111293/Narrative/
+		Evidence: /docs/3111293/EvidenceTable/
+	Disease 13: Myelopathy
+		Narrative: /docs/69484/Narrative/
+		Evidence: /docs/69484/EvidenceTable/
+		LitSearch: /docs/69484/LitSearch/
+	Disease 14: Neck Mass/Adenopathy
+		Narrative: /docs/69504/Narrative/
+		Evidence: /docs/69504/EvidenceTable/
+		LitSearch: /docs/69504/LitSearch/
+	Disease 15: Neuroendocrine Imaging
+		Narrative: /docs/69485/Narrative/
+		Evidence: /docs/69485/EvidenceTable/
+	Disease 16: Orbits, Vision and Visual Loss
+		Narrative: /docs/69486/Narrative/
+		Evidence: /docs/69486/EvidenceTable/
+		LitSearch: /docs/69486/LitSearch/
+	Disease 17: Penetrating Neck Injury
+		Narrative: /docs/3099165/Narrative/
+		Evidence: /docs/3099165/EvidenceTable/
+		LitSearch: /docs/3099165/LitSearch/
+	Disease 18: Plexopathy
+		Narrative: /docs/69487/Narrative/
+		Evidence: /docs/69487/EvidenceTable/
+		LitSearch: /docs/69487/LitSearch/
+	Disease 19: Seizures and Epilepsy
+		Narrative: /docs/69479/Narrative/
+		Evidence: /docs/69479/EvidenceTable/
+	Disease 20: Sinonasal Disease
+		Narrative: /docs/69502/Narrative/
+		Evidence: /docs/69502/EvidenceTable/
+		LitSearch: /docs/69502/LitSearch/
+	Disease 21: Suspected Spine Trauma
+		Narrative: /docs/69359/Narrative/
+		Evidence: /docs/69359/EvidenceTable/
+	Disease 22: Thoracic Outlet Syndrome
+		Narrative: /docs/3083061/Narrative/
+		Evidence: /docs/3083061/EvidenceTable/
+	Disease 23: Thyroid Disease
+		Narrative: /docs/3102386/Narrative/
+		Evidence: /docs/3102386/EvidenceTable/
+	Disease 24: Tinnitus
+		Narrative: /docs/3094199/Narrative/
+		Evidence: /docs/3094199/EvidenceTable/
+		LitSearch: /docs/3094199/LitSearch/
+
+Category 08: Pediatric
+	Disease 01: Acutely Limping Child Up To Age 5
+		Narrative: /docs/69361/Narrative/
+		Evidence: /docs/69361/EvidenceTable/
+		LitSearch: /docs/69361/LitSearch/
+	Disease 02: Back Pain — Child
+		Narrative: /docs/3099011/Narrative/
+		Evidence: /docs/3099011/EvidenceTable/
+		LitSearch: /docs/3099011/LitSearch/
+	Disease 03: Developmental Dysplasia of the Hip — Child
+		Narrative: /docs/69437/Narrative/
+		Evidence: /docs/69437/EvidenceTable/
+		LitSearch: /docs/69437/LitSearch/
+	Disease 04: Fever Without Source or Unknown Origin-Child
+		Narrative: /docs/69438/Narrative/
+		Evidence: /docs/69438/EvidenceTable/
+		LitSearch: /docs/69438/LitSearch/
+	Disease 05: Head Trauma-Child
+		Narrative: /docs/3083021/Narrative/
+		Evidence: /docs/3083021/EvidenceTable/
+	Disease 06: Headache–Child
+		Narrative: /docs/69439/Narrative/
+		Evidence: /docs/69439/EvidenceTable/
+		LitSearch: /docs/69439/LitSearch/
+	Disease 07: Hematuria–Child
+		Narrative: /docs/69440/Narrative/
+		Evidence: /docs/69440/EvidenceTable/
+		LitSearch: /docs/69440/LitSearch/
+	Disease 08: Pneumonia in the Immunocompetent Child
+		Narrative: /docs/3102387/Narrative/
+		Evidence: /docs/3102387/EvidenceTable/
+	Disease 09: Scoliosis-Child
+		Narrative: /docs/3101564/Narrative/
+		Evidence: /docs/3101564/EvidenceTable/
+		LitSearch: /docs/3101564/LitSearch/
+	Disease 10: Seizures — Child
+		Narrative: /docs/69441/Narrative/
+		Evidence: /docs/69441/EvidenceTable/
+	Disease 11: Sinusitis–Child
+		Narrative: /docs/69442/Narrative/
+		Evidence: /docs/69442/EvidenceTable/
+		LitSearch: /docs/69442/LitSearch/
+	Disease 12: Suspected Appendicitis-Child
+		Narrative: /docs/3105874/Narrative/
+		Evidence: /docs/3105874/EvidenceTable/
+	Disease 13: Suspected Physical Abuse — Child
+		Narrative: /docs/69443/Narrative/
+		Evidence: /docs/69443/EvidenceTable/
+		LitSearch: /docs/69443/LitSearch/
+	Disease 14: Suspected Spine Trauma-Child
+		Narrative: /docs/3101274/Narrative/
+		Evidence: /docs/3101274/EvidenceTable/
+		LitSearch: /docs/3101274/LitSearch/
+	Disease 15: Urinary Tract Infection–Child
+		Narrative: /docs/69444/Narrative/
+		Evidence: /docs/69444/EvidenceTable/
+		LitSearch: /docs/69444/LitSearch/
+	Disease 16: Vomiting in Infants Up to 3 Months of Age
+		Narrative: /docs/69445/Narrative/
+		Evidence: /docs/69445/EvidenceTable/
+		LitSearch: /docs/69445/LitSearch/
+
+Category 09: Thoracic
+	Disease 01: Acute Respiratory Illness in Immunocompetent Patients
+		Narrative: /docs/69446/Narrative/
+		Evidence: /docs/69446/EvidenceTable/
+		LitSearch: /docs/69446/LitSearch/
+	Disease 02: Acute Respiratory Illness in Immunocompromised Patients
+		Narrative: /docs/69447/Narrative/
+		Evidence: /docs/69447/EvidenceTable/
+	Disease 03: Blunt Chest Trauma
+		Narrative: /docs/3082590/Narrative/
+		Evidence: /docs/3082590/EvidenceTable/
+	Disease 04: Chronic Dyspnea-Noncardiovascular Origin
+		Narrative: /docs/69448/Narrative/
+		Evidence: /docs/69448/EvidenceTable/
+		LitSearch: /docs/69448/LitSearch/
+	Disease 05: Hemoptysis
+		Narrative: /docs/69449/Narrative/
+		Evidence: /docs/69449/EvidenceTable/
+	Disease 06: Imaging of Possible Tuberculosis
+		Narrative: /docs/3099187/Narrative/
+		Evidence: /docs/3099187/EvidenceTable/
+		LitSearch: /docs/3099187/LitSearch/
+	Disease 07: Intensive Care Unit Patients
+		Narrative: /docs/69452/Narrative/
+		Evidence: /docs/69452/EvidenceTable/
+		LitSearch: /docs/69452/LitSearch/
+	Disease 08: Lung Cancer Screening
+		Narrative: /docs/3102390/Narrative/
+		Evidence: /docs/3102390/EvidenceTable/
+	Disease 09: Noninvasive Clinical Staging of Primary Lung Cancer
+		Narrative: /docs/69456/Narrative/
+		Evidence: /docs/69456/EvidenceTable/
+		LitSearch: /docs/69456/LitSearch/
+	Disease 10: Occupational Lung Diseases
+		Narrative: /docs/3091680/Narrative/
+		Evidence: /docs/3091680/EvidenceTable/
+	Disease 11: Radiographically Detected Solitary Pulmonary Nodule
+		Narrative: /docs/69455/Narrative/
+		Evidence: /docs/69455/EvidenceTable/
+	Disease 12: Rib Fractures
+		Narrative: /docs/69450/Narrative/
+		Evidence: /docs/69450/EvidenceTable/
+	Disease 13: Routine Chest Radiography
+		Narrative: /docs/69451/Narrative/
+		Evidence: /docs/69451/EvidenceTable/
+		LitSearch: /docs/69451/LitSearch/
+	Disease 14: Suspected Pulmonary Embolism
+		Narrative: /docs/69404/Narrative/
+		Evidence: /docs/69404/EvidenceTable/
+		LitSearch: /docs/69404/LitSearch/
+	Disease 15: Suspected Pulmonary Hypertension
+		Narrative: /docs/71095/Narrative/
+		Evidence: /docs/71095/EvidenceTable/
+		LitSearch: /docs/71095/LitSearch/
+	Disease 16: Thoracic Outlet Syndrome
+		Narrative: /docs/3083061/Narrative/
+		Evidence: /docs/3083061/EvidenceTable/
+
+Category 10: Urologic
+	Disease 01: Acute Onset Flank Pain-Suspicion of Stone Disease (Urolithiasis)
+		Narrative: /docs/69362/Narrative/
+		Evidence: /docs/69362/EvidenceTable/
+		LitSearch: /docs/69362/LitSearch/
+	Disease 02: Acute Onset of Scrotal Pain-Without Trauma, Without Antecedent Mass
+		Narrative: /docs/69363/Narrative/
+		Evidence: /docs/69363/EvidenceTable/
+	Disease 03: Acute Pyelonephritis
+		Narrative: /docs/69489/Narrative/
+		Evidence: /docs/69489/EvidenceTable/
+		LitSearch: /docs/69489/LitSearch/
+	Disease 04: Hematospermia
+		Narrative: /docs/70547/Narrative/
+		Evidence: /docs/70547/EvidenceTable/
+		LitSearch: /docs/70547/LitSearch/
+	Disease 05: Hematuria
+		Narrative: /docs/69490/Narrative/
+		Evidence: /docs/69490/EvidenceTable/
+		LitSearch: /docs/69490/LitSearch/
+	Disease 06: Incidentally Discovered Adrenal Mass
+		Narrative: /docs/69366/Narrative/
+		Evidence: /docs/69366/EvidenceTable/
+	Disease 07: Indeterminate Renal Mass
+		Narrative: /docs/69367/Narrative/
+		Evidence: /docs/69367/EvidenceTable/
+	Disease 08: Lower Urinary Tract Symptoms: Suspicion of Benign Prostatic Hyperplasia
+		Narrative: /docs/69368/Narrative/
+		Evidence: /docs/69368/EvidenceTable/
+	Disease 09: Penetrating Trauma–Lower Abdomen and Pelvis
+		Narrative: /docs/69376/Narrative/
+		Evidence: /docs/69376/EvidenceTable/
+	Disease 10: Post-Treatment Follow-up and Active Surveillance of Clinically Localized Renal Cell Cancer
+		Narrative: /docs/69365/Narrative/
+		Evidence: /docs/69365/EvidenceTable/
+	Disease 11: Post-treatment Follow-up of Prostate Cancer
+		Narrative: /docs/69369/Narrative/
+		Evidence: /docs/69369/EvidenceTable/
+		LitSearch: /docs/69369/LitSearch/
+	Disease 12: Post-Treatment Surveillance of Bladder Cancer
+		Narrative: /docs/69364/Narrative/
+		Evidence: /docs/69364/EvidenceTable/
+	Disease 13: Pretreatment Staging of Muscle-Invasive Bladder Cancer
+		Narrative: /docs/69370/Narrative/
+		Evidence: /docs/69370/EvidenceTable/
+		LitSearch: /docs/69370/LitSearch/
+	Disease 14: Prostate Cancer–Pretreatment Detection, Surveillance, and Staging
+		Narrative: /docs/69371/Narrative/
+		Evidence: /docs/69371/EvidenceTable/
+		LitSearch: /docs/69371/LitSearch/
+	Disease 15: Recurrent Lower Urinary Tract Infections in Women
+		Narrative: /docs/69491/Narrative/
+		Evidence: /docs/69491/EvidenceTable/
+		LitSearch: /docs/69491/LitSearch/
+	Disease 16: Renal Cell Carcinoma Staging
+		Narrative: /docs/69372/Narrative/
+		Evidence: /docs/69372/EvidenceTable/
+		LitSearch: /docs/69372/LitSearch/
+	Disease 17: Renal Failure
+		Narrative: /docs/69492/Narrative/
+		Evidence: /docs/69492/EvidenceTable/
+	Disease 18: Renal Transplant Dysfunction
+		Narrative: /docs/71096/Narrative/
+		Evidence: /docs/71096/EvidenceTable/
+		LitSearch: /docs/71096/LitSearch/
+	Disease 19: Renovascular Hypertension
+		Narrative: /docs/69374/Narrative/
+		Evidence: /docs/69374/EvidenceTable/
+		LitSearch: /docs/69374/LitSearch/
+	Disease 20: Staging of Testicular Malignancy
+		Narrative: /docs/69375/Narrative/
+		Evidence: /docs/69375/EvidenceTable/
+		LitSearch: /docs/69375/LitSearch/
+
+Category 11: Vascular
+	Disease 01: Abdominal Aortic Aneurysm Follow-up (Without Repair)
+		Narrative: /docs/3102391/Narrative/
+		Evidence: /docs/3102391/EvidenceTable/
+	Disease 02: Abdominal Aortic Aneurysm: Interventional Planning and Follow-up
+		Narrative: /docs/70548/Narrative/
+		Evidence: /docs/70548/EvidenceTable/
+		LitSearch: /docs/70548/LitSearch/
+	Disease 03: Chylothorax Treatment Planning
+		Narrative: /docs/3099053/Narrative/
+		Evidence: /docs/3099053/EvidenceTable/
+		LitSearch: /docs/3099053/LitSearch/
+	Disease 04: Clinically Suspected Pulmonary Arteriovenous Malformation (PAVM)
+		Narrative: /docs/3094113/Narrative/
+		Evidence: /docs/3094113/EvidenceTable/
+		LitSearch: /docs/3094113/LitSearch/
+	Disease 05: Clinically Suspected Vascular Malformation of the Extremities
+		Narrative: /docs/3102393/Narrative/
+		Evidence: /docs/3102393/EvidenceTable/
+	Disease 06: Imaging for Transcatheter Aortic Valve Replacement
+		Narrative: /docs/3082594/Narrative/
+		Evidence: /docs/3082594/EvidenceTable/
+		LitSearch: /docs/3082594/LitSearch/
+	Disease 07: Imaging of Deep Inferior Epigastric Arteries for Surgical Planning (Breast Reconstruction Surgery)
+		Narrative: /docs/3101591/Narrative/
+		Evidence: /docs/3101591/EvidenceTable/
+		LitSearch: /docs/3101591/LitSearch/
+	Disease 08: Imaging of Mesenteric Ischemia
+		Narrative: /docs/70909/Narrative/
+		Evidence: /docs/70909/EvidenceTable/
+		LitSearch: /docs/70909/LitSearch/
+	Disease 09: Lower Extremity Arterial Revascularization–Post-Therapy Imaging
+		Narrative: /docs/3102223/Narrative/
+		Evidence: /docs/3102223/EvidenceTable/
+		LitSearch: /docs/3102223/LitSearch/
+	Disease 10: Nonatherosclerotic Peripheral Arterial Disease
+		Narrative: /docs/3102394/Narrative/
+		Evidence: /docs/3102394/EvidenceTable/
+		LitSearch: /docs/3102394/LitSearch/
+	Disease 11: Nontraumatic Aortic Disease
+		Narrative: /docs/3082597/Narrative/
+		Evidence: /docs/3082597/EvidenceTable/
+	Disease 12: Nonvariceal Upper Gastrointestinal Bleeding
+		Narrative: /docs/69413/Narrative/
+		Evidence: /docs/69413/EvidenceTable/
+	Disease 13: Penetrating Neck Injury
+		Narrative: /docs/3099165/Narrative/
+		Evidence: /docs/3099165/EvidenceTable/
+		LitSearch: /docs/3099165/LitSearch/
+	Disease 14: Pulsatile Abdominal Mass, Suspected Abdominal Aortic Aneurysm
+		Narrative: /docs/69414/Narrative/
+		Evidence: /docs/69414/EvidenceTable/
+		LitSearch: /docs/69414/LitSearch/
+	Disease 15: Radiologic Management of Lower-Extremity Venous Insufficiency
+		Narrative: /docs/69507/Narrative/
+		Evidence: /docs/69507/EvidenceTable/
+	Disease 16: Renovascular Hypertension
+		Narrative: /docs/69374/Narrative/
+		Evidence: /docs/69374/EvidenceTable/
+		LitSearch: /docs/69374/LitSearch/
+	Disease 17: Sudden Onset of Cold, Painful Leg
+		Narrative: /docs/69338/Narrative/
+		Evidence: /docs/69338/EvidenceTable/
+		LitSearch: /docs/69338/LitSearch/
+	Disease 18: Suspected Lower Extremity Deep Vein Thrombosis
+		Narrative: /docs/69416/Narrative/
+		Evidence: /docs/69416/EvidenceTable/
+	Disease 19: Suspected Thoracic Aortic Aneurysm
+		Narrative: /docs/3102329/Narrative/
+		Evidence: /docs/3102329/EvidenceTable/
+		LitSearch: /docs/3102329/LitSearch/
+	Disease 20: Suspected Upper-Extremity Deep Vein Thrombosis
+		Narrative: /docs/69417/Narrative/
+		Evidence: /docs/69417/EvidenceTable/
+	Disease 21: Thoracic Aorta Interventional Planning and Follow-up
+		Narrative: /docs/3099659/Narrative/
+		Evidence: /docs/3099659/EvidenceTable/
+		LitSearch: /docs/3099659/LitSearch/
+	Disease 22: Thoracic Outlet Syndrome
+		Narrative: /docs/3083061/Narrative/
+		Evidence: /docs/3083061/EvidenceTable/
+	Disease 23: Vascular Claudication–Assessment for Revascularization
+		Narrative: /docs/69411/Narrative/
+		Evidence: /docs/69411/EvidenceTable/
+		LitSearch: /docs/69411/LitSearch/
+
+Category 12: Interventional Radiology
+	Disease 01: Abdominal Aortic Aneurysm: Interventional Planning and Follow-up
+		Narrative: /docs/70548/Narrative/
+		Evidence: /docs/70548/EvidenceTable/
+		LitSearch: /docs/70548/LitSearch/
+	Disease 02: Chylothorax Treatment Planning
+		Narrative: /docs/3099053/Narrative/
+		Evidence: /docs/3099053/EvidenceTable/
+		LitSearch: /docs/3099053/LitSearch/
+	Disease 03: Management of Vertebral Compression Fractures
+		Narrative: /docs/70545/Narrative/
+		Evidence: /docs/70545/EvidenceTable/
+	Disease 04: Radiologic Management of Biliary Obstruction
+		Narrative: /docs/69344/Narrative/
+		Evidence: /docs/69344/EvidenceTable/
+		LitSearch: /docs/69344/LitSearch/
+	Disease 05: Radiologic Management of Central Venous Access 
+		Narrative: /docs/3094281/Narrative/
+		Evidence: /docs/3094281/EvidenceTable/
+		LitSearch: /docs/3094281/LitSearch/
+	Disease 06: Radiologic Management of Gastric Varices
+		Narrative: /docs/70911/Narrative/
+		Evidence: /docs/70911/EvidenceTable/
+		LitSearch: /docs/70911/LitSearch/
+	Disease 07: Radiologic Management of Hepatic Malignancy
+		Narrative: /docs/69379/Narrative/
+		Evidence: /docs/69379/EvidenceTable/
+		LitSearch: /docs/69379/LitSearch/
+	Disease 08: Radiologic Management of Iliac Artery Occlusive Disease
+		Narrative: /docs/69341/Narrative/
+		Evidence: /docs/69341/EvidenceTable/
+		LitSearch: /docs/69341/LitSearch/
+	Disease 09: Radiologic Management of Iliofemoral Venous Thrombosis
+		Narrative: /docs/3082663/Narrative/
+		Evidence: /docs/3082663/EvidenceTable/
+	Disease 10: Radiologic Management of Infected Fluid Collections
+		Narrative: /docs/69345/Narrative/
+		Evidence: /docs/69345/EvidenceTable/
+	Disease 11: Radiologic Management of Lower Gastrointestinal Tract Bleeding
+		Narrative: /docs/69457/Narrative/
+		Evidence: /docs/69457/EvidenceTable/
+		LitSearch: /docs/69457/LitSearch/
+	Disease 12: Radiologic Management of Lower-Extremity Venous Insufficiency
+		Narrative: /docs/69507/Narrative/
+		Evidence: /docs/69507/EvidenceTable/
+	Disease 13: Radiologic Management of Mesenteric Ischemia
+		Narrative: /docs/69501/Narrative/
+		Evidence: /docs/69501/EvidenceTable/
+		LitSearch: /docs/69501/LitSearch/
+	Disease 14: Radiologic Management of Thoracic Nodules and Masses
+		Narrative: /docs/69343/Narrative/
+		Evidence: /docs/69343/EvidenceTable/
+		LitSearch: /docs/69343/LitSearch/
+	Disease 15: Radiologic Management of Urinary Tract Obstruction
+		Narrative: /docs/69353/Narrative/
+		Evidence: /docs/69353/EvidenceTable/
+	Disease 16: Radiologic Management of Uterine Leiomyomas
+		Narrative: /docs/69508/Narrative/
+		Evidence: /docs/69508/EvidenceTable/
+		LitSearch: /docs/69508/LitSearch/
+	Disease 17: Radiologic Management of Venous Thromboembolism-Inferior Vena Cava Filters
+		Narrative: /docs/69342/Narrative/
+		Evidence: /docs/69342/EvidenceTable/
+		LitSearch: /docs/69342/LitSearch/
+	Disease 18: Thoracic Aorta Interventional Planning and Follow-up
+		Narrative: /docs/3099659/Narrative/
+		Evidence: /docs/3099659/EvidenceTable/
+		LitSearch: /docs/3099659/LitSearch/
+

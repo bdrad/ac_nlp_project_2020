@@ -1,0 +1,2542 @@
+Abbreviation,Ambiguous,Case Sensitive,Full Text,Reverse Ambiguous
+A,TRUE,FALSE,adenine|adenosine|alanine|ampere|artery|blood type|vitamin A,FALSE
+A1,FALSE,FALSE,annular pulley,TRUE
+A2,FALSE,FALSE,annular pulley,TRUE
+A3,FALSE,FALSE,annular pulley,TRUE
+A4,FALSE,FALSE,annular pulley,TRUE
+A5,FALSE,FALSE,annular pulley,TRUE
+AA,TRUE,FALSE,alleged assault|alcoholics anonymous|amino acid|amyloid A|anaplastic astrocytoma|aplastic anemia|arachidonic acid,FALSE
+AAA,FALSE,FALSE,abdominal aortic aneurysm,FALSE
+AAC,TRUE,FALSE,adenocystic carcinoma|Advisory Appointment Committee,FALSE
+AACG,FALSE,FALSE,acute angle-closure glaucoma,FALSE
+AAL,FALSE,FALSE,anterior axillary line,FALSE
+AARF,FALSE,FALSE,atlantoaxial rotatory fixation,FALSE
+AAS,TRUE,FALSE,acute aortic syndrome|atlantoaxial subluxation,FALSE
+AAST,FALSE,FALSE,American association for the surgery of trauma,FALSE
+AAU,FALSE,FALSE,acute anterior uveitis,FALSE
+AB,TRUE,FALSE,abortion|antibiotics|antibody|blood type,FALSE
+ABC,TRUE,FALSE,airways breathing circulation|aneurysmal bone cyst|antigen-binding capacity|atomic biological chemical,FALSE
+ABER,FALSE,FALSE,abduction and external rotation position,FALSE
+ABG,FALSE,FALSE,arterial blood gas,FALSE
+ABI,TRUE,FALSE,acquired brain injury|ankle-brachial index,FALSE
+ABO,FALSE,FALSE,a blood type system,FALSE
+ABPA,FALSE,FALSE,allergic bronchopulmonary aspergillosis,FALSE
+ABPI,FALSE,FALSE,ankle-brachial pressure index,FALSE
+ABR,TRUE,FALSE,American Board of Radiology|auditory brainstem response,FALSE
+abs,TRUE,FALSE,absent|absolute|muscles of the abdomen|rectus abdominis muscle,FALSE
+ABx,FALSE,FALSE,antibiotics,FALSE
+AC,TRUE,TRUE,abdominal circumference|acromioclavicular|amniocentesis|anterior commissure|anticoagulant|arachnoid cyst|ascending colon|axillary clearance|before meals,FALSE
+Ac,FALSE,TRUE,actinium,FALSE
+ACA,TRUE,FALSE,anterior cerebral artery|anti-cardiolipin antibody,FALSE
+ACDA,FALSE,FALSE,anterior cervical disc arthroplasty,FALSE
+ACDF,FALSE,FALSE,anterior cervical discectomy and fusion,FALSE
+ACE,TRUE,FALSE,acetylcholine esterase|angiotensin-converting enzyme,FALSE
+ACE-i,FALSE,FALSE,angiotensin-converting enzyme inhibitor,FALSE
+ACGME,FALSE,FALSE,Accreditation Council for Graduate Medical Education,FALSE
+ACh,FALSE,FALSE,acetylcholine,FALSE
+AChE,FALSE,FALSE,acetylcholinesterase,FALSE
+ACJ,FALSE,FALSE,acromioclavicular joint,FALSE
+ACL,FALSE,FALSE,anterior cruciate ligament,FALSE
+ACLS,FALSE,FALSE,advanced cardiac life support,FALSE
+ACOM,FALSE,FALSE,anterior communicating artery,FALSE
+AC-PC line,FALSE,FALSE,anterior commissure posterior commissure line,FALSE
+ACP,FALSE,FALSE,Amplatzer cardiac plug,FALSE
+ACR,FALSE,FALSE,American College of Radiology,FALSE
+ACS,TRUE,FALSE,abdominal compartment syndrome|acute coronary syndrome|altered conscious state,FALSE
+ACTH,FALSE,FALSE,adrenocorticotropic hormone,FALSE
+AD,TRUE,FALSE,addict|alcohol dehydrogenase|Alzheimer disease|antidepressant|atopic dermatitis|autosomal dominant|axillary dissection,FALSE
+ADC,TRUE,FALSE,apparent diffusion coefficient|analog-to-digital converter,FALSE
+ADD-RS,FALSE,FALSE,aortic dissection detection risk score,FALSE
+ADEM,FALSE,FALSE,acute disseminating encephalomyelitis,FALSE
+ADH,FALSE,FALSE,antidiuretic hormone,FALSE
+ADHD,FALSE,FALSE,attention deficit hyperactivity disorder,FALSE
+ADHF,FALSE,FALSE,acute decompensated heart failure,FALSE
+ADI,FALSE,FALSE,atlantodental interval,FALSE
+ADL,FALSE,FALSE,activities of daily living,TRUE
+ADLs,FALSE,FALSE,activities of daily living,TRUE
+ADP,FALSE,FALSE,adenosine diphosphate,FALSE
+ADR,FALSE,FALSE,adverse drug reaction,FALSE
+A&E,FALSE,FALSE,accident and emergency,FALSE
+A/E,FALSE,FALSE,accident and emergency,FALSE
+AE,FALSE,FALSE,air entry,FALSE
+AF,TRUE,FALSE,amniotic fluid|atrial fibrillation,TRUE
+A-fib,TRUE,FALSE,amniotic fluid|atrial fibrillation,TRUE
+afib,TRUE,FALSE,amniotic fluid|atrial fibrillation,TRUE
+AFB,FALSE,FALSE,acid-fast bacillus,FALSE
+AFE,FALSE,FALSE,amniotic fluid embolism,FALSE
+AFF,FALSE,FALSE,atypical femoral fracture,FALSE
+AFI,FALSE,FALSE,amniotic fluid index,FALSE
+AFP,FALSE,FALSE,alpha fetoprotein,FALSE
+AFS,FALSE,FALSE,allergic fungal sinusitis,FALSE
+AG,TRUE,TRUE,anion gap|antiglobulin,FALSE
+Ag,TRUE,TRUE,silver|antigen,FALSE
+A/G,FALSE,FALSE,albumin-globulin ratio,FALSE
+AI,TRUE,FALSE,artificial insemination|assisted insemination|artificial intelligence|autoimmune,FALSE
+AICA,FALSE,FALSE,anterior inferior cerebellar artery,FALSE
+AICD,FALSE,FALSE,automated implantable cardiac defibrillator,FALSE
+AIDS,FALSE,FALSE,acquired immunodeficiency syndrome,FALSE
+AIIS,FALSE,FALSE,anterior inferior iliac spine,FALSE
+AIN,FALSE,FALSE,acute interstitial nephritis,FALSE
+AIP,FALSE,FALSE,acute interstitial pneumonitis,FALSE
+AJL,FALSE,FALSE,anterior junctional line,FALSE
+AJNR,FALSE,FALSE,American Journal of Neuroradiology,FALSE
+AJR,FALSE,FALSE,American Journal of Roentgenology,FALSE
+AKA,FALSE,FALSE,above knee amputation,FALSE
+AKI,FALSE,FALSE,acute kidney injury,FALSE
+AKU,FALSE,FALSE,alkaptonuria,FALSE
+Al,FALSE,FALSE,aluminum,FALSE
+Ala,FALSE,FALSE,alanine,FALSE
+ALARA,FALSE,FALSE,as low as reasonably achievable,FALSE
+ALARP,FALSE,FALSE,as low as reasonably practicable,FALSE
+ALCAPA,FALSE,FALSE,anomalous left coronary artery from the pulmonary artery,FALSE
+ALD,TRUE,FALSE,adrenoleukodystrophy|alcoholic liver disease,FALSE
+ALHE,FALSE,FALSE,angiolymphoid hyperplasia with eosinophilia,FALSE
+ALI,FALSE,FALSE,acute lung injury,FALSE
+ALIF,FALSE,FALSE,anterior lumbar interbody fusion,FALSE
+ALL,TRUE,FALSE,acute lymphoblastic leukemia|anterior longitudinal ligament,FALSE
+ALND,FALSE,FALSE,axillary lymph node dissection,FALSE
+ALOC,FALSE,FALSE,altered level of consciousness,FALSE
+ALP,FALSE,FALSE,alkaline phosphatase,FALSE
+ALPSA,FALSE,FALSE,anterior labroligamentous periosteal sleeve avulsion,FALSE
+ALS,TRUE,FALSE,amyotrophic lateral sclerosis|advanced life support,FALSE
+ALT,TRUE,FALSE,alanine transaminase|anterolateral thigh free flap,FALSE
+ALTE,FALSE,FALSE,acute life-threatening event,FALSE
+AM,TRUE,TRUE,abdominal migraine|acute marginal artery,FALSE
+Am,FALSE,TRUE,americium,FALSE
+AMA,FALSE,FALSE,American Medical Association,FALSE
+AmE,FALSE,FALSE,American English,FALSE
+AMI,TRUE,FALSE,acute myocardial infarct|acute mitral insufficiency,FALSE
+A-mode,FALSE,FALSE,amplitude mode,FALSE
+AMP,FALSE,FALSE,adenosine monophosphate,FALSE
+AMPA,FALSE,FALSE,α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid,FALSE
+AN,TRUE,FALSE,acoustic neuroma|aneurysm,FALSE
+ANA,FALSE,FALSE,antinuclear antibodies,FALSE
+anat,FALSE,FALSE,anatomy,FALSE
+ANED,FALSE,FALSE,alive no evidence of disease,FALSE
+ANOH,FALSE,FALSE,anatomic neck of humerus,FALSE
+Ao,FALSE,FALSE,aorta,FALSE
+AOD,FALSE,FALSE,atlanto-occipital dissociation injury,FALSE
+AOM,FALSE,FALSE,acute otomastoiditis,FALSE
+AP,FALSE,FALSE,anterior-posterior or anteroposterior,FALSE
+APLA,FALSE,FALSE,antiphospholipid antibodies,FALSE
+APML,FALSE,FALSE,acute promyelocytic leukemia,FALSE
+APO,FALSE,FALSE,acute pulmonary edema,FALSE
+APR,FALSE,FALSE,abdominoperineal resection,FALSE
+APRV,FALSE,FALSE,airway pressure release ventilation,FALSE
+APT,FALSE,FALSE,antiplatelet therapy,FALSE
+APTT,FALSE,FALSE,activated partial thromboplastin time,FALSE
+APW,FALSE,FALSE,aortopulmonary window,FALSE
+AR,TRUE,TRUE,aortic regurgitation|augmented reality|autosomal recessive,FALSE
+Ar,FALSE,TRUE,argon,FALSE
+ARDS,FALSE,FALSE,acute respiratory distress syndrome,FALSE
+ARF,FALSE,FALSE,acute renal failure,FALSE
+Arg,FALSE,FALSE,arginine,FALSE
+ARRS,FALSE,FALSE,American Roentgen Ray Society,FALSE
+ARS,FALSE,FALSE,American Radium Society,FALSE
+ART,FALSE,FALSE,assisted reproductive technology,FALSE
+AS,TRUE,TRUE,ankylosing spondylitis|aortic sclerosis|aortic stenosis|associate specialist,FALSE
+As,FALSE,TRUE,arsenic,FALSE
+ASA,FALSE,FALSE,acetylsalicylic acid|aspirin,FALSE
+ASB,FALSE,FALSE,anatomical snuff box,FALSE
+ASD,TRUE,FALSE,atrial septal defect|autistic spectrum disorder,FALSE
+aSDH,FALSE,FALSE,acute subdural hemorrhage,FALSE
+ASIS,FALSE,FALSE,anterior superior iliac spine,FALSE
+Asn,FALSE,FALSE,asparagine,FALSE
+ASNR,FALSE,FALSE,American Society of Neuroradiology,FALSE
+ASP triad,FALSE,FALSE,anorectal malformation or congenital anorectal stenosis sacrococcygeal osseous defect presacral mass,FALSE
+Asp,FALSE,FALSE,aspartic acid,FALSE
+ASPECTS,FALSE,FALSE,Alberta stroke program early CT score,FALSE
+ASR,FALSE,FALSE,atraumatic splenic rupture,FALSE
+AST,FALSE,FALSE,aspartate transaminase,FALSE
+ASUC,FALSE,FALSE,acute severe ulcerative colitis,FALSE
+AT,FALSE,TRUE,atrial tachycardia,FALSE
+At,FALSE,TRUE,astatine,FALSE
+ATA,FALSE,FALSE,anterior tibial artery,FALSE
+ATECO,FALSE,FALSE,auto-triggered elliptic centric-ordered,FALSE
+ATG,FALSE,FALSE,antithymocyte globulin,FALSE
+ATFL,FALSE,FALSE,anterior talofibular ligament,FALSE
+ATL,FALSE,FALSE,anterior temporal lobectomy,FALSE
+ATLS,FALSE,FALSE,advanced trauma life support,FALSE
+ATOR,FALSE,FALSE,at time of review,FALSE
+ATP,FALSE,FALSE,adenosine triphosphate,FALSE
+ATRA,FALSE,FALSE,all-trans retinoic acid,FALSE
+ATRT,FALSE,FALSE,atypical teratoid rhabdoid tumor,FALSE
+Au,FALSE,FALSE,gold,FALSE
+AUR,FALSE,FALSE,acute urinary retention,FALSE
+AV,TRUE,FALSE,aortic valve|atrioventricular,FALSE
+AVF,FALSE,FALSE,arteriovenous fistula,FALSE
+AVM,FALSE,FALSE,arteriovenous malformation,FALSE
+AVNRT,FALSE,FALSE,AV nodal re-entry tachycardia,FALSE
+AVR,FALSE,FALSE,aortic valve replacement,FALSE
+AVSD,FALSE,FALSE,atrioventricular septal defect,FALSE
+Ax,TRUE,FALSE,axial|axilla,FALSE
+AXR,FALSE,FALSE,abdominal X-ray,FALSE
+AZ,FALSE,FALSE,apical zone,FALSE
+AZT,FALSE,FALSE,azidothymidine,FALSE
+B,TRUE,FALSE,blood type|boron|class of vitamins,FALSE
+Ba,FALSE,FALSE,barium,FALSE
+BAC,FALSE,FALSE,bronchioloalveolar carcinoma,FALSE
+BADASS,FALSE,FALSE,biochemical abnormality of doubtful actual sense or significance,FALSE
+BAHA,FALSE,FALSE,bone-anchored hearing aid,FALSE
+BAL,FALSE,FALSE,bronchoalveolar lavage,FALSE
+B-ALL,FALSE,FALSE,B-cell acute lymphoblastic leukemia,FALSE
+BARP,FALSE,FALSE,British Association for the Advancement of Radiology and Physiotherapy,FALSE
+BAV,FALSE,FALSE,bicuspid aortic valve,FALSE
+BBB,TRUE,FALSE,balloon breast brachytherapy|blood brain barrier|bundle branch block,FALSE
+BBT,FALSE,FALSE,basal body temperature,FALSE
+BC,TRUE,FALSE,blood culture|bone conduction,FALSE
+BCC,TRUE,FALSE,basal cell carcinoma|branchial cleft cyst,FALSE
+BCG,FALSE,FALSE,bacillus Calmette-Guérin vaccine,FALSE
+BCT,FALSE,FALSE,broad complex tachycardia,FALSE
+BCV,FALSE,FALSE,brachiocephalic vein,FALSE
+BCVI,FALSE,FALSE,blunt cerebrovascular injury,FALSE
+BD,FALSE,FALSE,twice a day,FALSE
+BDFL,FALSE,FALSE,benevolent dictator for life,FALSE
+BD-IPMN,FALSE,FALSE,branch duct type - intraductal papillary mucinous neoplasm,FALSE
+BE,TRUE,TRUE,barium enema|base excess,FALSE
+Be,FALSE,TRUE,beryllium,FALSE
+Benzo,FALSE,FALSE,benzodiazepine,FALSE
+BeS,FALSE,FALSE,beryllium sensitization,FALSE
+BG,TRUE,FALSE,basal ganglia|blood glucose,FALSE
+bHCG,FALSE,FALSE,beta human chorionic gonadotropin,FALSE
+BHD,FALSE,FALSE,Birt-Hogg-Dubé syndrome,FALSE
+BHR,FALSE,FALSE,Birmingham hip resurfacing,FALSE
+Bi,FALSE,FALSE,bismuth,FALSE
+BIAD,FALSE,FALSE,blind insertion airway device,FALSE
+BIBA,FALSE,FALSE,brought in by ambulance,FALSE
+bicarb,FALSE,FALSE,sodium bicarbonate,FALSE
+BID,TRUE,FALSE,brought in dead|twice a day,FALSE
+bil dil,FALSE,FALSE,biliary dilatation,FALSE
+BiPAP,FALSE,FALSE,bilevel positive airway pressure,FALSE
+BIR,FALSE,FALSE,British Institute of Radiology,FALSE
+BI-RADS,FALSE,FALSE,breast imaging - reporting and data system,FALSE
+BiVAD,FALSE,FALSE,biventricular assist device,FALSE
+BJP,FALSE,FALSE,Bence-Jones proteins,FALSE
+BJR,FALSE,FALSE,British Journal of Radiology,FALSE
+BK,FALSE,TRUE,bradykinin,FALSE
+Bk,FALSE,TRUE,berkelium,FALSE
+BKA,FALSE,FALSE,below-the-knee amputation,FALSE
+BL,FALSE,FALSE,Burkitt lymphoma,FALSE
+B/L,FALSE,FALSE,bilateral,FALSE
+Bld,FALSE,FALSE,blood,FALSE
+BLS,FALSE,FALSE,basic life support,FALSE
+BM,TRUE,FALSE,bachelor of medicine|blood sugar|bone marrow|bowel movement,FALSE
+BMD,TRUE,FALSE,Becker muscular dystrophy|bone mineral density,FALSE
+BMI,FALSE,FALSE,body mass index,FALSE
+B-mode,FALSE,FALSE,brightness mode,FALSE
+BMP,FALSE,FALSE,basic metabolic panel,FALSE
+BMR,FALSE,FALSE,basic metabolic rate,FALSE
+BMS,TRUE,FALSE,bare metal stent|bowel management system,FALSE
+BMT,FALSE,FALSE,bone marrow transplant,FALSE
+BNF,FALSE,FALSE,British National Formulary,FALSE
+BNO,FALSE,FALSE,bowel not opening,FALSE
+BNP,FALSE,FALSE,brain natriuretic peptide,FALSE
+BO,TRUE,FALSE,bowel opening|branchio-otic syndrome,FALSE
+B/O,FALSE,FALSE,because of,FALSE
+BOFS,FALSE,FALSE,branchio-oculo-facial syndrome,FALSE
+BOLD,FALSE,FALSE,blood oxygenation level dependent contrast,FALSE
+BOM,FALSE,FALSE,bilateral otitis media,FALSE
+BOO,FALSE,FALSE,bladder outlet obstruction,FALSE
+BOOP,FALSE,FALSE,bronchiolitis obliterans organizing pneumonia,FALSE
+BOR,FALSE,FALSE,branchio-oto-renal syndrome,FALSE
+BOS,FALSE,FALSE,bronchiolitis obliterans syndrome,FALSE
+BP,TRUE,FALSE,base pair|Bell palsy|bipolar disorder|blood pressure|British Pharmacopoeia,FALSE
+BPA,FALSE,FALSE,balloon pulmonary angioplasty,FALSE
+BPAD,FALSE,FALSE,bipolar affective disorder,FALSE
+BPD,TRUE,FALSE,biliopancreatic diversion|biparietal diameter|bipolar disorder|borderline-personality disorder|bronchopulmonary dysplasia,FALSE
+BPDCN,FALSE,FALSE,blastic plasmacytoid dendritic cell neoplasm,FALSE
+BPE,FALSE,FALSE,benign prostatic enlargement,FALSE
+BPG,FALSE,FALSE,bypass graft,FALSE
+BPH,TRUE,FALSE,benign prostatic hyperplasia|benign prostatic hypertrophy,FALSE
+BPI,FALSE,FALSE,best possible image,FALSE
+BPM,FALSE,FALSE,beats per minute,FALSE
+BPOP,FALSE,FALSE,bizarre parosteal osteochondromatous proliferation,FALSE
+BPPV,FALSE,FALSE,benign paroxysmal positional vertigo,FALSE
+BPV,FALSE,FALSE,benign positional vertigo,FALSE
+Bq,FALSE,FALSE,becquerel,FALSE
+Br,FALSE,FALSE,bromine,FALSE
+BRBPR,FALSE,FALSE,bright red blood per rectum,FALSE
+BRCA,FALSE,FALSE,breast cancer,FALSE
+BRCA1,FALSE,FALSE,breast cancer 1,FALSE
+BRCA2,FALSE,FALSE,breast cancer 2,FALSE
+BRET,FALSE,FALSE,background radiation equivalent time,FALSE
+BRIC,FALSE,FALSE,benign recurrent intrahepatic cholestasis,FALSE
+Bronch,FALSE,FALSE,bronchoscopy,FALSE
+BRONJ,FALSE,FALSE,bisphosphonate-related osteonecrosis of the jaw,FALSE
+BS,FALSE,FALSE,Bachelor of Surgery,FALSE
+BSA,FALSE,FALSE,body surface area,FALSE
+BSc,FALSE,FALSE,Bachelor of Science,FALSE
+BSL,TRUE,FALSE,blood sugar level|British sign language,FALSE
+BSO,FALSE,FALSE,bilateral salpingo-oophorectomy,FALSE
+bSSFP,FALSE,FALSE,balanced steady state free precession,FALSE
+BSSO,FALSE,FALSE,bilateral sagittal split osteotomy,FALSE
+BST,FALSE,FALSE,basic surgical training,FALSE
+BT,FALSE,FALSE,bleeding time,FALSE
+BTM,FALSE,FALSE,Biodegradable Temporising Matrix,FALSE
+BTS,FALSE,FALSE,British Thoracic Society,FALSE
+BUN,FALSE,FALSE,blood urea nitrogen,FALSE
+BV,FALSE,FALSE,bacterial vaginosis,FALSE
+BW,TRUE,FALSE,bandwidth|birth weight,FALSE
+Bx,FALSE,FALSE,biopsy,FALSE
+C,TRUE,FALSE,cesarean|carbon|Celsius|cervical|coulomb|cysteine|cytosine,FALSE
+C1-C3,FALSE,FALSE,cruciate pulleys,FALSE
+C1-C7,TRUE,FALSE,cervical spinal nerve roots|cervical vertebrae,FALSE
+C2H5OH,FALSE,FALSE,ethanol,FALSE
+C8,FALSE,FALSE,eighth cervical nerve root,FALSE
+CA,TRUE,TRUE,calcification|cancer|carcinoma,FALSE
+Ca,FALSE,TRUE,calcium,FALSE
+CA 15-3,FALSE,FALSE,carcinoma antigen 15-3,FALSE
+CA 19-9,FALSE,FALSE,cancer antigen 19-9,FALSE
+CA 27-29,FALSE,FALSE,cancer antigen 27-29,FALSE
+CA-125,FALSE,FALSE,cancer antigen 125,FALSE
+CAA,FALSE,FALSE,coronary artery aneurysm,FALSE
+CABG,FALSE,FALSE,coronary artery bypass graft,FALSE
+CAC,FALSE,FALSE,coronary artery calcification,FALSE
+CAD,TRUE,FALSE,computer-aided diagnosis|coronary artery disease,FALSE
+CADASIL,FALSE,FALSE,cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,FALSE
+CAE,FALSE,FALSE,coronary artery ectasia,FALSE
+CAG,FALSE,FALSE,coronary artery graft,FALSE
+CAGS,FALSE,FALSE,coronary artery graft surgery,FALSE
+CAH,FALSE,FALSE,congenital adrenal hyperplasia,FALSE
+CAIPIRINHA,FALSE,FALSE,controlled aliasing in parallel imaging results in higher acceleration,FALSE
+CANVAS,FALSE,FALSE,cerebellar ataxia with neuropathy and vestibular areflexia syndrome,FALSE
+CAP,TRUE,FALSE,chest-abdomen-pelvis|community-acquired pneumonia,FALSE
+CAPD,FALSE,FALSE,continuous ambulatory peritoneal dialysis,FALSE
+CARASIL,FALSE,FALSE,cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy,FALSE
+CAS,FALSE,FALSE,carotid artery stenosis,FALSE
+CASA,FALSE,FALSE,computer-assisted semen analysis,FALSE
+CASH,FALSE,FALSE,chemotherapy-associated steatohepatitis,FALSE
+CAT,TRUE,FALSE,computed axial tomography or computer-aided tomography|critically-appraised topic,FALSE
+CBAVD,FALSE,FALSE,congenital bilateral absence of vas deferens,FALSE
+CBC,FALSE,FALSE,complete blood count,FALSE
+CBCT,FALSE,FALSE,cone beam CT,FALSE
+CBD,FALSE,FALSE,common bile duct,FALSE
+CBF,FALSE,FALSE,cerebral blood flow,FALSE
+CBH,FALSE,FALSE,change in bowel habit,FALSE
+CBI,FALSE,FALSE,continuous bladder irrigation,FALSE
+CBV,FALSE,FALSE,cerebral blood volume,FALSE
+CC,TRUE,FALSE,caudocranial|caudocraniad|chief complaint|copy to|corpus callosum|craniocaudad|craniocaudal|Creative Commons|cubic centimeter,FALSE
+CCA,FALSE,FALSE,common carotid artery,FALSE
+CCC,FALSE,FALSE,continuous curvilinear capsulorrhexis,FALSE
+CCCT,FALSE,FALSE,clomiphene citrate challenge test,FALSE
+CCD,TRUE,FALSE,caput-collum-diaphyseal|charge-coupled device|crossed cerebellar diaschisis,FALSE
+CCF,TRUE,FALSE,caroticocavernous fistula|congestive cardiac failure,FALSE
+CCL,FALSE,FALSE,corpus callosum lipoma,FALSE
+CCP:,TRUE,FALSE,central chest pain|cyclic citrullinated peptide,FALSE
+CCS,FALSE,FALSE,combined conduit score,FALSE
+CCST,FALSE,FALSE,Certificate of Completion of Specialist Training,FALSE
+CCT,FALSE,FALSE,Certificate of Completion of Training,FALSE
+CCU,TRUE,FALSE,coronary care unit|critical care unit,FALSE
+CD,TRUE,TRUE,clinical director|Clostridioides difficile|cluster of differentiation|common duct|compact disc|Crohn disease|cystic duct,FALSE
+Cd,FALSE,TRUE,cadmium,FALSE
+cd,FALSE,TRUE,candela,FALSE
+CDC,FALSE,FALSE,Centers for Disease Control and Prevention,FALSE
+CDE,FALSE,FALSE,complete dental evaluation,FALSE
+CDH,TRUE,FALSE,congenital diaphragmatic hernia|congenital dislocation of the hip,FALSE
+CDR,FALSE,FALSE,clinical decision rules,FALSE
+CD-ROM,FALSE,FALSE,compact disc - read only memory disc,FALSE
+CDS,TRUE,FALSE,carotid duplex study|clinical decision support,FALSE
+CDT,TRUE,FALSE,catheter-directed therapy|catheter-directed thrombolysis|_Clostridioides difficile_ toxin,FALSE
+CE,FALSE,TRUE,contrast-enhanced,FALSE
+Ce,FALSE,TRUE,cerium,FALSE
+CEA,TRUE,FALSE,carcinoembryonic antigen|carotid endarterectomy,FALSE
+CECT,FALSE,FALSE,contrast-enhanced computed tomography,FALSE
+CEMR,FALSE,FALSE,contrast-enhanced magnetic resonance,FALSE
+CEMRI,FALSE,FALSE,contrast-enhanced magnetic resonance imaging,FALSE
+CES,FALSE,FALSE,cauda equina syndrome,FALSE
+CEUS,FALSE,FALSE,contrast-enhanced ultrasound,FALSE
+CF,FALSE,TRUE,cystic fibrosis,FALSE
+cf,FALSE,TRUE,compare with,FALSE
+CFA,FALSE,FALSE,common femoral artery,FALSE
+CFC,FALSE,FALSE,cardiofaciocutaneous syndrome,FALSE
+CFDM,FALSE,FALSE,cystic fibrosis - related diabetes mellitus,FALSE
+CFL,FALSE,FALSE,calcaneofibular ligament,FALSE
+CFV,FALSE,FALSE,common femoral vein,FALSE
+cgs,FALSE,FALSE,centimeter-gram-second,FALSE
+CHALICE,FALSE,FALSE,children's head injury algorithm for prediction of clinically important event,FALSE
+CHB,FALSE,FALSE,complete heart block,FALSE
+CHD,TRUE,FALSE,common hepatic duct|congenital heart disease|coronary heart disease,FALSE
+chem,FALSE,FALSE,chemistry,FALSE
+CHESS,FALSE,FALSE,chemical shift selective pulses,FALSE
+CHF,FALSE,FALSE,congestive heart failure,FALSE
+CHILD syndrome,FALSE,FALSE,congenital hemidysplasia with ichthyosiform erythroderma and limb defects,FALSE
+CHL,TRUE,FALSE,conductive hearing loss|coracoacromial ligament,FALSE
+CHO,FALSE,FALSE,carbohydrate,FALSE
+Chol,FALSE,FALSE,cholesterol,FALSE
+CHOP,FALSE,FALSE,cyclophosphamide doxorubicin Oncovin prednisolone,FALSE
+CI,TRUE,TRUE,compound imaging|confidence interval|contraindication,FALSE
+Ci,FALSE,TRUE,curie,FALSE
+C/I,FALSE,FALSE,contraindication,FALSE
+CIA,FALSE,FALSE,common iliac artery,FALSE
+CIDP,FALSE,FALSE,chronic inflammatory demyelinating polyneuropathy,FALSE
+CIED,FALSE,FALSE,cardiac implantable electronic device,FALSE
+CIN,TRUE,FALSE,cervical intraepithelial neoplasia|contrast-induced nephropathy|contrast-induced neurotoxicity,FALSE
+CIRSE,FALSE,FALSE,Cardiovascular and Interventional Radiology Society of Europe,FALSE
+CIS,FALSE,FALSE,clinically isolated syndrome,FALSE
+CISS,FALSE,FALSE,constructive interference in steady state,FALSE
+CIV,FALSE,FALSE,common iliac vein,FALSE
+CJD,FALSE,FALSE,Creutzfeldt-Jakob disease,FALSE
+CK,FALSE,FALSE,creatine kinase,FALSE
+CKD,FALSE,FALSE,chronic kidney disease,FALSE
+Cl,FALSE,FALSE,chlorine,FALSE
+CLABSI,FALSE,FALSE,central line-associated blood stream infection,FALSE
+CLEAR,FALSE,FALSE,constant level appearance,FALSE
+CLIPPERS,FALSE,FALSE,chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids,FALSE
+cm,FALSE,FALSE,centimeter,FALSE
+CMCJ,FALSE,FALSE,carpometacarpal joint,FALSE
+CME,FALSE,FALSE,continuing medical education,FALSE
+CMF,FALSE,FALSE,chondromyxoid fibroma,FALSE
+CMP,FALSE,FALSE,cardiomyopathy,FALSE
+CMR,FALSE,FALSE,complete metabolic response,FALSE
+CMT,FALSE,FALSE,Charcot-Marie-Tooth disease,FALSE
+CMV,FALSE,FALSE,cytomegalovirus,FALSE
+CN,FALSE,FALSE,cranial nerve,FALSE
+CNLD,FALSE,FALSE,chronic neonatal lung disease,FALSE
+CNN,FALSE,FALSE,convolutional neural network,FALSE
+CNR,FALSE,FALSE,contrast-to-noise ratio,FALSE
+CNS,FALSE,FALSE,central nervous system,FALSE
+CO,TRUE,TRUE,carbon monoxide|cardiac output,FALSE
+Co,TRUE,TRUE,cobalt|coccygeal vertebrae,FALSE
+C/O,FALSE,FALSE,complaining of,FALSE
+CoA,FALSE,FALSE,coarctation of aorta,FALSE
+COAD,FALSE,FALSE,chronic obstructive airways disease,FALSE
+COAG,FALSE,FALSE,chronic open-angle glaucoma,FALSE
+COBH,FALSE,FALSE,change of bowel habit,FALSE
+COCP,FALSE,FALSE,combined oral contraceptive pill,FALSE
+COH,FALSE,FALSE,controlled ovarian hyperstimulation,FALSE
+COLD,FALSE,FALSE,Cowden-Lhermitte-Duclos syndrome,FALSE
+COM,FALSE,FALSE,chronic otomastoiditis,FALSE
+COP,TRUE,FALSE,combined oral contraceptive pill|cryptogenic organizing pneumonia,FALSE
+COPD,FALSE,FALSE,chronic obstructive pulmonary disease,FALSE
+Cor,FALSE,TRUE,coronal,FALSE
+CoR,FALSE,TRUE,College of Radiographers,FALSE
+COW,FALSE,FALSE,circle of Willis,FALSE
+CP,TRUE,FALSE,ceruloplasmin|cerebral palsy|cervical position|chest pain|cross-polarization,FALSE
+CPA,TRUE,FALSE,cerebellopontine angle|costophrenic angle,FALSE
+CPAM,FALSE,FALSE,congenital pulmonary airway malformation,FALSE
+CPAP,FALSE,FALSE,continuous positive airway pressure,FALSE
+CPB,FALSE,FALSE,cardiopulmonary bypass,FALSE
+CPC,FALSE,FALSE,choroid plexus cyst,FALSE
+CPD,FALSE,FALSE,continuing professional development,FALSE
+CPE,FALSE,FALSE,carbapenem-producing enterobacteriaceae,FALSE
+CPFE,FALSE,FALSE,combined pulmonary fibrosis and emphysema,FALSE
+CPFI,FALSE,FALSE,chest pain for investigation,FALSE
+CPK,FALSE,FALSE,creatine phosphokinase,FALSE
+CPR,FALSE,FALSE,cardiopulmonary resuscitation,FALSE
+CQC,FALSE,FALSE,Care Quality Commission,FALSE
+CR,FALSE,TRUE,complete response,FALSE
+Cr,TRUE,TRUE,chromium|creatinine,FALSE
+CRA,FALSE,FALSE,coral reef aorta,FALSE
+CRAO,FALSE,FALSE,central retinal artery occlusion,FALSE
+CRC,FALSE,FALSE,colorectal cancer,FALSE
+CRE,FALSE,FALSE,carbapenem-resistant enterobacteriaceae,FALSE
+Creat,FALSE,FALSE,creatinine,FALSE
+CREST,FALSE,FALSE,calcinosis Raynaud phenomenon esophageal dysmotility sclerodactyly telangiectasia,FALSE
+CRF,TRUE,FALSE,chronic renal failure|corticotropin-releasing factor,FALSE
+CRIF,FALSE,FALSE,closed reduction internal fixation,FALSE
+CRION,FALSE,FALSE,chronic relapsing inflammatory optic neuropathy,FALSE
+CRISPR,FALSE,FALSE,clustered regularly interspaced short palindromic repeats,FALSE
+CRL,FALSE,FALSE,crown-rump length,FALSE
+CRM,FALSE,FALSE,circumferential resection margin,FALSE
+CRMD,FALSE,FALSE,cardiac rhythm management device,FALSE
+CRP,FALSE,FALSE,C-reactive protein,FALSE
+CRPS,FALSE,FALSE,complex regional pain syndrome,FALSE
+CRS,FALSE,FALSE,chronic rhinosinusitis,FALSE
+CRT,TRUE,FALSE,capillary refill time|cathode ray tube,FALSE
+CRTX,FALSE,FALSE,chemoradiotherapy,FALSE
+CRUK,FALSE,FALSE,Cancer Research UK,FALSE
+CS,TRUE,TRUE,Cesarean section|cavernous sinus|chemical shift|compressed sensing|coronary sinus|corticospinal,FALSE
+Cs,FALSE,TRUE,cesium,FALSE
+C&S,FALSE,FALSE,culture and sensitivity,FALSE
+C/S,FALSE,FALSE,cesarean section,FALSE
+cSDH,FALSE,FALSE,chronic subdural hemorrhage,FALSE
+CSF,FALSE,FALSE,cerebrospinal fluid,FALSE
+CS-MRI,FALSE,FALSE,chemical shift MRI,FALSE
+CSNT,FALSE,FALSE,calves soft and non tender,FALSE
+CSOM,FALSE,FALSE,chronic serous otitis media,FALSE
+CSS,FALSE,FALSE,Churg-Strauss syndrome,FALSE
+CSU,FALSE,FALSE,catheter specimen of urine,FALSE
+CSW,FALSE,FALSE,commercial sex worker,FALSE
+CT,TRUE,FALSE,chemotherapy|computed tomography,FALSE
+CTA,FALSE,FALSE,computed tomography angiography,FALSE
+CTAP,FALSE,FALSE,computed tomography abdomen pelvis,FALSE
+CTB,FALSE,FALSE,computed tomography brain,FALSE
+CTC,FALSE,FALSE,computed tomography colonoscopy,FALSE
+CTCA,FALSE,FALSE,computed tomography coronary angiogram,FALSE
+CTCAP,FALSE,FALSE,computed tomography chest abdomen pelvis,FALSE
+CTDI,FALSE,FALSE,CT dose index,FALSE
+CTED,FALSE,FALSE,chronic thromboembolic disease,FALSE
+CTEPH,FALSE,FALSE,chronic thromboembolic pulmonary hypertension,FALSE
+CTEV,FALSE,FALSE,congenital talipes equinovarus,FALSE
+CTG,FALSE,FALSE,cardiotocography,FALSE
+CTH,FALSE,FALSE,computed tomography head,FALSE
+CTIVC,FALSE,FALSE,computed tomography intravenous cholangiogram,FALSE
+CTIVP,FALSE,FALSE,computed tomography intravenous pyelogram,FALSE
+CTO,FALSE,FALSE,chronic total occlusion,FALSE
+CTP,FALSE,FALSE,computed tomography perfusion,FALSE
+CTPA,TRUE,FALSE,computed tomography pulmonary angiogram|computed tomography pulmonary angiography,FALSE
+CTPE,FALSE,FALSE,computed tomography pulmonary embolus study,FALSE
+CTR,FALSE,FALSE,cardiothoracic ratio,FALSE
+CTS,FALSE,FALSE,carpal tunnel syndrome,FALSE
+CTSI,FALSE,FALSE,CT severity index,FALSE
+CTTAP,FALSE,FALSE,computed tomography thorax abdomen pelvis,FALSE
+CTU,FALSE,FALSE,computed tomography urogram,FALSE
+CTV,TRUE,FALSE,clinical target volume|computed tomography venogram,FALSE
+CTX,FALSE,FALSE,chemotherapy,FALSE
+CTZ,FALSE,FALSE,chemosensitive trigger zone,FALSE
+Cu,FALSE,FALSE,copper,FALSE
+CUP,FALSE,FALSE,cancer of unknown primary,FALSE
+CV,FALSE,FALSE,curriculum vitae,FALSE
+CVA,FALSE,FALSE,cerebrovascular accident,FALSE
+CVAD,FALSE,FALSE,central venous access device,FALSE
+CVC,FALSE,FALSE,central venous catheter,FALSE
+CVE,FALSE,FALSE,cerebrovascular event,FALSE
+cVEMP,FALSE,FALSE,cervical vestibular-evoked myogenic potentials,FALSE
+CVID,FALSE,FALSE,common variable immune deficiency,FALSE
+CVL,FALSE,FALSE,central venous line,FALSE
+CVP,FALSE,FALSE,central venous pressure,FALSE
+CVS,TRUE,FALSE,cardiovascular system|chorionic villus sampling,FALSE
+CWD,FALSE,FALSE,continuous wave Doppler,FALSE
+CWP,FALSE,FALSE,coal workers' pneumoconiosis,FALSE
+Cx,TRUE,FALSE,cervix|circumflex artery|complication,FALSE
+CXR,FALSE,FALSE,chest x-ray,FALSE
+Cys,FALSE,FALSE,cysteine,FALSE
+CZ,FALSE,FALSE,central zone,FALSE
+D,TRUE,FALSE,aspartic acid|day|diarrhea|distal|dorsal ,FALSE
+D&C,FALSE,FALSE,dilation and curettage,FALSE
+DA,FALSE,TRUE,dopamine,FALSE
+Da,FALSE,TRUE,dalton,FALSE
+DAD,FALSE,FALSE,diffuse alveolar damage,FALSE
+DAH,FALSE,FALSE,diffuse alveolar hemorrhage,FALSE
+DAI,FALSE,FALSE,diffuse axonal injury,FALSE
+DAPLD,FALSE,FALSE,domestically acquired particulate lung disease,FALSE
+DAPT,FALSE,FALSE,dual antiplatelet therapy,FALSE
+DAT,FALSE,FALSE,dopamine active transporter,FALSE
+DAVF,FALSE,FALSE,dural arteriovenous fistula,FALSE
+dB,FALSE,FALSE,decibel,FALSE
+DBP,FALSE,FALSE,diastolic blood pressure,FALSE
+DBS,FALSE,FALSE,deep brain stimulation,FALSE
+DC,TRUE,FALSE,descending colon|direct current|discharge,FALSE
+D&C,FALSE,FALSE,dilation and curettage,FALSE
+D/C,FALSE,FALSE,discharge,FALSE
+DCD,FALSE,FALSE,donation before cardiac death,FALSE
+DCDA,FALSE,FALSE,dichorionic diamniotic,FALSE
+DCE,FALSE,FALSE,dynamic contrast enhancement,FALSE
+DCG,FALSE,FALSE,dacrocystogram,FALSE
+DCI,FALSE,FALSE,delayed cerebral ischemia,FALSE
+DCIA,FALSE,FALSE,deep circumflex iliac artery,FALSE
+DCIS,FALSE,FALSE,ductal carcinoma in situ,FALSE
+DCM,FALSE,FALSE,dilated cardiomyopathy,FALSE
+DCR,FALSE,FALSE,digitized chest radiograph,FALSE
+DD,TRUE,FALSE,differential diagnosis|duodenal diverticulum,FALSE
+DDD,TRUE,FALSE,degenerative disc disease|dual pacing dual sensing and dual response pacemaker mode,FALSE
+DDMFR,FALSE,FALSE,Diploma in Dental and Maxillofacial Radiology,FALSE
+DDx,FALSE,FALSE,differential diagnosis,FALSE
+DEB,FALSE,FALSE,drug-eluting balloon,FALSE
+DEB-TACE,FALSE,FALSE,drug-eluting bead transcatheter arterial chemoembolisation,FALSE
+DECT,FALSE,FALSE,dual-energy CT,FALSE
+defib,FALSE,FALSE,defibrillator,FALSE
+DENV,FALSE,FALSE,dengue viruses,FALSE
+deoxyHb,FALSE,FALSE,deoxygenated hemoglobin,FALSE
+DES,TRUE,FALSE,diethylstilbestrol|drug-eluting stent,FALSE
+DESS,FALSE,FALSE,double echo steady state sequence,FALSE
+DEXA,FALSE,FALSE,dual energy x-ray absorptiometry,FALSE
+DF118,FALSE,FALSE,dihydrocodeine,FALSE
+DFI,FALSE,FALSE,diabetic foot infection,FALSE
+DFR,FALSE,FALSE,distal femoral replacement,FALSE
+dGEMRIC,FALSE,FALSE,delayed gadolinium-enhanced MRI of cartilage,FALSE
+DGH,FALSE,FALSE,district general hospital,FALSE
+DHEA,FALSE,FALSE,dihydroepiandrosterone,FALSE
+DI,FALSE,FALSE,diabetes insipidus,FALSE
+DIC,FALSE,FALSE,disseminated intravascular coagulation,FALSE
+DICOM,FALSE,FALSE,digital imaging and communications in medicine,FALSE
+DIEP,FALSE,FALSE,deep inferior epigastric perforators,FALSE
+DIH,FALSE,FALSE,direct inguinal hernia,FALSE
+DILI,FALSE,FALSE,drug-induced liver injury,FALSE
+DIP,FALSE,FALSE,desquamative interstitial pneumonia,FALSE
+DIPI,FALSE,FALSE,direct intraperitoneal insemination,FALSE
+DIPJ,FALSE,FALSE,distal interphalangeal joint,FALSE
+DIPNECH,FALSE,FALSE,diffuse idiopathic neuroendocrine cell hyperplasia,FALSE
+DIR,FALSE,FALSE,double inversion recovery,FALSE
+DISH,FALSE,FALSE,diffuse idiopathic skeletal hyperostosis,FALSE
+DISI,FALSE,FALSE,dorsal intercalated segment instability,FALSE
+DJBL,FALSE,FALSE,duodenal–jejunal bypass liner,FALSE
+DJD,FALSE,FALSE,degenerative joint disease,FALSE
+DJF,FALSE,FALSE,duodenojejunal flexure,FALSE
+DKA,FALSE,FALSE,diabetic ketoacidosis,FALSE
+DLBCL,FALSE,FALSE,diffuse large B cell lymphoma,FALSE
+DLB,FALSE,FALSE,dementia with Lewy bodies,FALSE
+DLCO,FALSE,FALSE,diffusing capacity of the lungs for carbon monoxide,FALSE
+DLP,TRUE,FALSE,dose-length product|double-layered patella,FALSE
+DM,FALSE,FALSE,diabetes mellitus,FALSE
+DMBSG,FALSE,FALSE,diffuse midline brainstem glioma,FALSE
+DMD,FALSE,FALSE,Duchenne muscular dystrophy,FALSE
+DMRD,FALSE,FALSE,Diploma in Medical Radiodiagnosis,FALSE
+DMRE,FALSE,FALSE,Diploma in Medical Radiology and Electrology,FALSE
+DMS,FALSE,FALSE,diagnostic medical sonography,FALSE
+DMSA,FALSE,FALSE,dimercaptosuccinic acid,FALSE
+DNA,TRUE,FALSE,deoxyribonucleic acid|did not attend,FALSE
+DNAR,FALSE,FALSE,do not attempt resuscitation,FALSE
+DNC,FALSE,FALSE,dilation and curettage,FALSE
+DNET,FALSE,FALSE,dysembryoplastic neuroepithelial tumor,FALSE
+DNR,FALSE,FALSE,do not resuscitate,FALSE
+DOA,FALSE,FALSE,dead on arrival,FALSE
+DOAC,FALSE,FALSE,direct oral anticoagulant,FALSE
+DOB,FALSE,FALSE,date of birth,FALSE
+DOE,FALSE,FALSE,dyspnea on exertion,FALSE
+DOI,FALSE,FALSE,digital object identifier,FALSE
+DORV,FALSE,FALSE,double outlet right ventricle,FALSE
+DOT,FALSE,FALSE,directly observed therapy,FALSE
+DOTA,FALSE,FALSE,14710-tetraazacyclododecane-14710-tetraacetic acid,FALSE
+DP,FALSE,FALSE,distal phalanx,FALSE
+DPA,FALSE,FALSE,dorsalis pedis artery,FALSE
+DPH,FALSE,FALSE,diffuse pulmonary hemorrhage,FALSE
+DPT,FALSE,FALSE,diphtheria pertussis tetanus,FALSE
+DR,FALSE,FALSE,distal radius,FALSE
+DRG,TRUE,FALSE,diagnosis-related group|dorsal root ganglion,FALSE
+DRUJ,FALSE,FALSE,distal radioulnar joint,FALSE
+DS,TRUE,FALSE,Down syndrome|Dressler syndrome,FALSE
+DSA,FALSE,FALSE,digital subtraction angiography,FALSE
+DSPA,FALSE,FALSE,digital subtraction pulmonary angiography,FALSE
+DT,FALSE,FALSE,delirium tremens,FALSE
+DTaP,FALSE,FALSE,diphtheria tetanus and pertussis,FALSE
+DTI,FALSE,FALSE,diffusion tensor imaging,FALSE
+DTP,FALSE,FALSE,diphtheria tetanus pertussis,FALSE
+DTPA,FALSE,FALSE,diethylenetriaminepentaacetic acid,FALSE
+DTR,FALSE,FALSE,deep tendon reflexes,FALSE
+DTS,FALSE,FALSE,double tissue sampling,FALSE
+DU,FALSE,FALSE,duodenal ulcer,FALSE
+DV,FALSE,FALSE,domestic violence,FALSE
+DVT,FALSE,FALSE,deep vein thrombosis,FALSE
+D/W,FALSE,FALSE,discussion with,FALSE
+DWI,FALSE,FALSE,diffusion weighted imaging,FALSE
+DWM,FALSE,FALSE,Dandy-Walker malformation,FALSE
+Dx,FALSE,FALSE,diagnosis,FALSE
+DXA,FALSE,FALSE,dual energy x-ray absorptiometry,FALSE
+DXT,FALSE,FALSE,deep x-ray therapy,FALSE
+Dy,FALSE,FALSE,dysprosium,FALSE
+DZ,FALSE,FALSE,dizygote,FALSE
+E,TRUE,FALSE,escherichia|estrogen|eyes|glutamic acid|glutamate,FALSE
+E1,FALSE,FALSE,estrone,FALSE
+E2,FALSE,FALSE,estradiol,FALSE
+E3,FALSE,FALSE,estriol,FALSE
+EAC,FALSE,FALSE,external auditory canal,FALSE
+EAM,FALSE,FALSE,external auditory meatus,FALSE
+EARPV,FALSE,FALSE,echogenic anterior wall of the right portal vein,FALSE
+EBIR,FALSE,FALSE,European Board of Interventional Radiology,FALSE
+EBL,TRUE,FALSE,estimated blood loss|evidence-based learning,FALSE
+EBLVRS,FALSE,FALSE,endobronchial lung volume reduction surgery,FALSE
+EBM,TRUE,FALSE,endobronchial metastasis|evidence-based medicine,FALSE
+EBRT,FALSE,FALSE,external beam radiotherapy,FALSE
+EBUS,FALSE,FALSE,endobronchial ultrasound,FALSE
+EBV,TRUE,FALSE,endobronchial valve|Epstein-Barr virus,FALSE
+ECA,FALSE,FALSE,external carotid artery,FALSE
+ECF,FALSE,FALSE,enterocutaneous fistula,FALSE
+ECG,FALSE,FALSE,electrocardiogram,FALSE
+Echo,FALSE,FALSE,echocardigraphy,FALSE
+ECMO,FALSE,FALSE,extracorporeal membrane oxygenation,FALSE
+ECR,TRUE,FALSE,endovascular clot retrieval|European Congress of Radiology,FALSE
+ECRB,FALSE,FALSE,extensor carpi radialis brevis,FALSE
+ECS,FALSE,FALSE,emergency cesarian section,FALSE
+ECST,FALSE,FALSE,European Carotid Surgery Trial,FALSE
+ECT,FALSE,FALSE,electroconvulsive therapy,FALSE
+ED,TRUE,FALSE,emergency department|erectile dysfunction,FALSE
+EDD,FALSE,FALSE,expected date of delivery,FALSE
+EDH,TRUE,FALSE,epidural hemorrhage|extradural hemorrhage,FALSE
+EDiR,FALSE,FALSE,European Diploma in Radiology,FALSE
+EDMS,FALSE,FALSE,electronic document management system,FALSE
+EDV,TRUE,FALSE,end-diastolic velocity|end-diastolic volume,FALSE
+EEE,FALSE,FALSE,eastern equine encephalitis,FALSE
+EF,FALSE,FALSE,ejection fraction,FALSE
+EG,TRUE,FALSE,eosinophilic gastroenteritis|eosinophilic granuloma|for example,FALSE
+EGD,FALSE,FALSE,esophagogastroduodenoscopy,FALSE
+eGFR,FALSE,FALSE,estimated glomerular filtration rate,FALSE
+EGPA,FALSE,FALSE,eosinophilic granulomatosis with polyangiitis,FALSE
+EIA,FALSE,FALSE,external iliac artery,FALSE
+EIF,FALSE,FALSE,echogenic intracardiac focus,FALSE
+EIV,FALSE,FALSE,external iliac vein,FALSE
+EJV,FALSE,FALSE,external jugular vein,FALSE
+EKG,FALSE,FALSE,electrokardiogram,FALSE
+ELST,FALSE,FALSE,endolymphatic sac tumor,FALSE
+EMD,FALSE,FALSE,electromechanical dissociation,FALSE
+EMF,TRUE,FALSE,electromotive force|endomyocardial fibrosis,FALSE
+EMG,FALSE,FALSE,electromyography,FALSE
+EMP,FALSE,FALSE,extramedullary plasmacytoma,FALSE
+EMR,TRUE,FALSE,electronic medical record|endoscopic mucosal resection,FALSE
+EMVI,FALSE,FALSE,extramural vascular invasion,FALSE
+ENB,FALSE,FALSE,electromagnetic navigation bronchoscopy,FALSE
+ENT,FALSE,FALSE,ear nose and throat,FALSE
+EOA,FALSE,FALSE,esophageal obturator airway,FALSE
+EOM,FALSE,FALSE,extraocular muscles,FALSE
+EOS,FALSE,FALSE,early-onset sepsis,FALSE
+E/O,TRUE,FALSE,evidence of|examination of|excision of|exclusion of,FALSE
+EPI,FALSE,FALSE,echo-planar imaging,FALSE
+EPIA,FALSE,FALSE,epiandrosterone,FALSE
+ER,FALSE,TRUE,emergency room,FALSE
+Er,FALSE,TRUE,erbium,FALSE
+ERCP,FALSE,FALSE,endoscopic retrograde cholangiopancreatography,FALSE
+ERV,FALSE,FALSE,expiratory reserve volume,FALSE
+Es,FALSE,FALSE,einsteinium,FALSE
+ESBL,FALSE,FALSE,extended-spectrum beta-lactamase,FALSE
+ESGAR,FALSE,FALSE,European Society of Gastrointestinal and Abdominal Radiology,FALSE
+ESOI,FALSE,FALSE,European Society of Oncological Imaging,FALSE
+ESOS,FALSE,FALSE,extraskeletal osteosarcoma,FALSE
+ESR,TRUE,FALSE,erythrocyte sedimentation rate|European Society of Radiology,FALSE
+ESRF,FALSE,FALSE,end stage renal failure,FALSE
+ESS,TRUE,FALSE,endometrial stromal tumor|endoscopic sinus surgery,FALSE
+ESUR,FALSE,FALSE,European Society of Urogenital Radiology,FALSE
+ESWL,FALSE,FALSE,extracorporeal shock wave lithotripsy,FALSE
+ET,FALSE,FALSE,exercise tolerance,FALSE
+ETA,FALSE,FALSE,estimated time of arrival,FALSE
+Et al,FALSE,FALSE,and others,FALSE
+ETC,TRUE,FALSE,esophagotracheal combitube|estimated time of confinement|et cetera,FALSE
+ETD,FALSE,FALSE,estimated time of delivery,FALSE
+ETEC,FALSE,FALSE,enterotoxigenic _Escherichia coli_,FALSE
+ETL,FALSE,FALSE,echo train length,FALSE
+EtOH,FALSE,FALSE,ethanol,FALSE
+ETT,TRUE,FALSE,endotracheal tube|exercise tolerance test,FALSE
+Eu,FALSE,FALSE,europium,FALSE
+EUA,FALSE,FALSE,examination under anesthesia,FALSE
+EUS,FALSE,FALSE,endoscopic ultrasound,FALSE
+EUSB,FALSE,FALSE,endoscopic ultrasound biopsy,FALSE
+EVD,FALSE,FALSE,extraventricular drain,FALSE
+Ex,FALSE,FALSE,exitus,FALSE
+Exp,FALSE,FALSE,expiratory,FALSE
+F,TRUE,FALSE,farad|female|fluorine|French gauge|phenylalanine,FALSE
+FA,FALSE,FALSE,fibroadenoma,FALSE
+FABER,FALSE,FALSE,flexion abduction and external rotation maneuver,FALSE
+FACR,FALSE,FALSE,Fellow of the American College of Radiology,FALSE
+FAF,FALSE,FALSE,fissula ante fenestram,FALSE
+FAI,FALSE,FALSE,femoroacetabular impingement,FALSE
+FAMMM,FALSE,FALSE,familial atypical multiple mole melanoma syndrome​,FALSE
+FASI,FALSE,FALSE,focal areas of signal intensity,FALSE
+FAST,TRUE,FALSE,focused assessment with sonography for trauma|Fourier-acquired steady state,FALSE
+Fat sat,FALSE,FALSE,fat saturation,FALSE
+Fax,FALSE,FALSE,facsimile,FALSE
+FB,FALSE,FALSE,foreign body,FALSE
+FBC,FALSE,FALSE,full blood count,FALSE
+FBG,FALSE,FALSE,fasting blood glucose,FALSE
+FBOA,FALSE,FALSE,foreign body obstructed airway,FALSE
+FCC,FALSE,FALSE,fibrocystic change,FALSE
+FCD,TRUE,FALSE,fibrocystic disease|fibrous cortical defect|fibrous cortical dysplasia,FALSE
+FCL,FALSE,FALSE,fibular collateral ligament,FALSE
+FCMD,FALSE,FALSE,Fukuyama congenital muscular dystrophy,FALSE
+FC Rad Diag,FALSE,FALSE,Fellowship of the College of Radiologists of South Africa,FALSE
+FD,FALSE,FALSE,fibrous dysplasia,FALSE
+FDA,FALSE,FALSE,Food and Drug Administration,FALSE
+FDG,FALSE,FALSE,fluorodeoxyglucose,FALSE
+FDL,FALSE,FALSE,flexor digitorum longus,FALSE
+FDP,TRUE,FALSE,fibrin degradation product|flexor digitorum profundus,FALSE
+FDS,FALSE,FALSE,flexor digitorum superficialis,FALSE
+FE,FALSE,TRUE,flexion-extension,FALSE
+Fe,FALSE,TRUE,iron,FALSE
+FEP,FALSE,FALSE,first ever psychosis,FALSE
+FES,FALSE,FALSE,fat embolism syndrome,FALSE
+FESS,FALSE,FALSE,functional endoscopic sinus surgery,FALSE
+FEV1,FALSE,FALSE,forced expiratory volume in 1 second,FALSE
+FFA,FALSE,FALSE,free fatty acids,FALSE
+FFI,FALSE,FALSE,focal fatty infiltration,FALSE
+FFP,FALSE,FALSE,fresh frozen plasma,FALSE
+FFS,FALSE,FALSE,focal fatty sparing,FALSE
+FH,FALSE,FALSE,family history,FALSE
+FHM,FALSE,FALSE,fetal heart motion,FALSE
+FHR,FALSE,FALSE,fetal heart rate,FALSE
+FHS,FALSE,FALSE,fetal heart sounds,FALSE
+FHx,FALSE,FALSE,family history,FALSE
+FI,FALSE,FALSE,for investigation,FALSE
+FID,FALSE,FALSE,free induction decay,FALSE
+FIESTA,FALSE,FALSE,fast imaging employing steady state acquisition,FALSE
+FIF,FALSE,FALSE,forced inspiratory flow,FALSE
+FiNA,FALSE,FALSE,fine needle aspiration,FALSE
+FIRES,FALSE,FALSE,febrile infection-related epilepsy syndrome,FALSE
+FISP,FALSE,FALSE,fast imaging with steady-state precession,FALSE
+FJ,FALSE,FALSE,facet joint,FALSE
+FL,FALSE,FALSE,femur length,FALSE
+FLAIR,FALSE,FALSE,fluid-attenuated inversion recovery,FALSE
+FLASH,FALSE,FALSE,fast low angle shot,FALSE
+FLC,FALSE,FALSE,fibrolamellar carcinoma,FALSE
+FLCN-S,FALSE,FALSE,folliculin gene-associated syndrome,FALSE
+FLI,FALSE,FALSE,flu like illness,FALSE
+Fluoro,FALSE,FALSE,fluoroscopy,FALSE
+FMD,FALSE,FALSE,fibromuscular dysplasia,FALSE
+FMF,FALSE,FALSE,familial Mediterranean fever,FALSE
+fMRI,FALSE,FALSE,functional magnetic resonance imaging,FALSE
+FN,FALSE,FALSE,febrile neutropenia,FALSE
+FNA,FALSE,FALSE,fine needle aspiration,FALSE
+FNAB,FALSE,FALSE,fine needle aspiration biopsy,FALSE
+FNAC,FALSE,FALSE,fine needle aspiration cytology,FALSE
+FNE,FALSE,FALSE,fiber optic nasoendoscopy,FALSE
+FNH,FALSE,FALSE,focal nodular hyperplasia,FALSE
+FO,FALSE,FALSE,foramen ovale,FALSE
+FOB,FALSE,FALSE,fecal occult blood,FALSE
+FOBT,FALSE,FALSE,fecal occult blood test,FALSE
+FOM,FALSE,FALSE,floor of mouth,FALSE
+FOOSH,FALSE,FALSE,fall on outstretched hand,FALSE
+FOSIT,FALSE,FALSE,feeling of something in throat,FALSE
+FOV,FALSE,FALSE,field of view,FALSE
+FP,FALSE,FALSE,fetal pole,FALSE
+FPCT,FALSE,FALSE,flat panel CT,FALSE
+FPIES,FALSE,FALSE,food protein-induced enterocolitis syndrome,FALSE
+fPSA,FALSE,FALSE,free prostate specific antigen,FALSE
+Fr,FALSE,FALSE,French gauge,FALSE
+FRANZCR,FALSE,FALSE,Fellow of the Royal Australian and New Zealand College of Radiologists,FALSE
+FRC,FALSE,FALSE,functional residual capacity,FALSE
+FRCR,FALSE,FALSE,Fellow of the royal college of radiologists,FALSE
+FROEM,FALSE,FALSE,full range of eye movements,FALSE
+FS,TRUE,FALSE,fat suppression|foramen spinosum,FALSE
+F/S,FALSE,FALSE,frame or second,FALSE
+FSE,FALSE,FALSE,fast spin echo,FALSE
+FSH,FALSE,FALSE,follicle-stimulating hormone,FALSE
+FSHD,FALSE,FALSE,facioscapulohumeral muscular dystrophy,FALSE
+FT,TRUE,FALSE,follow-through|Fourier transform|full-time,FALSE
+fT3,FALSE,FALSE,free tri-iodothyronine,FALSE
+fT4,FALSE,FALSE,free thyroxine,FALSE
+FTD,FALSE,FALSE,frontotemporal dementia,FALSE
+FU,FALSE,FALSE,fluorouracil,FALSE
+F/U,FALSE,FALSE,follow-up,FALSE
+FUO,FALSE,FALSE,fever of unknown origin,FALSE
+FV,FALSE,FALSE,femoral vein,FALSE
+FVC,FALSE,FALSE,forced vital capacity,FALSE
+FVL,FALSE,FALSE,factor V Leiden,FALSE
+FWHM,FALSE,FALSE,full width at half maximum,FALSE
+FWT,FALSE,FALSE,full ward test,FALSE
+Fx,FALSE,FALSE,fracture,FALSE
+G,TRUE,FALSE,gauge|gauss|giga|glycine|gram|guanine,FALSE
+GA,TRUE,TRUE,gastric analysis|general anesthesia|gestational age,FALSE
+Ga,FALSE,TRUE,gallium,FALSE
+GABA,FALSE,FALSE,gamma-aminobutyric acid,FALSE
+GAD,FALSE,TRUE,generalized anxiety disorder,FALSE
+Gad,FALSE,TRUE,gadolinium,FALSE
+GAE,FALSE,FALSE,granulomatous amoebic encephalitis,FALSE
+GAG,FALSE,FALSE,glycosaminoglycan,FALSE
+GAMP,FALSE,FALSE,general anesthesia manipulation and plaster,FALSE
+GAVE,FALSE,FALSE,gastric antral vascular ectasia,FALSE
+GB,TRUE,FALSE,gallbladder|gastric band|gigabyte,FALSE
+GBEF,FALSE,FALSE,gallbladder ejection fraction,FALSE
+GBM,FALSE,FALSE,glioblastoma multiforme,FALSE
+GBq,FALSE,FALSE,gigabecquerel,FALSE
+GBS,TRUE,FALSE,group B streptococcus|Guillain-Barré syndrome,FALSE
+GCA,FALSE,FALSE,giant cell arteritis,FALSE
+GCA scale,FALSE,FALSE,global cortical atrophy scale,FALSE
+GCS,FALSE,FALSE,Glasgow coma scale,FALSE
+GCT,TRUE,FALSE,germ cell tumor|giant cell tumor,FALSE
+GCV,FALSE,FALSE,great cardiac vein,FALSE
+GD,TRUE,TRUE,Gaucher disease|gestational diabetes,FALSE
+Gd,FALSE,TRUE,gadolinium,FALSE
+GDA,FALSE,FALSE,gastroduodenal artery,FALSE
+GDC,FALSE,FALSE,gastric duplication cyst,FALSE
+GE,TRUE,TRUE,General Electric|gradient echo,FALSE
+Ge,FALSE,TRUE,germanium,FALSE
+GERD,FALSE,FALSE,gastroesophageal reflux disease,FALSE
+GEP-NET,FALSE,FALSE,gastroenteropancreatic neuroendocrine tumor,FALSE
+GFR,FALSE,FALSE,glomerular filtration rate,FALSE
+GG,TRUE,FALSE,Gastrografin®|ground glass,FALSE
+GGO,FALSE,FALSE,ground glass opacity,FALSE
+GGT,FALSE,FALSE,gamma-glutamyl transferase,FALSE
+GH,FALSE,FALSE,growth hormone,FALSE
+GHB,FALSE,FALSE,gamma hydroxybutyrate,FALSE
+GHL,FALSE,FALSE,glenohumeral ligament,FALSE
+GHRH,FALSE,FALSE,growth hormone releasing hormone,FALSE
+GI,FALSE,FALSE,gastrointestinal,FALSE
+GIF,FALSE,FALSE,graphics interchange format,FALSE
+GIFT,FALSE,FALSE,gamete intrafallopian transfer,FALSE
+GIST,FALSE,FALSE,gastrointestinal stromal tumor,FALSE
+GIT,FALSE,FALSE,gastrointestinal tract,FALSE
+Gln,FALSE,FALSE,glutamine,FALSE
+Glu,FALSE,FALSE,glutamic acid,FALSE
+GLUT,FALSE,FALSE,glucose transporter,FALSE
+Gly,FALSE,FALSE,glycine,FALSE
+GM,FALSE,FALSE,grey matter,FALSE
+GMC,FALSE,FALSE,General Medical Council,FALSE
+GNB,FALSE,FALSE,Gram negative bacteria,FALSE
+GnRH,FALSE,FALSE,gonadotropin-releasing hormone,FALSE
+GEJ,FALSE,FALSE,gastro-esophageal junction,FALSE
+GOMER,FALSE,FALSE,get out of my emergency room,FALSE
+GOO,FALSE,FALSE,gastric outlet obstruction,FALSE
+GERD,FALSE,FALSE,gastro-esophageal reflux disease,FALSE
+GP,TRUE,FALSE,general practice|general practitioner|globus pallidus,FALSE
+Gr,FALSE,FALSE,Greek,FALSE
+GRASS,FALSE,FALSE,gradient acquisition in steady state,FALSE
+GRE,FALSE,FALSE,gradient echo,FALSE
+GS,TRUE,TRUE,gallstone|Gilbert syndrome|Gram stain,FALSE
+Gs,FALSE,TRUE,gauss,FALSE
+G&S,FALSE,FALSE,group and save,FALSE
+GSD,FALSE,FALSE,gestational sac diameter,FALSE
+GSV,FALSE,FALSE,great saphenous vein,FALSE
+GSW,FALSE,FALSE,gun shot wound,FALSE
+GTCS,FALSE,FALSE,generalized tonic-clonic seizure,FALSE
+GTDC,FALSE,FALSE,gastrointestinal tract duplication cyst,FALSE
+GTN,FALSE,FALSE,glyceryl trinitrate,FALSE
+GTT,TRUE,FALSE,drop|glucose tolerance test,FALSE
+GTV,FALSE,FALSE,gross target volume,FALSE
+GU,TRUE,FALSE,gastric ulcer|genitourinary,FALSE
+GUM,FALSE,FALSE,genitourinary medicine,FALSE
+GUT,FALSE,FALSE,genitourinary tract,FALSE
+GVHD,FALSE,FALSE,graft versus host disease,TRUE
+GVH,FALSE,FALSE,graft versus host disease,TRUE
+Gy,FALSE,FALSE,gray,FALSE
+GYN,FALSE,FALSE,gynecology,FALSE
+H,TRUE,FALSE,height|henry|histidine|hospital|hydrogen,FALSE
+H/A,FALSE,FALSE,headache,FALSE
+H&N,FALSE,FALSE,head and neck,FALSE
+HA,TRUE,FALSE,headache|hepatic adenoma|hepatic artery,FALSE
+HAI,FALSE,FALSE,healthcare-associated infection,FALSE
+HANAC syndrome,FALSE,FALSE,hereditary angiopathy with nephropathy aneurysms and muscle cramps syndrome,FALSE
+HAP,FALSE,FALSE,hospital-acquired pneumonia,FALSE
+HASTE,FALSE,FALSE,half-Fourier acquisition single shot turbo spin-echo,FALSE
+HAV,FALSE,FALSE,hepatitis A virus,FALSE
+Hb,FALSE,FALSE,hemoglobin,FALSE
+HbC,FALSE,FALSE,hemoglobin C,FALSE
+HbCO,FALSE,FALSE,carboxyhemoglobin,FALSE
+HbF,FALSE,FALSE,fetal hemoglobin,FALSE
+HbS,FALSE,FALSE,hemoglobin sickle cell,FALSE
+HbSC,FALSE,FALSE,hemoglobin sickle cell C,FALSE
+HBV,FALSE,FALSE,hepatitis B virus,FALSE
+HC,TRUE,FALSE,head circumference|hydrocephalus,FALSE
+HCA,FALSE,FALSE,healthcare assistant,FALSE
+HCC,FALSE,FALSE,hepatocellular carcinoma,FALSE
+HCG,FALSE,FALSE,human chorionic gonadotropin,FALSE
+HCLA,FALSE,FALSE,hydrocortisone and local anesthetic,FALSE
+HCM,FALSE,FALSE,hypertrophic cardiomyopathy,FALSE
+HCP,FALSE,FALSE,hydrocephalus,FALSE
+HCT,FALSE,FALSE,hematocrit,FALSE
+HCV,FALSE,FALSE,hepatitis C virus,FALSE
+HCW,FALSE,FALSE,healthcare worker,FALSE
+HD,TRUE,FALSE,haemodialysis|Hashimoto disease|Hodgkin disease|Huntington disease,FALSE
+HDL,FALSE,FALSE,high density lipoprotein,FALSE
+HDP,FALSE,FALSE,hydroxyethylene diphosphonate,FALSE
+HDU,FALSE,FALSE,high dependency unit,FALSE
+HDV,FALSE,FALSE,hepatitis D virus,FALSE
+He,FALSE,FALSE,helium,FALSE
+HELLP,FALSE,FALSE,hemolysis elevated liver enzymes and low platelets,FALSE
+HER2,FALSE,FALSE,human epidermal growth factor receptor 2,FALSE
+HEV,FALSE,FALSE,hepatitis E virus,FALSE
+HF,FALSE,FALSE,hemofiltration,FALSE
+HFD,FALSE,FALSE,high fiber diet,FALSE
+HFNP,FALSE,FALSE,high flow nasal prongs,FALSE
+HFpEF,FALSE,FALSE,heart failure with preserved ejection fraction,FALSE
+HFrEF,FALSE,FALSE,heart failure with reduced ejection fraction,FALSE
+Hg,FALSE,FALSE,mercury,FALSE
+HGG,FALSE,FALSE,high grade glioma,FALSE
+HH,TRUE,FALSE,hepatic hydrothorax|hiatus hernia,FALSE
+H&H,FALSE,FALSE,hemoglobin and hematocrit,FALSE
+HHT,FALSE,FALSE,hereditary hemorrhagic telangiectasia,FALSE
+HHV,FALSE,FALSE,human herpes virus,FALSE
+HI,TRUE,FALSE,Haller index|harmonic imaging|head injury,FALSE
+HIDA,FALSE,FALSE,hepatobiliary iminodiacetic acid,FALSE
+HINTS,FALSE,FALSE,Head Impulse Nystagmus and Test of Skew,FALSE
+HIPAA,FALSE,FALSE,Health Insurance Portability and Accountability Act 1996,FALSE
+HIS,FALSE,TRUE,hospital information system,FALSE
+His,FALSE,TRUE,histidine,FALSE
+Histo,FALSE,FALSE,histology,FALSE
+Histopath,FALSE,FALSE,histopathology,FALSE
+HIT,FALSE,TRUE,heparin-induced thrombocytopenia,FALSE
+HIV,FALSE,FALSE,human immunodeficiency virus,FALSE
+HIVAN,FALSE,FALSE,HIV-associated nephropathy,FALSE
+HL,FALSE,FALSE,Hodgkin lymphoma,FALSE
+HLA,FALSE,FALSE,human leukocyte antigen,FALSE
+HL7,FALSE,FALSE,health level-7,FALSE
+HMB,FALSE,FALSE,heavy menstrual bleeding,FALSE
+HMD,FALSE,FALSE,hyaline membrane disease,FALSE
+HMG,FALSE,FALSE,human menopausal gonadotropin,FALSE
+HMG-CoA reductase,FALSE,FALSE,3-hydroxy-3-methyl-glutaryl-coenzyme A reductase,FALSE
+HN,FALSE,FALSE,hydronephrosis,FALSE
+HNPCC,FALSE,FALSE,hereditary non-polyposis colorectal cancer,FALSE
+HO,TRUE,FALSE,heterotopic ossification|house officer,FALSE
+H/O,FALSE,FALSE,history of,FALSE
+HOCM,TRUE,FALSE,high-osmolar contrast medium|hypertrophic obstructive cardiomyopathy,FALSE
+HOD,FALSE,FALSE,hypertrophic olivary degeneration,FALSE
+Hon,FALSE,FALSE,honorary,FALSE
+HOP,FALSE,FALSE,head of pancreas,FALSE
+HP,TRUE,FALSE,haemosuccus pancreaticus|Hartmann procedure|hypersensitivity pneumonitis,FALSE
+H&P,FALSE,FALSE,history and physical examination,FALSE
+HPB,FALSE,FALSE,hepatopancreaticobiliary,FALSE
+HPC,FALSE,FALSE,history of presenting condition,FALSE
+HPE,TRUE,FALSE,histopathological examination|holoprosencephaly,FALSE
+HPF,FALSE,FALSE,high-powered field of view,FALSE
+HPOA,FALSE,FALSE,hypertrophic pulmonary osteoarthropathy,FALSE
+HPT,FALSE,FALSE,home pregnancy test,FALSE
+HPTX,FALSE,FALSE,hemopneumothorax,FALSE
+HPV,FALSE,FALSE,human papillomavirus,FALSE
+HR,FALSE,FALSE,heart rate,FALSE
+HRCT,FALSE,FALSE,high resolution CT,FALSE
+HRT,FALSE,FALSE,hormone-replacement therapy,FALSE
+HS,TRUE,FALSE,at bedtime|head strike|heart sounds,FALSE
+HSC,FALSE,FALSE,hysteroscopy,FALSE
+HSCT,FALSE,FALSE,haemopoietic stem cell transplant,FALSE
+HSDNM,FALSE,FALSE,heart sounds dual no murmur,FALSE
+HSG,FALSE,FALSE,hysterosalpingogram,FALSE
+HSM,FALSE,FALSE,hepatosplenomegaly,FALSE
+HSMVA,FALSE,FALSE,high speed motor vehicle accident,FALSE
+HSP,FALSE,FALSE,Henoch-Schonlein purpura,FALSE
+HSV,FALSE,FALSE,herpes simplex virus,FALSE
+HT,TRUE,FALSE,Hashimoto thyroiditis|height|hypertension,FALSE
+HTLV,FALSE,FALSE,human T-cell lymphotropic virus,FALSE
+HTN,FALSE,FALSE,hypertension,FALSE
+HTO,FALSE,FALSE,high tibial osteotomy,FALSE
+HTX,TRUE,FALSE,hemothorax|Hashithyrotoxicosis,FALSE
+HU,FALSE,FALSE,Hounsfield unit,FALSE
+HUS,FALSE,FALSE,hemolytic uremic syndrome,FALSE
+HV,FALSE,FALSE,hepatic vein,FALSE
+Hx,FALSE,FALSE,history,FALSE
+HZ,FALSE,TRUE,homozygote,FALSE
+Hz,FALSE,TRUE,hertz,FALSE
+I,TRUE,FALSE,coagulation factor I|iodine|isoleucine|olfactory nerve|one|segment I of the liver,FALSE
+IAA,FALSE,FALSE,interrupted aortic arch,FALSE
+IABP,FALSE,FALSE,intra-aortic balloon pump,FALSE
+IAC,FALSE,FALSE,internal auditory canal,FALSE
+IAH,FALSE,FALSE,intra-abdominal hypertension,FALSE
+IAM,FALSE,FALSE,internal auditory meatus,FALSE
+IAS,FALSE,FALSE,interatrial septum,FALSE
+IASLC,FALSE,FALSE,International Association for the Study of Lung Cancer,FALSE
+IBD,FALSE,FALSE,inflammatory bowel disease,FALSE
+IBP,FALSE,FALSE,inflammatory back pain,FALSE
+IBS,FALSE,FALSE,irritable bowel syndrome,FALSE
+IBUS,FALSE,FALSE,intrabronchial ultrasound,FALSE
+IC,FALSE,FALSE,inspiratory capacity,FALSE
+ICA,FALSE,FALSE,internal carotid artery,FALSE
+ICB,FALSE,FALSE,intracranial bleed,FALSE
+ICC,FALSE,FALSE,intercostal catheter,FALSE
+ICD,FALSE,FALSE,implantable cardioverter-defibrillator,FALSE
+ICH,FALSE,FALSE,intracranial hemorrhage,FALSE
+ICI,FALSE,FALSE,intracervical insemination,FALSE
+ICP,FALSE,FALSE,intracranial pressure,FALSE
+ICRP,FALSE,FALSE,International Commission on Radiological Protection,FALSE
+ICSI,FALSE,FALSE,intracytoplasmic sperm injection,FALSE
+ICU,FALSE,FALSE,intensive care unit,FALSE
+ICV,FALSE,FALSE,ileocecal valve,FALSE
+ID,TRUE,FALSE,identification|infectious diseases|Iselin disease,FALSE
+I&D,FALSE,FALSE,incision and drainage,FALSE
+IDA,FALSE,FALSE,iron deficiency anemia,FALSE
+IDC,TRUE,FALSE,indwelling catheter|invasive ductal carcinoma,FALSE
+IDDM,FALSE,FALSE,insulin-dependent diabetes mellitus,FALSE
+IDOR,FALSE,FALSE,International Day of Radiology,FALSE
+IE,TRUE,FALSE,infective endocarditis|that is,FALSE
+IEM,FALSE,FALSE,inborn errors of metabolism,FALSE
+IEP:,TRUE,FALSE,image exchange portal|interstitial edematous pancreatitis,FALSE
+IF,TRUE,FALSE,immunofluorescence|incidental finding|index finger,FALSE
+IFFI,FALSE,FALSE,intraperitoneal focal fat infarction,FALSE
+IFI,FALSE,FALSE,invasive fungal infection,FALSE
+Ig,FALSE,FALSE,immunoglobulin,FALSE
+IGHL,FALSE,FALSE,inferior glenohumeral ligament,FALSE
+IGS,FALSE,FALSE,image-guided surgery,FALSE
+IGTT,FALSE,FALSE,insulin and glucose tolerance test,FALSE
+IH,FALSE,FALSE,inguinal hernia,FALSE
+IHD,TRUE,FALSE,intrahepatic duct|ischemic heart disease,FALSE
+IHE,FALSE,FALSE,integrating the healthcare enterprise,FALSE
+IHT,FALSE,FALSE,interhospital transfer,FALSE
+II,TRUE,FALSE,coagulation factor II|optic nerve|segment II of the liver|two,FALSE
+IIA,FALSE,FALSE,internal iliac artery,FALSE
+IIH,TRUE,FALSE,idiopathic intracranial hypertension|indirect inguinal hernia,FALSE
+III,TRUE,FALSE,coagulation factor III|oculomotor nerve|segment III of the liver|three,FALSE
+IIP,FALSE,FALSE,idiopathic interstitial pneumonia,FALSE
+IIV,FALSE,FALSE,internal iliac vein,FALSE
+IJV,FALSE,FALSE,internal jugular vein,FALSE
+ILC,FALSE,FALSE,invasive lobular carcinoma,FALSE
+ILD,FALSE,FALSE,interstitial lung disease,FALSE
+Ile,FALSE,FALSE,isoleucine,FALSE
+ILI,TRUE,FALSE,influenza-like illness|inhalational lung injury,FALSE
+ILR,FALSE,FALSE,implantable loop recorder,FALSE
+ILS,FALSE,FALSE,immediate life support,FALSE
+IM,FALSE,FALSE,intramuscular,FALSE
+IMA,TRUE,FALSE,inferior mesenteric artery|internal mammary artery|intermetatarsal angle,FALSE
+IMG,FALSE,FALSE,international medical graduate,FALSE
+IMP,FALSE,FALSE,impression,FALSE
+In,TRUE,FALSE,inch|indium,FALSE
+INH,FALSE,FALSE,isoniazid,FALSE
+INN,FALSE,FALSE,International Nonproprietary Name,FALSE
+INO,FALSE,FALSE,internuclear ophthalmoplegia,FALSE
+iNPH,FALSE,FALSE,idiopathic normal pressure hydrocephalus,FALSE
+INR,TRUE,FALSE,international normalized ratio|interventional neuroradiology,FALSE
+Insp,FALSE,FALSE,inspiratory,FALSE
+INX,FALSE,FALSE,infliximab,FALSE
+IOC,FALSE,FALSE,intraoperative cholangiogram,FALSE
+IOF,FALSE,FALSE,inferior orbital fissure,FALSE
+IOFB,FALSE,FALSE,intraocular foreign body,FALSE
+IOL,FALSE,FALSE,intraocular lens implant,FALSE
+IOP,FALSE,FALSE,interstitial edematous pancreatitis,FALSE
+IOR,FALSE,FALSE,immature oocyte retrieval,FALSE
+IOV,FALSE,FALSE,inferior ophthalmic vein,FALSE
+IP,TRUE,FALSE,inpatient|in-phase,FALSE
+IPAA,FALSE,FALSE,ileal pouch - anal anastomosis,FALSE
+IPF,FALSE,FALSE,idiopathic pulmonary fibrosis,FALSE
+IPMN,FALSE,FALSE,intraductal papillary mucinous neoplasm,FALSE
+IPMT,FALSE,FALSE,intraductal papillary mucinous tumor,FALSE
+IPS,FALSE,FALSE,idiopathic pulmonary syndrome,FALSE
+IPV,FALSE,FALSE,inactivated polio vaccine,FALSE
+IQ,FALSE,FALSE,intelligence quotient,FALSE
+IR,TRUE,FALSE,infrared|interventional radiology|inversion recovery,FALSE
+IRA,FALSE,FALSE,ileorectal anastomosis,FALSE
+IRDS,FALSE,FALSE,infant respiratory distress syndrome,FALSE
+IRIS,FALSE,FALSE,immune reconstitution inflammatory syndrome,FALSE
+IRR,FALSE,FALSE,Ionizing Radiation Regulations,FALSE
+IRR,FALSE,FALSE,Ionizing Radiation Regulations,FALSE
+IRV,FALSE,FALSE,inspiratory reserve volume,FALSE
+ISQ,FALSE,FALSE,in status quo,FALSE
+ISS,TRUE,FALSE,inferior sagittal sinus|international staging system,FALSE
+ISUP,FALSE,FALSE,International Society of Urological Pathology,FALSE
+IT,FALSE,FALSE,information technology,FALSE
+ITA,FALSE,FALSE,internal thoracic artery,FALSE
+ITB,FALSE,FALSE,iliotibial band,FALSE
+ITI,FALSE,FALSE,intratubal insemination,FALSE
+ITN,FALSE,FALSE,incidental thyroid nodules,FALSE
+ITU,FALSE,FALSE,intensive therapy unit,FALSE
+IU,FALSE,FALSE,international unit,FALSE
+IUCD,FALSE,FALSE,intrauterine contraceptive device,FALSE
+IUD,TRUE,FALSE,intrauterine death|intrauterine device,FALSE
+IUGR,FALSE,FALSE,intrauterine growth restriction,FALSE
+IUI,FALSE,FALSE,intrauterine insemination,FALSE
+IUO,FALSE,FALSE,inflammation of unknown origin,FALSE
+IV,TRUE,FALSE,four|intervertebral|intravenous|segment four of the liver|trochlear nerve,FALSE
+IVC,TRUE,FALSE,inferior vena cava|inspiratory vital capacity|intravenous cannula|intravenous cholangiogram,FALSE
+IVD,FALSE,FALSE,intervertebral disc,FALSE
+IVDA,FALSE,FALSE,intravenous drug abuser,FALSE
+IVDU,FALSE,FALSE,intravenous drug user,FALSE
+IVF,TRUE,FALSE,intravenous fluid|in vitro fertilisation,FALSE
+IVF/ET,FALSE,FALSE,in vitro fertilisation and embryo transfer,FALSE
+IVIg,FALSE,FALSE,intravenous immunoglobulin,FALSE
+IVH,FALSE,FALSE,intraventricular hemorrhage,FALSE
+IVL,FALSE,FALSE,intravascular lymphoma,FALSE
+IVMP,FALSE,FALSE,intravenous pulse methylprednisolone,FALSE
+IVP,FALSE,FALSE,intravenous pyelogram,FALSE
+IVS,FALSE,FALSE,interventricular septum,FALSE
+IVU,FALSE,FALSE,intravenous urography,FALSE
+IVUS,FALSE,FALSE,intravascular ultrasound,FALSE
+IX,TRUE,TRUE,coagulation factor IX|glossopharyngeal nerve|investigation|nine,FALSE
+Ix,FALSE,TRUE,investigation,FALSE
+J,TRUE,FALSE,joule|joint,FALSE
+JAK2,FALSE,FALSE,janus kinase 2,FALSE
+JC virus,FALSE,FALSE,John Cunningham virus,FALSE
+JE,FALSE,FALSE,Japanese encephalitis,FALSE
+JEV,FALSE,FALSE,Japanese encephalitis virus,FALSE
+JNA,FALSE,FALSE,juvenile nasopharyngeal angiofibroma,FALSE
+JIA,FALSE,FALSE,juvenile idiopathic arthritis,FALSE
+JLS,FALSE,FALSE,Jarcho-Levin syndrome,FALSE
+JPA,FALSE,FALSE,juvenile pilocytic astrocytoma,FALSE
+JPEG,FALSE,FALSE,joint photographic experts group,FALSE
+JRA,FALSE,FALSE,juvenile rheumatoid arthritis,FALSE
+JVP,FALSE,FALSE,jugular venous pressure,FALSE
+JVPNE,FALSE,FALSE,jugular venous pressure not elevated,FALSE
+JZ,FALSE,FALSE,junctional zone,FALSE
+K,TRUE,FALSE,kelvin|potassium|kilo|vitamin|lysine|Kirschner wire,FALSE
+KB,FALSE,FALSE,kilobyte,FALSE
+KCOT,FALSE,FALSE,keratocystic odontic tumor,FALSE
+Kerma,FALSE,FALSE,kinetic energy released per unit mass,FALSE
+KFD,FALSE,FALSE,Kikuchi-Fujimoto disease,FALSE
+KG,FALSE,FALSE,kilogram,FALSE
+KOT,FALSE,FALSE,keratocystic odontic tumor,FALSE
+Kr,FALSE,FALSE,krypton,FALSE
+KUB,FALSE,FALSE,kidneys ureters and bladder,FALSE
+kV,FALSE,FALSE,kilovolt,FALSE
+kVp,FALSE,FALSE,peak kilovoltage,FALSE
+L,TRUE,FALSE,fifty|Latin|left|length|leucine|liter|lumbar,FALSE
+LA,TRUE,TRUE,left atrium|left auricle|local anesthesia,FALSE
+La,FALSE,TRUE,lanthanum,FALSE
+LAD,TRUE,FALSE,left anterior descending artery|left axis deviation|lymphadenopathy,FALSE
+LAE,FALSE,FALSE,left atrial enlargement,FALSE
+LAGB,FALSE,FALSE,laparoscopic adjustable gastric banding,FALSE
+LAO,FALSE,FALSE,left anterior oblique,FALSE
+LAP,FALSE,FALSE,laparoscopy,FALSE
+LAR,FALSE,FALSE,low anterior resection,FALSE
+LARC,FALSE,FALSE,long-acting reversible contraceptive,FALSE
+LAS,TRUE,FALSE,levator ani syndrome|London ambulance service,FALSE
+LASH,FALSE,FALSE,laparoscopic-assisted supracervical hysterectomy,FALSE
+LAUP,FALSE,FALSE,laser-assisted uvulopalatoplasty,FALSE
+LAVH,FALSE,FALSE,laparoscopic-assisted vaginal hysterectomy,FALSE
+LAZ,FALSE,FALSE,left apical zone,FALSE
+LB,FALSE,TRUE,loose body,FALSE
+lb,FALSE,TRUE,pound,FALSE
+LBBB,FALSE,FALSE,left bundle branch block,FALSE
+LBO,FALSE,FALSE,large bowel obstruction,FALSE
+LBP,TRUE,FALSE,low blood pressure|lower back pain|lumbar back pain,FALSE
+LBSL,FALSE,FALSE,leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation,FALSE
+LC,FALSE,FALSE,lymphangitis carcinomatosis,FALSE
+LCA,TRUE,FALSE,left colic artery|left coronary artery,FALSE
+LCCA,FALSE,FALSE,left common carotid artery,FALSE
+LCD,FALSE,FALSE,liquid crystal display,FALSE
+LCH,FALSE,FALSE,Langerhans cell histiocytosis,FALSE
+LCIS,FALSE,FALSE,lobular carcinoma in situ,FALSE
+LCL,TRUE,FALSE,lateral collateral ligament|lateral collateral ligament,FALSE
+LCRD,FALSE,FALSE,localized cystic renal disease,FALSE
+LCx,FALSE,FALSE,left circumflex artery,FALSE
+LD,TRUE,FALSE,lactate dehydrogenase|learning difficulties|lethal dose,FALSE
+LDH,FALSE,FALSE,lactate dehydrogenase,FALSE
+LDL,FALSE,FALSE,low-density lipoprotein,FALSE
+LE,FALSE,FALSE,left eye,FALSE
+LED,FALSE,FALSE,light-emitting diode,FALSE
+LEOPARD syndrome,FALSE,FALSE,lentigines ECG conduction abnormalities ocular hyperteloris pulmonary stenosis abnormal genitals retardation of growth deafness,FALSE
+LESA,FALSE,FALSE,large endolymphatic sac anomaly,FALSE
+Leu,FALSE,FALSE,leucine,FALSE
+LF,FALSE,FALSE,little finger,FALSE
+LFC,FALSE,FALSE,lateral femoral condyle,FALSE
+LFT,TRUE,FALSE,left ventricular false tendon|liver function tests,FALSE
+LFTs,FALSE,FALSE,liver function tests,FALSE
+LGA,FALSE,FALSE,left gastric artery,FALSE
+LGB,FALSE,FALSE,laparoscopic gastric banding,FALSE
+LGG,FALSE,FALSE,low-grade glioma,FALSE
+LGIB,FALSE,FALSE,lower gastrointestinal bleeding,FALSE
+LGMD,FALSE,FALSE,limb-girdle muscular dystrophy,FALSE
+LGN,FALSE,FALSE,lateral geniculate nucleus,FALSE
+LH,FALSE,FALSE,luteinising hormone,FALSE
+LHA,FALSE,FALSE,left hepatic artery,FALSE
+LHD,TRUE,FALSE,left hand dominant|left hepatic duct,FALSE
+LHV,FALSE,FALSE,left hepatic vein,FALSE
+LHS: ,TRUE,FALSE,left hand side|left heart strain,FALSE
+LIF,FALSE,FALSE,left iliac fossa,FALSE
+LIH,FALSE,FALSE,left inguinal hernia,FALSE
+LIMA,FALSE,FALSE,left internal mammary artery,FALSE
+LIP,FALSE,FALSE,lymphoid interstitial pneumonia,FALSE
+LIQ,FALSE,FALSE,lower inner quadrant,FALSE
+LI-RADS,FALSE,FALSE,liver imaging reporting and data system,FALSE
+LITA,FALSE,FALSE,left internal thoracic artery,FALSE
+LK,FALSE,FALSE,left kidney,FALSE
+LKMP,FALSE,FALSE,last known menstrual period,FALSE
+LL,FALSE,FALSE,lower limb,FALSE
+LLC,FALSE,FALSE,low-level care,FALSE
+LLETZ,FALSE,FALSE,large loop excision of the transformation zone,FALSE
+LLL,TRUE,FALSE,left lobe of liver|left lower lobe,FALSE
+LLQ,FALSE,FALSE,left lower quadrant,FALSE
+LLZ,FALSE,FALSE,left lower zone,FALSE
+LM,FALSE,TRUE,lateral meniscus,FALSE
+Lm,FALSE,TRUE,lumen,FALSE
+LMA,FALSE,FALSE,laryngeal mask airway,FALSE
+LMB,FALSE,FALSE,left main bronchus,FALSE
+LMCA,FALSE,FALSE,left main coronary artery,FALSE
+LMO,FALSE,FALSE,lateromedial oblique,FALSE
+LMP,FALSE,FALSE,last menstrual period,FALSE
+LMWH,FALSE,FALSE,low molecular weight heparin,FALSE
+LN,FALSE,FALSE,lymph node,FALSE
+LNT,FALSE,FALSE,linear no-threshold theory,FALSE
+LO,FALSE,FALSE,left ovary,FALSE
+LOA,TRUE,FALSE,loss of appetite|left occipitoanterior,FALSE
+LOC,TRUE,FALSE,level of consciousness|loss of consciousness,FALSE
+LOCM,FALSE,FALSE,low-osmolar contrast medium,FALSE
+LOLOL,FALSE,FALSE,little old lady off legs,FALSE
+LOP,FALSE,FALSE,left occipitoposterior,FALSE
+LOQ,FALSE,FALSE,lower outer quadrant,FALSE
+LES,FALSE,FALSE,late-onset sepsis,FALSE
+LOT,FALSE,FALSE,left occipitotransverse,FALSE
+LOV,FALSE,FALSE,loss of vision,FALSE
+LOW,FALSE,TRUE,loss of weight,FALSE
+LP,TRUE,FALSE,line pair|lumbar puncture,FALSE
+LPA,FALSE,FALSE,left pulmonary artery,FALSE
+LPD,FALSE,FALSE,lymphoproliferative disease,FALSE
+LPF,FALSE,FALSE,low-powered field of view,FALSE
+LPM,FALSE,FALSE,lymphoplasmacyte-rich meningioma,FALSE
+LP/mm,FALSE,FALSE,line pairs per millimeter,FALSE
+LR,FALSE,TRUE,likelihood ratio,FALSE
+Lr,FALSE,TRUE,lawrencium,FALSE
+LRA,FALSE,FALSE,left renal artery,FALSE
+LRP,FALSE,FALSE,laparoscopic radical prostatectomy,FALSE
+LRTI,FALSE,FALSE,lower respiratory tract infection,FALSE
+LS:,TRUE,FALSE,longitudinal section|lumbosacral,FALSE
+LSCA,FALSE,FALSE,left subclavian artery,FALSE
+LSCC,FALSE,FALSE,lateral semicircular canal,FALSE
+LSCS,FALSE,FALSE,lower segment cesarian section,FALSE
+LSD,TRUE,FALSE,lysergic acid diethylamide|lysosomal storage disease,FALSE
+LSP,FALSE,FALSE,low sperm count,FALSE
+LSMFT,FALSE,FALSE,liposclerosing myxofibrous tumor,FALSE
+LSTV,FALSE,FALSE,lumbosacral transitional vertebra,FALSE
+LT,TRUE,FALSE,laryngeal tube|left|leukotriene,FALSE
+Lu,FALSE,FALSE,lutetium,FALSE
+LUL,FALSE,FALSE,left upper lobe,FALSE
+LUO,FALSE,FALSE,left ureteric orifice,FALSE
+LUQ,FALSE,FALSE,left upper quadrant,FALSE
+LURD,FALSE,FALSE,living unrelated donor,FALSE
+LUS,FALSE,FALSE,lower uterine segment,FALSE
+LUSCS,FALSE,FALSE,lower uterine segment cesarian section,FALSE
+LUTS,FALSE,FALSE,lower urinary tract symptoms,FALSE
+LUZ,FALSE,FALSE,left upper zone,FALSE
+LV,FALSE,FALSE,left ventricle,FALSE
+LVA,TRUE,FALSE,left ventricular aneurysm|left vertebral artery,FALSE
+LVAD,FALSE,FALSE,left ventricular assist device,FALSE
+LVD,FALSE,FALSE,left ventricular dilatation,FALSE
+LVEF,FALSE,FALSE,left ventricular ejection fraction,FALSE
+LVF,TRUE,FALSE,left ventricular failure|left ventricular function,FALSE
+LVH,FALSE,FALSE,left ventricular hypertrophy,FALSE
+LVMI,FALSE,FALSE,left ventricular mass index,FALSE
+LWOT,FALSE,FALSE,left without treatment,FALSE
+LWT,FALSE,FALSE,left without treatment,FALSE
+Lx,TRUE,FALSE,lux|lymphadenopathy,FALSE
+Ly,FALSE,FALSE,lymphoma,FALSE
+Lys,FALSE,FALSE,lysine,FALSE
+Lytes,FALSE,FALSE,electrolytes,FALSE
+LZ,FALSE,FALSE,lower zone,FALSE
+M,TRUE,TRUE,male|marginal artery|mega|metastable|metastatic|methionine|meter|mitotic|molar|motor,FALSE
+m,FALSE,TRUE,milli-,FALSE
+M1-M6,FALSE,FALSE,segments of middle cerebral artery,FALSE
+MAC,TRUE,FALSE,mastoid air cells|mitral annular calcification|Mycobacterium avium complex,FALSE
+MAG,FALSE,FALSE,magnification,FALSE
+MAG-3,FALSE,FALSE,mercaptoacetyltriglycine,FALSE
+MAGiC,FALSE,FALSE,magnetic resonance image compilation,FALSE
+MAI:,TRUE,FALSE,minimal aortic injury|miscarriage after infertility|_Mycobacterium avium-intracellulare_ infection,FALSE
+MAL,FALSE,FALSE,mid axillary line,FALSE
+MAM,FALSE,FALSE,mammogram,FALSE
+MAMMO,FALSE,FALSE,mammogram,FALSE
+MAO,FALSE,FALSE,monoamine oxidase,FALSE
+MAP,TRUE,TRUE,magnesium ammonium phosphate|mean arterial pressure,FALSE
+mAs,FALSE,FALSE,milliampere-seconds,FALSE
+MAVRIC,FALSE,FALSE,multiacquisition variable-resonance image combination,FALSE
+MAVRIC-SL,FALSE,FALSE,multiacquisition variable-resonance image combination,FALSE
+Maxfax,FALSE,FALSE,maxillofacial surgery,FALSE
+MB,TRUE,FALSE,bachelor of medicine|megabyte|multiband|myoglobin,FALSE
+MBA,FALSE,FALSE,motorbike accident,FALSE
+MBBS,FALSE,FALSE,bachelor of medicine and bachelor of surgery,FALSE
+MBC,FALSE,TRUE,motorbike collision,FALSE
+mBC,FALSE,TRUE,metastatic breast cancer,FALSE
+MBL,FALSE,FALSE,monoclonal B-cell lymphoma,FALSE
+MBq,FALSE,FALSE,megabecquerel,FALSE
+MC,TRUE,FALSE,metacarpal|miscarriage,FALSE
+M/C,TRUE,FALSE,miscarriage|motorcycle,FALSE
+MCA,TRUE,FALSE,middle cerebral artery|middle colic artery,FALSE
+MCD,FALSE,FALSE,molybdenum cofactor deficiency,FALSE
+MCG/mcg,FALSE,FALSE,microgram,FALSE
+MCI,FALSE,TRUE,mass casualty incident,FALSE
+mCi,FALSE,TRUE,millicurie,FALSE
+MCL,TRUE,FALSE,medial collateral ligament|medial collateral ligament|mid clavicular line,FALSE
+MCPJ,FALSE,FALSE,metacarpophalangeal joint,FALSE
+mCRC,FALSE,FALSE,metastatic colorectal cancer,FALSE
+MCS,FALSE,FALSE,microscopy culture and sensitivity,FALSE
+MCTD,FALSE,FALSE,mixed connective tissue disease,FALSE
+MCV,FALSE,FALSE,middle cardiac vein,FALSE
+MD,TRUE,TRUE,doctor of medicine|managing director|Meckel diverticulum|medical director|muscular dystrophy,FALSE
+Md,FALSE,TRUE,mendelevium,FALSE
+MDA criteria,FALSE,FALSE,MD Anderson criteria for assessing response of bone metastases to treatment,FALSE
+MDCT,FALSE,FALSE,multidetector CT,FALSE
+MDD,FALSE,FALSE,major depressive disorder,FALSE
+MDI,FALSE,FALSE,multidirectional instability,FALSE
+MD-IPMN,FALSE,FALSE,main duct type intraductal papillary mucinous neoplasm,FALSE
+MDM,FALSE,FALSE,multidisciplinary meeting,FALSE
+MDMA,FALSE,FALSE,34-methylenedioxymethamphetamine,FALSE
+MDP,FALSE,FALSE,methylene-diphosphonate,FALSE
+MDR-TB,FALSE,FALSE,multidrug-resistant tuberculosis,FALSE
+MDT,FALSE,FALSE,multidisciplinary team,FALSE
+MDTM,FALSE,FALSE,multidisciplinary team meeting,FALSE
+ME,TRUE,FALSE,medical examiner|middle ear,FALSE
+MEB,FALSE,FALSE,muscle-eye-brain disease,FALSE
+MEDIC,FALSE,FALSE,multiecho data image combination,FALSE
+MEDS,FALSE,FALSE,medication,FALSE
+MEG,FALSE,FALSE,megalencephaly,FALSE
+MELAS,FALSE,FALSE,mitochondrial encephalopathy with lactic acidosis and stroke-like episodes,FALSE
+MELD,FALSE,FALSE,model of end-stage liver disease,FALSE
+MEN,FALSE,FALSE,multiple endocrine neoplasia,FALSE
+MERGE,FALSE,FALSE,multiple-echo recombined gradient echo,FALSE
+MERRF,FALSE,FALSE,myoclonic epilepsy with red ragged fibers,FALSE
+MESA,TRUE,FALSE,microsurgical epididymal sperm aspiration|multiethnic study of atherosclerosis,FALSE
+MET,TRUE,TRUE,medical expulsive therapy|metabolic equivalent|metastasis,FALSE
+Met,TRUE,TRUE,metastasis|methionine,FALSE
+MetHb,FALSE,FALSE,methemoglobin,FALSE
+Mets,FALSE,FALSE,metastases,FALSE
+MF,FALSE,FALSE,middle finger,FALSE
+MFC,FALSE,FALSE,medial femoral condyle,FALSE
+MFFE,FALSE,FALSE,multiecho fast field echo,FALSE
+MFH,FALSE,FALSE,malignant fibrous histiocytoma,FALSE
+MG,TRUE,TRUE,mammogram|middle grade|milligram|myasthenia gravis,FALSE
+Mg,FALSE,TRUE,magnesium,FALSE
+MGHL,FALSE,FALSE,middle glenohumeral ligament,FALSE
+mGy,FALSE,FALSE,milligray,FALSE
+MGUS,TRUE,FALSE,monoclonal gammopathy of uncertain significance|monoclonal gammopathy of undetermined significance|monoclonal gammopathy of unknown significance,FALSE
+MH,FALSE,FALSE,medical history,FALSE
+MHC,FALSE,FALSE,major histocompatibility complex,FALSE
+MHV,FALSE,FALSE,middle hepatic vein,FALSE
+MHz,FALSE,FALSE,megahertz,FALSE
+MI,TRUE,FALSE,mechanical index|mitral incompetence|myocardial infarct,FALSE
+MIBG,FALSE,FALSE,metaiodobenzylguanidine,FALSE
+MIBI,FALSE,FALSE,methoxyisobutylisonitrile,FALSE
+Micro,TRUE,FALSE,microbiology|microscopy,FALSE
+MIDCAB,FALSE,FALSE,minimally invasive direct coronary artery bypass,FALSE
+Min,FALSE,FALSE,minute,FALSE
+MinIP,FALSE,FALSE,minimum intensity projection,FALSE
+MINOCA,FALSE,FALSE,myocardial infarction with non-obstructive coronary arteries,FALSE
+MIP,FALSE,FALSE,maximum intensity projection,FALSE
+MISME,FALSE,FALSE,multiple inherited schwannomas meningiomas ependymomas,FALSE
+ML,TRUE,TRUE,mediolateral|middle lobe,FALSE
+mL,FALSE,TRUE,milliliter,FALSE
+ml,FALSE,TRUE,milliliter,FALSE
+MLO,FALSE,FALSE,mediolateral oblique,FALSE
+MLS,FALSE,FALSE,midline shift,FALSE
+MM,TRUE,TRUE,malignant melanoma|medial meniscus|multiple myeloma,FALSE
+mm,FALSE,TRUE,millimeter,FALSE
+M&M,FALSE,FALSE,morbidity and mortality,FALSE
+mmHg,FALSE,FALSE,millimeters of mercury,FALSE
+M-mode,FALSE,FALSE,motion mode,FALSE
+MMR,TRUE,FALSE,measles mumps and rubella,FALSE
+MMRV,FALSE,FALSE,measles mumps rubella and varicella,FALSE
+MMSE,FALSE,FALSE,mini mental status exam,FALSE
+Mn,FALSE,FALSE,manganese,FALSE
+MNG,FALSE,FALSE,multinodular goiter,FALSE
+MO,FALSE,TRUE,myositis ossificans,FALSE
+Mo,TRUE,TRUE,molybdenum|month,FALSE
+MOCD,FALSE,FALSE,molybdenum cofactor deficiency,FALSE
+Mol,FALSE,FALSE,mole,FALSE
+MOTSA,FALSE,FALSE,multiple overlapping thin slab acquisition,FALSE
+MP,TRUE,FALSE,megapixel|middle phalanx,FALSE
+MPA,FALSE,FALSE,main pulmonary artery,FALSE
+mPAP,FALSE,FALSE,mean pulmonary arterial pressure,FALSE
+MPC,FALSE,FALSE,metastatic pulmonary calcification,FALSE
+MPD,FALSE,FALSE,main pancreatic duct,FALSE
+MPGN,FALSE,FALSE,membranoproliferative glomerulonephritis,FALSE
+MPP,FALSE,FALSE,_Mycoplasma pneumoniae_ pneumonia,FALSE
+MPR,FALSE,FALSE,multiplanar reformation or reformats,FALSE
+MPRAGE,FALSE,FALSE,magnetization-prepared rapid gradient echo,FALSE
+MPS,FALSE,FALSE,mucopolysaccharidoses,FALSE
+MPV,FALSE,FALSE,main portal vein,FALSE
+MR,TRUE,FALSE,magnetic resonance|mitral regurgitation,FALSE
+MRA,FALSE,FALSE,magnetic resonance angiogram,FALSE
+MRCP,TRUE,FALSE,magnetic resonance cholangiopancreatography|member(ship) of the Royal College of Physicians,FALSE
+MRE,TRUE,FALSE,magnetic resonance elastography|magnetic resonance enterography,FALSE
+mrem,FALSE,FALSE,millirem,FALSE
+MRF,FALSE,FALSE,mesorectal fascia,FALSE
+MRI,FALSE,FALSE,magnetic resonance imaging,FALSE
+MRL,FALSE,FALSE,magnetic resonance lymphangiography,FALSE
+MRN,FALSE,FALSE,medical record number,FALSE
+mRNA,FALSE,FALSE,messenger ribonucleic acid,FALSE
+MRONJ,FALSE,FALSE,medication-related osteonecrosis of the jaw,FALSE
+MRP,FALSE,FALSE,magnetic resonance perfusion,FALSE
+MRPA,FALSE,FALSE,magnetic resonance pulmonary angiography,FALSE
+MRPI,FALSE,FALSE,magnetic resonance parkinsonism index,FALSE
+MRS,FALSE,FALSE,magnetic resonance spectroscopy,FALSE
+MRSA,FALSE,FALSE,methicillin-resistant _Staphylococcus aureus_,FALSE
+MRV,FALSE,FALSE,magnetic resonance venogram,FALSE
+MS,TRUE,FALSE,master of surgery|mitral stenosis|multiple sclerosis,FALSE
+MSA,FALSE,FALSE,multisystem atrophy,FALSE
+MSBD,FALSE,FALSE,mixed sclerosing bone dysplasia,FALSE
+MSD,FALSE,FALSE,mean sac diameter,FALSE
+MSE,FALSE,FALSE,mental status exam,FALSE
+MSH,FALSE,FALSE,melanocyte-stimulating hormone,FALSE
+MSK,TRUE,FALSE,medullary sponge kidney|musculoskeletal,FALSE
+MSM,FALSE,FALSE,men who have sex with men,FALSE
+MSSA,FALSE,FALSE,methicillin-sensitive Staphylococcus aureus,FALSE
+MSSU,FALSE,FALSE,midstream sample of urine,FALSE
+MSU,TRUE,FALSE,midstream urine|monosodium urate,FALSE
+mSv,FALSE,FALSE,millisievert,FALSE
+MT,FALSE,FALSE,metatarsal,FALSE
+MTA score,FALSE,FALSE,medial temporal lobe atrophy score,FALSE
+MTC,FALSE,FALSE,medullary thyroid carcinoma,FALSE
+MTPJ,FALSE,FALSE,metatarsophalangeal joint,FALSE
+MTS,FALSE,FALSE,mesial temporal sclerosis,FALSE
+MTSS,FALSE,FALSE,medial tibial stress syndrome,FALSE
+MTT,FALSE,FALSE,mean transit time,FALSE
+MTX,FALSE,FALSE,methotrexate,FALSE
+MUA,FALSE,FALSE,manipulation under anesthesia,FALSE
+Multips,FALSE,FALSE,multipara,FALSE
+MV,FALSE,FALSE,mitral valve,FALSE
+MVA,FALSE,FALSE,motor vehicle accident,FALSE
+MVC,FALSE,FALSE,motor vehicle crash,FALSE
+MVE,FALSE,FALSE,Murray Valley encephalitis,FALSE
+MVO,FALSE,FALSE,microvascular obstruction,FALSE
+MVP,FALSE,FALSE,mitral valve prolapse,FALSE
+MVR,FALSE,FALSE,mitral valve replacement,FALSE
+MVV,FALSE,FALSE,maximal voluntary ventilation,FALSE
+MWA,FALSE,FALSE,microwave ablation,FALSE
+Mx,TRUE,FALSE,management|maxwell,FALSE
+MZ,TRUE,FALSE,mid zone|monozygote,FALSE
+N,TRUE,TRUE,asparagine|neutron number|newton|nitrogen,FALSE
+n,FALSE,TRUE,nano,FALSE
+N0 N1 N2 N3,FALSE,FALSE,nodal stages,FALSE
+N2,FALSE,FALSE,nitrogen gas,FALSE
+N2O,FALSE,FALSE,nitrous oxide,FALSE
+Na,FALSE,TRUE,sodium,FALSE
+NAA,FALSE,FALSE,N-acetylaspartic acid,FALSE
+NACT,FALSE,FALSE,neoadjuvant chemotherapy,FALSE
+NAD,TRUE,FALSE,no abnormality detected|nil abnormality detected,FALSE
+NAI,FALSE,FALSE,non-accidental injury,FALSE
+NAFLD,FALSE,FALSE,non-alcoholic fatty liver disease,FALSE
+NAPH,FALSE,FALSE,non-aneurysmal perimesencephalic subarachnoid hemorrhage,FALSE
+NASCET,FALSE,FALSE,North American symptomatic carotid endarterectomy trial,FALSE
+NASH,FALSE,FALSE,non-alcoholic steatohepatitis,FALSE
+NB,TRUE,TRUE,neuroblastoma|newborn,FALSE
+Nb,FALSE,TRUE,niobium,FALSE
+NBCA,FALSE,FALSE,N-butyl-2 cyanoacrylate,FALSE
+NBM,FALSE,FALSE,nil by mouth,FALSE
+NC,FALSE,FALSE,non-contrast,FALSE
+NCL,FALSE,FALSE,neuronal ceroid lipofuscinosis,FALSE
+NCP,FALSE,FALSE,nursing care plan,FALSE
+Nd,FALSE,FALSE,neodymium,FALSE
+NDT,FALSE,FALSE,nasoduodenal tube,FALSE
+Ne,FALSE,FALSE,neon,FALSE
+NEDA,FALSE,FALSE,no evidence of disease activity,FALSE
+NEC,FALSE,FALSE,necrotizing enterocolitis,FALSE
+NESB,FALSE,FALSE,non-English speaking background,FALSE
+NEX,FALSE,FALSE,number of excitations,FALSE
+NF1,FALSE,FALSE,neurofibromatosis type 1,FALSE
+NF2,FALSE,FALSE,neurofibromatosis type 2,FALSE
+NFA,TRUE,FALSE,no fixed address|no fixed abode,FALSE
+NFR,FALSE,FALSE,not for resuscitation,FALSE
+NFT,FALSE,FALSE,neurofibrillary tangle,FALSE
+ng,FALSE,FALSE,nanogram,FALSE
+NGT,FALSE,FALSE,nasogastric tube,FALSE
+NH,FALSE,FALSE,nursing home,FALSE
+NHL,FALSE,FALSE,non-Hodgkin lymphoma,FALSE
+NHR,FALSE,FALSE,nursing home resident,FALSE
+NHS,FALSE,FALSE,National Health Service,FALSE
+Ni,FALSE,FALSE,nickel,FALSE
+NICE,FALSE,FALSE,National Institute for Health and Care Excellence,FALSE
+NICU,FALSE,FALSE,neonatal intensive care unit,FALSE
+NIDDM,FALSE,FALSE,non-insulin-dependent diabetes mellitus,FALSE
+NIH,FALSE,FALSE,National Institutes of Health,FALSE
+NIPPV,TRUE,FALSE,non-invasive positive pressure ventilation|nasal intermittent positive pressure ventilation,FALSE
+NJT,FALSE,FALSE,nasojejunal tube,FALSE
+NKA,FALSE,FALSE,no known allergies,FALSE
+NLD,FALSE,FALSE,nasolacrimal duct,FALSE
+NLP,FALSE,FALSE,natural language processing,FALSE
+NMDA,FALSE,FALSE,N-methyl-D-aspartic acid,FALSE
+NMO,FALSE,FALSE,neuromyelitis optica,FALSE
+NMR,FALSE,FALSE,nuclear magnetic resonance,FALSE
+NMV,FALSE,FALSE,net magnetization vector,FALSE
+NNH,FALSE,FALSE,number needed to harm,FALSE
+NNT,FALSE,FALSE,number needed to treat,FALSE
+NOAC,TRUE,FALSE,novel oral anticoagulant agent|non-vitamin K oral anticoagulant agent,FALSE
+NOE,FALSE,FALSE,naso-orbitoethmoid,FALSE
+NOF,TRUE,FALSE,neck of femur|non-ossifying fibroma,FALSE
+NOH,FALSE,FALSE,neck of humerus,FALSE
+NOS,FALSE,FALSE,not otherwise specified,FALSE
+Norad,FALSE,FALSE,norepinephrine,FALSE
+NP,TRUE,TRUE,nasopharyngeal|necrotizing pancreatitis,FALSE
+Np,FALSE,TRUE,neptunium,FALSE
+NPC,FALSE,FALSE,nasopharyngeal carcinoma,FALSE
+NPH,FALSE,FALSE,normal pressure hydrocephalus,FALSE
+NPO,FALSE,FALSE,nil per os,FALSE
+NPPV,FALSE,FALSE,non-invasive positive pressure ventilation,FALSE
+NPV,FALSE,FALSE,negative predictive value,FALSE
+NPWT,FALSE,FALSE,negative pressure wound therapy,FALSE
+NRI,FALSE,FALSE,nerve root injection,FALSE
+NSAID,FALSE,FALSE,non-steroidal anti-inflammatory drug,FALSE
+NSCLC,FALSE,FALSE,non-small cell lung cancer,FALSE
+NSF,FALSE,FALSE,nephrogenic systemic fibrosis,FALSE
+NSGCT,FALSE,FALSE,non-seminomatous germ cell tumor,FALSE
+NSIP,FALSE,FALSE,non-specific interstitial pneumonia,FALSE
+NSR,FALSE,FALSE,normal sinus rhythm,FALSE
+NSTEMI,FALSE,FALSE,non-ST elevation myocardial infarct,FALSE
+NT,FALSE,FALSE,nuchal translucency,FALSE
+nullips,FALSE,FALSE,nullipara,FALSE
+N&V,FALSE,FALSE,nausea and vomiting,FALSE
+N/V,FALSE,FALSE,nausea vomiting,FALSE
+NVD,TRUE,FALSE,nausea vomiting diarrhea|normal vaginal delivery,TRUE
+N/V/D,TRUE,FALSE,nausea vomiting diarrhea|normal vaginal delivery,TRUE
+NVvR,FALSE,FALSE,Nederlandse Vereniging voor Radiologie,FALSE
+NWB,FALSE,FALSE,non-weight bearing,FALSE
+Nx,FALSE,FALSE,nodes cannot be assessed,FALSE
+NYHA,FALSE,FALSE,New York Heart Association,FALSE
+NZ,FALSE,FALSE,New Zealand,FALSE
+O,TRUE,FALSE,blood type|oxygen,FALSE
+O&G,FALSE,FALSE,obstetrics and gynecology,FALSE
+OA,FALSE,FALSE,osteoarthritis,FALSE
+OAB,FALSE,FALSE,overactive bladder,FALSE
+OAC,FALSE,FALSE,oral anticoagulant,FALSE
+OAR,FALSE,FALSE,organ at risk,FALSE
+OB/GYN,FALSE,FALSE,obstetrics and gynecology,FALSE
+Obl,FALSE,FALSE,oblique,FALSE
+Obs,FALSE,FALSE,observations,FALSE
+OC,TRUE,FALSE,optic canal|optic chiasm,FALSE
+OCD,TRUE,FALSE,obsessive-compulsive disorder|osteochondral defect|osteochondritis dissecans,FALSE
+OCG,FALSE,FALSE,oral cholecystogram,FALSE
+OCL,FALSE,FALSE,osteochondral lesion,FALSE
+OCP,TRUE,FALSE,octacalcium phosphate|oral contraceptive pill|ova cysts and parasites,FALSE
+OCT,FALSE,FALSE,optical coherence tomography,FALSE
+OD,TRUE,FALSE,occupational disease|once daily,FALSE
+ODT,FALSE,FALSE,oroduodenal tube,FALSE
+OE,FALSE,FALSE,otitis externa,FALSE
+O/E,FALSE,FALSE,on examination,FALSE
+OFC,FALSE,FALSE,osteitis fibrosa cystica,FALSE
+OFD,FALSE,FALSE,occipitofrontal diameter,FALSE
+OFDI,FALSE,FALSE,optical frequency domain imaging,FALSE
+Og,FALSE,FALSE,oganesson,FALSE
+OGD,FALSE,FALSE,esophagogastroduodenoscopy,FALSE
+OGT,FALSE,FALSE,orogastric tube,FALSE
+OHCA,FALSE,FALSE,out-of-hospital cardiac arrest,FALSE
+OHS,FALSE,FALSE,ovarian hyperstimulation syndrome,FALSE
+OHSS,FALSE,FALSE,ovarian hyperstimulation syndrome,FALSE
+OI,TRUE,FALSE,opportunistic infection|osteogenesis imperfecta,FALSE
+OLIF,FALSE,FALSE,oblique lumbar interbody fusion,FALSE
+OLLIF,FALSE,FALSE,oblique lateral lumbar interbody fusion,FALSE
+OM,TRUE,TRUE,obtuse marginal artery|occipitomental|osteomalacia|osteomyelitis|otitis media,FALSE
+om,FALSE,TRUE,every morning,FALSE
+OMC,FALSE,FALSE,ostiomeatal complex,FALSE
+OMU,FALSE,FALSE,ostiomeatal unit,FALSE
+ON,FALSE,FALSE,take every night,FALSE
+ONH,FALSE,FALSE,optic nerve head,FALSE
+O/N,FALSE,FALSE,overnight,FALSE
+ONG,FALSE,FALSE,optic nerve glioma,FALSE
+ONSD,FALSE,FALSE,optic nerve sheath diameter,FALSE
+OOA,FALSE,FALSE,esophageal obturator airway,FALSE
+OOB,FALSE,FALSE,out of bed,FALSE
+OOH,TRUE,FALSE,out-of-hospital|out-of-hours,FALSE
+OOHCA,FALSE,FALSE,out-of-hospital cardiac arrest,FALSE
+OOHVFA,FALSE,FALSE,out-of-hospital ventricular fibrillation arrest,FALSE
+OOP,FALSE,FALSE,out-of-plaster,FALSE
+OP,TRUE,FALSE,operation|opinion|opposed phase|osteoporosis|out of phase|outpatient,FALSE
+OPARACHEE,FALSE,FALSE,on resonance paramagnetic chemical exchange effect,FALSE
+OPD,FALSE,FALSE,outpatient department,FALSE
+OPG,FALSE,FALSE,orthopantomogram,FALSE
+OPK,FALSE,FALSE,osteopoikilosis,FALSE
+OPLL,FALSE,FALSE,ossification of the posterior longitudinal ligament,FALSE
+OPPT,FALSE,FALSE,oriented to person place and time,FALSE
+OPT,FALSE,FALSE,orthopantomogram,FALSE
+OPV,FALSE,FALSE,oral polio vaccine,FALSE
+OR,TRUE,FALSE,odds ratio|operating room|organ at risk,FALSE
+Ordercomms,FALSE,FALSE,order communications,FALSE
+ORIF,FALSE,FALSE,open reduction internal fixation,FALSE
+ORN,FALSE,FALSE,osteoradionecrosis,FALSE
+ORSA,FALSE,FALSE,oxacillin-resistant staphylococcus aureus,FALSE
+ORT,FALSE,FALSE,oral rehydration therapy,FALSE
+OS,FALSE,TRUE,left eye,FALSE
+Os,FALSE,TRUE,osmium,FALSE
+OSA,FALSE,FALSE,obstructive sleep apnea,FALSE
+OSD,FALSE,FALSE,Osgood-Schlatter disease,FALSE
+Osm,TRUE,FALSE,osmole|osmolarity,FALSE
+OSNA,FALSE,FALSE,one step nucleic acid amplification,FALSE
+OT,TRUE,FALSE,occupational therapy|optic tract|oxytocin,FALSE
+OTC,TRUE,FALSE,oesophagotracheal combitube|over-the-counter,FALSE
+OTD,FALSE,FALSE,out the door,FALSE
+OTTR,FALSE,FALSE,organ transplant tracking record,FALSE
+OU,FALSE,FALSE,both eyes,FALSE
+OV,FALSE,FALSE,office visit,FALSE
+oVEMP,FALSE,FALSE,ocular vestibular-evoked myogenic potentials,FALSE
+OWR,FALSE,FALSE,Osler-Weber-Rendu syndrome,FALSE
+OxyHb,FALSE,FALSE,oxygenated hemoglobin,FALSE
+OYL,FALSE,FALSE,ossification of the yellow ligament,FALSE
+oz,FALSE,FALSE,ounce,FALSE
+P,TRUE,TRUE,P wave on ECG|peta|phosphorus|progesterone|proline,FALSE
+p,TRUE,TRUE,pico|short arm of a chromosome,FALSE
+PA,TRUE,TRUE,pernicious anemia|peroneal artery|placenta accreta|posterior-anterior or posteroanterior|psoriatic arthritis|pulmonary artery|pyloric antrum,FALSE
+Pa,FALSE,TRUE,protactinium,FALSE
+PAC,FALSE,FALSE,premature atrial contraction,FALSE
+PaCO2,FALSE,FALSE,partial pressure of carbon dioxide in the blood,FALSE
+PACS,FALSE,FALSE,picture archiving and communication system,FALSE
+PAD,FALSE,FALSE,peripheral artery disease,FALSE
+PAE,FALSE,FALSE,posterior acoustic enhancement,FALSE
+PAF,TRUE,FALSE,paroxysmal atrial fibrillation|pregnancy after infertility,FALSE
+PAH,FALSE,FALSE,pulmonary arterial hypertension,FALSE
+PAL,FALSE,FALSE,posterior axillary line,FALSE
+PAM,TRUE,FALSE,primary amoebic meningoencephalitis|pulmonary alveolar microlithiasis,FALSE
+PAN,FALSE,FALSE,polyarteritis nodosa,FALSE
+PaNS,FALSE,FALSE,parasympathetic nervous system,FALSE
+PaO2,FALSE,FALSE,partial pressure of oxygen in the blood,FALSE
+PAP,TRUE,FALSE,Papanicolaou stain|positive airway pressure|pulmonary alveolar proteinosis|pulmonary arterial pressure,FALSE
+PAPA syndrome,FALSE,FALSE,pyogenic arthritis pyoderma gangrenosum and acne,FALSE
+PAPP-A,FALSE,FALSE,pregnancy-associated plasma protein-A,FALSE
+PAPVR,FALSE,FALSE,partial anomalous pulmonary venous return,FALSE
+PAS,FALSE,TRUE,posterior acoustic shadowing,FALSE
+PaS,FALSE,TRUE,parasubiculum,FALSE
+PASH,FALSE,FALSE,pseudoangiomatous stromal hyperplasia,FALSE
+PASTA,TRUE,FALSE,partial articular supraspinatus tendon avulsion|partial articular surface tendon avulsion,FALSE
+PAT,FALSE,FALSE,paroxysmal atrial tachycardia,FALSE
+Path,FALSE,FALSE,pathology,FALSE
+PAU,FALSE,FALSE,penetrating atherosclerotic ulcer,FALSE
+PAVR,FALSE,FALSE,percutaneous aortic valve replacement,FALSE
+PB,FALSE,TRUE,petabyte,FALSE
+Pb,FALSE,TRUE,lead,FALSE
+PBA,TRUE,FALSE,payment by activity|push bike accident,FALSE
+PBC,FALSE,FALSE,primary biliary cirrhosis,FALSE
+PBR,FALSE,FALSE,payment by results,FALSE
+PC,TRUE,FALSE,packed cells|personal computer|political correctness politically correct|posterior commissure|presenting complaint,FALSE
+PCA,TRUE,FALSE,patient-controlled analgesia|pilocytic astrocytoma|posterior cerebral artery|posterior cortical atrophy,FALSE
+PCD,TRUE,FALSE,phlegmasia cerulea dolens|post-concussional disorder|posterior ciliary dyskinesia,FALSE
+PCI,TRUE,FALSE,percutaneous coronary intervention|posterolateral corner injury,FALSE
+PCKD,FALSE,FALSE,polycystic kidney disease,FALSE
+PCL,FALSE,FALSE,posterior cruciate ligament,FALSE
+PCNSL,FALSE,FALSE,primary CNS lymphoma,FALSE
+PCO,FALSE,FALSE,polycystic ovaries,FALSE
+PCOS,FALSE,FALSE,polycystic ovarian syndrome,FALSE
+PCP,TRUE,FALSE,phencyclidine|pneumocystis jirovecii,FALSE
+PCR,TRUE,FALSE,polymerase chain reaction|protein:creatinine ratio,FALSE
+PCS,FALSE,FALSE,post-concussional syndrome,FALSE
+PCV,TRUE,FALSE,packed cell volume|polycythemia vera,FALSE
+PCWP,FALSE,FALSE,pulmonary capillary wedge pressure,FALSE
+PD,TRUE,TRUE,pancreas divisum|pancreatic duct|Parkinson disease|peritoneal dialysis|personality disorder|program director|progressive disease|proton density,FALSE
+Pd,FALSE,TRUE,palladium,FALSE
+PDA,TRUE,FALSE,patent ductus arteriosus|posterior descending artery,FALSE
+PDAC,FALSE,FALSE,pancreatic ductal adenocarcinoma,FALSE
+PDD,TRUE,FALSE,pervasive developmental disorder|progressive diaphyseal dysplasia,FALSE
+PDF,FALSE,FALSE,portable document format,FALSE
+PDP,FALSE,FALSE,pachydermoperiostosis,FALSE
+PDx,FALSE,FALSE,provisional diagnosis,FALSE
+PE,TRUE,FALSE,physical exam|pleural effusion|pre-eclampsia|premature ejaculation|pulmonary embolus,FALSE
+PEA,TRUE,FALSE,photoelectric absorption|pulmonary endarterectomy|pulseless electrical activity,FALSE
+PEARL,FALSE,FALSE,pupils equal and reactive to light,FALSE
+PEATS,FALSE,FALSE,prostatic evasive anterior tumor syndrome,FALSE
+PEC,FALSE,FALSE,percutaneous endoscopic colostomy,FALSE
+PEEK,FALSE,FALSE,polyetheretherketone,FALSE
+PEEP,FALSE,FALSE,positive end-expiratory pressure,FALSE
+PEF,FALSE,FALSE,peak expiratory flow,FALSE
+PEG,TRUE,FALSE,percutaneous endoscopic gastrostomy|pneumoencephalography,FALSE
+PEJ,FALSE,FALSE,percutaneous endoscopic jejunostomy,FALSE
+PEJV,FALSE,FALSE,posterior external jugular vein,FALSE
+PEP,FALSE,FALSE,post-exposure prophylaxis,FALSE
+PEPSI,FALSE,FALSE,post-exposure prophylaxis sexual intercourse,FALSE
+PERC,FALSE,FALSE,pulmonary embolism rule-out criteria,FALSE
+PERCIST,FALSE,FALSE,positron emission tomography response criteria in solid tumors,FALSE
+PERLA,FALSE,FALSE,pupils equal and reactive to light and accommodation,FALSE
+PESI,FALSE,FALSE,pulmonary embolism severity index,FALSE
+PEST analysis,FALSE,FALSE,political economic social and technological,FALSE
+PESTLE analysis,FALSE,FALSE,political economic social technological legal and environmental,FALSE
+PET,FALSE,FALSE,positron emission tomography,FALSE
+PFA,FALSE,FALSE,profunda femoris artery,FALSE
+PFFD,FALSE,FALSE,proximal femoral focal deficiency,FALSE
+PFH,FALSE,FALSE,past family history,FALSE
+PFHx,FALSE,FALSE,past family history,FALSE
+PFJ,FALSE,FALSE,patellofemoral joint,FALSE
+PFO,TRUE,FALSE,patent foramen ovale|pissed fell over,FALSE
+PFTs,FALSE,FALSE,pulmonary function tests,FALSE
+PG,FALSE,TRUE,postgraduate,FALSE
+pg,FALSE,TRUE,picogram,FALSE
+PGCS,FALSE,FALSE,pediatric Glasgow Coma Scale,FALSE
+PGY,FALSE,FALSE,postgraduate year,FALSE
+PH,TRUE,TRUE,past history|pulmonary hypertension,FALSE
+pH,FALSE,TRUE,potential of hydrogen,FALSE
+Phe,FALSE,FALSE,phenylalanine,FALSE
+PHP,FALSE,FALSE,pseudohypoparathyroidism,FALSE
+PI,TRUE,FALSE,present illness|primary immunodeficiency|primary infertility|principal investigator|product information|protease inhibitor|pulsatility index,FALSE
+PIC,FALSE,FALSE,pain in chest,FALSE
+PICA,FALSE,FALSE,posterior inferior cerebellar artery,FALSE
+PICC,FALSE,FALSE,peripherally inserted central catheter,FALSE
+PICO,FALSE,FALSE,patient problem or population; intervention; comparison control or comparator; outcome,FALSE
+PICU,FALSE,FALSE,pediatric intensive care unit,FALSE
+PID,TRUE,FALSE,pelvic inflammatory disease|prolapsed intervertebral disc,FALSE
+PIE,TRUE,FALSE,pelvic infiltrative endometriosis|pulmonary interstitial emphysema|pulmonary infiltrates with eosinophilia,FALSE
+PIH,FALSE,FALSE,pregnancy-induced hypertension,FALSE
+PIIS,FALSE,FALSE,posterior inferior iliac spine,FALSE
+PIM,FALSE,FALSE,potentially inappropriate medication,FALSE
+PIN,TRUE,FALSE,posterior interosseous nerve|prostatic intraepithelial neoplasia,FALSE
+PIOPED,FALSE,FALSE,prospective investigation of pulmonary embolism diagnosis,FALSE
+PIPJ,FALSE,FALSE,proximal interphalangeal joint,FALSE
+PI-RADS,FALSE,FALSE,prostate imaging reporting and data system,FALSE
+PISAPED,FALSE,FALSE,prospective investigative study of acute pulmonary embolism diagnosis,FALSE
+PIT,FALSE,FALSE,pituitary,FALSE
+Pixel,FALSE,FALSE,picture element,FALSE
+PJP,FALSE,FALSE,pneumocystis jirovecii pneumonia,FALSE
+PJS,FALSE,FALSE,Peutz-Jeghers syndrome,FALSE
+PKD,FALSE,FALSE,polycystic kidney disease,FALSE
+PKU,FALSE,FALSE,phenylketonuria,FALSE
+PLCH,FALSE,FALSE,pulmonary Langerhans cell histiocytosis,FALSE
+PLE,FALSE,FALSE,panlobular emphysema,FALSE
+PLIF,FALSE,FALSE,posterior lumbar interbody fusion,FALSE
+PLL,FALSE,FALSE,posterior longitudinal ligament,FALSE
+PLND,FALSE,FALSE,pelvic lymph node dissection,FALSE
+PLT,FALSE,FALSE,platelet,FALSE
+PLV,FALSE,FALSE,posterior left ventricular,FALSE
+PM,TRUE,TRUE,partial mastectomy|polymyositis|postmortem,FALSE
+Pm,FALSE,TRUE,promethium,FALSE
+PMC,FALSE,FALSE,PubMed Central,FALSE
+PMF,TRUE,FALSE,pterygomaxillary fissure|progressive massive fibrosis,FALSE
+PMID,FALSE,FALSE,PubMed identifier,FALSE
+PMH,FALSE,FALSE,past medical history,FALSE
+PMHx,FALSE,FALSE,past medical history,FALSE
+PMitCEBO,FALSE,FALSE,prednisolone mitoxantrone cyclophosphamide etoposide bleomycin Oncovin®,FALSE
+PML,FALSE,FALSE,progressive multifocal leukoencephalopathy,FALSE
+PMMA,FALSE,FALSE,polymethylmethacrylate,FALSE
+pmol,FALSE,FALSE,picomole,FALSE
+PMSAH,FALSE,FALSE,perimesencephalic subarachnoid hemorrhage,FALSE
+PND,TRUE,FALSE,paroxysmal nocturnal dyspnea|post-nasal drip,FALSE
+PNET,FALSE,FALSE,primitive neuroectodermal tumor,FALSE
+PNG,FALSE,FALSE,portable network graphics,FALSE
+PNIF,FALSE,FALSE,peak nasal inspiratory flow,FALSE
+PNS,TRUE,FALSE,perineural spread|peripheral nervous system|post-nasal space,FALSE
+PO,TRUE,FALSE,per oral|postoperative,FALSE
+POC,FALSE,FALSE,products of conception,FALSE
+POCT,FALSE,FALSE,point of care testing,FALSE
+POCUS,FALSE,FALSE,point-of-care ultrasonography,FALSE
+POD,TRUE,FALSE,post-operative day|pouch of Douglas,FALSE
+polio,FALSE,FALSE,poliomyelitis,FALSE
+POLO,FALSE,FALSE,periodic occurrence of laryngeal obstruction,FALSE
+POMP,FALSE,FALSE,phase offset multiplanar,FALSE
+POP,TRUE,FALSE,plaster of Paris|post-operative pain,FALSE
+POPUMET,FALSE,FALSE,protection of persons undergoing medical examination or treatment,FALSE
+PoS,FALSE,FALSE,postsubiculum,FALSE
+POTS,FALSE,FALSE,postural orthostatic tachycardia syndrome,FALSE
+PP,TRUE,FALSE,on behalf of|parts per|private patient|proximal phalanx,FALSE
+PPB,FALSE,FALSE,parts per billion,FALSE
+PPC,FALSE,FALSE,posterior parahepatic cyst,FALSE
+PPH,FALSE,FALSE,post-partum hemorrhage,FALSE
+PPHP,FALSE,FALSE,pseudopseudohypoparathyroidism,FALSE
+PPM,TRUE,FALSE,parts per million|permanent pacemaker,FALSE
+PPMS,FALSE,FALSE,primary progressive multiple sclerosis,FALSE
+PPF,FALSE,FALSE,pterygopalatine fossa,FALSE
+PPI,FALSE,FALSE,proton pump inhibitor,FALSE
+PPROM,FALSE,FALSE,preterm premature rupture of membranes,FALSE
+PPS,FALSE,FALSE,parapharyngeal space,FALSE
+PPT,TRUE,FALSE,parts per trillion|precipitate,FALSE
+PPV,TRUE,FALSE,patent processus vaginalis|positive predictive value,FALSE
+PR,TRUE,TRUE,partial response|per rectum|pulmonary regurgitation|pulse rate|P wave to R wave interval on an ECG,FALSE
+Pr,FALSE,TRUE,praseodymium,FALSE
+PRC,FALSE,FALSE,packed red cells,FALSE
+PrCa,FALSE,FALSE,prostate cancer,FALSE
+PREP,FALSE,FALSE,pre-exposure prophylaxis,FALSE
+PRES,FALSE,FALSE,posterior reversible encephalopathy syndrome,FALSE
+PRF,FALSE,FALSE,pulse repetition frequency,FALSE
+PRICE,FALSE,FALSE,protection rest ice compression and elevation,FALSE
+Primips,FALSE,FALSE,primipara,FALSE
+PRL,FALSE,FALSE,prolactin,FALSE
+PRN,FALSE,FALSE,as required,FALSE
+Pro,TRUE,FALSE,professional|proline,FALSE
+Prof,FALSE,FALSE,professor,FALSE
+PROG,FALSE,FALSE,progesterone,FALSE
+PROM,TRUE,FALSE,patient-reported outcome measure|premature rupture of membranes,FALSE
+PROPELLER,FALSE,FALSE,periodically rotated overlapping parallel lines with enhanced reconstruction,FALSE
+ProS,FALSE,FALSE,prosubiculum,FALSE
+PRP,FALSE,FALSE,platelet-rich plasma,FALSE
+PrS,FALSE,FALSE,presubiculum,FALSE
+PS,TRUE,FALSE,pubic symphysis|pulmonary stenosis,FALSE
+PSA,FALSE,TRUE,prostate specific antigen,FALSE
+PsA,FALSE,TRUE,psoriatic arthritis,FALSE
+PSAD,FALSE,FALSE,prostate specific antigen density,FALSE
+PSAH,FALSE,FALSE,pseudosubarachnoid hemorrhage,FALSE
+PSB,TRUE,FALSE,pansystolic spectral broadening|posterior skull base,FALSE
+PSC,FALSE,FALSE,primary sclerosing cholangitis,FALSE
+PSCC,FALSE,FALSE,posterior semicircular canal,FALSE
+PSIS,FALSE,FALSE,posterior superior iliac spine,FALSE
+PSMA,FALSE,FALSE,prostate specific membrane antigen,FALSE
+PSP,TRUE,FALSE,photostimulable phosphor plate|progressive supranuclear palsy,FALSE
+PSS,FALSE,FALSE,progressive systemic sclerosis,FALSE
+PSV,FALSE,FALSE,peak systolic velocity,FALSE
+PT,TRUE,TRUE,patient|physiotherapy|prothrombin time|pubic tubercle|pulmonary trunk,FALSE
+Pt,TRUE,TRUE,patient|platinum,FALSE
+PTA,TRUE,FALSE,posterior tibial artery|post traumatic amnesia|pure tone audiogram,FALSE
+PTB,TRUE,FALSE,petrous temporal bone|pulmonary tuberculosis,FALSE
+PTC,TRUE,FALSE,papillary thyroid cancer|percutaneous transhepatic cholecystostomy,FALSE
+PTCA,FALSE,FALSE,percutaneous transluminal coronary angioplasty,FALSE
+PTFL,FALSE,FALSE,posterior talofibular ligament,FALSE
+PTH,FALSE,FALSE,parathyroid hormone,FALSE
+PTSD,FALSE,FALSE,post-traumatic stress disorder,FALSE
+PTU,FALSE,FALSE,propylthiouracil,FALSE
+PTV,FALSE,FALSE,planning target volume,FALSE
+PTX,FALSE,FALSE,pneumothorax,FALSE
+PU,FALSE,FALSE,per urethra,FALSE
+PUC,FALSE,FALSE,prostatic utricle cyst,FALSE
+PUD,FALSE,FALSE,peptic ulcer disease,FALSE
+PUJ,FALSE,FALSE,pelviureteric junction,FALSE
+PUO,FALSE,FALSE,pyrexia of unknown origin,FALSE
+PV,TRUE,FALSE,pemphigus vulgaris|periventricular nucleus|per vagina|polycythemia vera|portal vein|portal venous|pulmonary valve,FALSE
+PVC,TRUE,FALSE,polyvinyl chloride|premature ventricular contraction,FALSE
+PVD,TRUE,FALSE,peripheral vascular disease|posterior vitreous detachment,FALSE
+PVI,FALSE,FALSE,pulmonary vein isolation,FALSE
+PVIA,FALSE,FALSE,pulmonary vein isolation ablation,FALSE
+PVL,FALSE,FALSE,periventricular leucomalacia,FALSE
+PVOD,FALSE,FALSE,pulmonary veno-occlusive disease,FALSE
+PVR,TRUE,FALSE,postvoid residual volume|pulmonary valve replacement|pulmonary vascular resistance,FALSE
+PVS,FALSE,FALSE,perivascular space,FALSE
+PWB,FALSE,FALSE,partial weight bearing,FALSE
+PWD,FALSE,FALSE,pulsed wave Doppler,FALSE
+PW Doppler,FALSE,FALSE,pulsed wave Doppler,FALSE
+PX,FALSE,TRUE,patient experience,FALSE
+Px,TRUE,TRUE,pixel|prognosis,FALSE
+PXR,FALSE,FALSE,pelvis x-ray,FALSE
+PY,FALSE,FALSE,pack-year,FALSE
+PZ,FALSE,FALSE,peripheral zone,FALSE
+Q,TRUE,TRUE,perfusion,FALSE
+q,FALSE,TRUE,long arm of a chromosome,FALSE
+QA,FALSE,FALSE,quality assurance,FALSE
+QALY,FALSE,FALSE,quality-adjusted life year,FALSE
+QBC,FALSE,FALSE,quadrature body coil,FALSE
+QDS,FALSE,FALSE,four times a day,FALSE
+QH,FALSE,FALSE,every hour,FALSE
+QHS,FALSE,FALSE,every night at bedtime,FALSE
+QI,FALSE,FALSE,quality improvement,FALSE
+QIP,FALSE,FALSE,quality improvement project,FALSE
+QISS,FALSE,FALSE,quiescent interval for single shot,FALSE
+QN,FALSE,FALSE,every night,FALSE
+QoL,FALSE,FALSE,quality of life,FALSE
+QRAPMASTER,FALSE,FALSE,quantification of relaxation times and proton density by multi-echo acquisition of a saturation-recovery using turbo spin echo readout,FALSE
+qv,FALSE,FALSE,please see,FALSE
+R,TRUE,FALSE,right|roentgen,FALSE
+RA,TRUE,TRUE,rheumatoid arthritis|right atrium|right auricle|room air,FALSE
+Ra,FALSE,TRUE,radium,FALSE
+RACF,FALSE,FALSE,residential aged-care facility,FALSE
+RAD,TRUE,TRUE,right axis deviation|radiation absorbed dose,FALSE
+Rad,FALSE,TRUE,cgs unit of absorbed radiation dose,FALSE
+RALP,FALSE,FALSE,robot-assisted laparoscopic prostatectomy,FALSE
+RAMC,FALSE,FALSE,Royal Army Medical Corps,FALSE
+RANK,FALSE,FALSE,receptor activator of nuclear factor-Kappa B,FALSE
+RANZCR,FALSE,FALSE,Royal Australian and New Zealand College of Radiologists,FALSE
+RAO,FALSE,FALSE,right anterior oblique,FALSE
+RAPD,FALSE,FALSE,relative afferent pupillary defect,FALSE
+RAR,FALSE,FALSE,renal-to-aortic ratio,FALSE
+RAS,TRUE,FALSE,renin-angiotensin system|renal artery stenosis|reticular activating system,FALSE
+RAZ,FALSE,FALSE,right apical zone,FALSE
+Rb,FALSE,FALSE,rubidium,FALSE
+RBBB,FALSE,FALSE,right bundle branch block,FALSE
+RBC,FALSE,FALSE,red blood cells,FALSE
+RB-ILD,FALSE,FALSE,respiratory bronchiolitis-interstitial lung disease,FALSE
+RC,FALSE,FALSE,rotator cuff,FALSE
+RCA,TRUE,FALSE,right colic artery|right coronary artery|root cause analysis|rotator cuff arthropathy,FALSE
+RCC,TRUE,FALSE,Rathke cleft cyst|red cell count|renal cell carcinoma,FALSE
+RCCA,FALSE,FALSE,right common carotid artery,FALSE
+RCH,FALSE,FALSE,remote cerebellar hemorrhage,FALSE
+R-CHOP,FALSE,FALSE,rituximab cyclophosphamide doxorubicin prednisolone,FALSE
+RCJ,FALSE,FALSE,radiocarpal joint,FALSE
+RCL,FALSE,FALSE,radial collateral ligament complex of the elbow,FALSE
+RCM,FALSE,FALSE,restrictive cardiomyopathy,FALSE
+RCR,FALSE,FALSE,Royal College of Radiologists,FALSE
+RCT,TRUE,FALSE,randomized control trial|rotator cuff tear,FALSE
+RCVS,FALSE,FALSE,reversible cerebral vasoconstriction syndrome,FALSE
+Rd,FALSE,FALSE,rutherford,FALSE
+RDS,FALSE,FALSE,respiratory distress syndrome,FALSE
+RDW,FALSE,FALSE,red cell distribution width,FALSE
+RE,FALSE,FALSE,right eye,FALSE
+ReA,FALSE,FALSE,reactive arthritis,FALSE
+REBOA,FALSE,FALSE,resuscitative endovascular balloon occlusion of the aorta,FALSE
+RECIST,FALSE,FALSE,response evaluation criteria in solid tumors,FALSE
+Re,FALSE,FALSE,rhenium,FALSE
+Recons,FALSE,FALSE,reconstructions,FALSE
+Reg,FALSE,FALSE,registrar,FALSE
+Rem,FALSE,FALSE,roentgen equivalent man,FALSE
+RES,FALSE,FALSE,reticuloendothelial system,FALSE
+Resus,FALSE,FALSE,resuscitation,FALSE
+RF,TRUE,FALSE,radiofrequency|rheumatoid factor|ring finger|risk factor,FALSE
+RFA,FALSE,FALSE,radiofrequency ablation,FALSE
+RFT,FALSE,FALSE,right ventricular false tendon,FALSE
+RFTs,FALSE,FALSE,respiratory function tests,FALSE
+RGA,FALSE,FALSE,right gastric artery,FALSE
+Rh,TRUE,FALSE,rhesus|rhodium,FALSE
+RHA,FALSE,FALSE,right hepatic artery,FALSE
+RHD,TRUE,FALSE,right hand dominant|right hepatic duct,FALSE
+RHS,FALSE,FALSE,right hand side,FALSE
+RHV,FALSE,FALSE,right hepatic vein,FALSE
+RI,TRUE,FALSE,ramus intermedius|resistive index,FALSE
+RIF,FALSE,FALSE,right iliac fossa,FALSE
+RIG,FALSE,FALSE,radiologically inserted gastrostomy,FALSE
+RIH,FALSE,FALSE,right inguinal hernia,FALSE
+RIHD,FALSE,FALSE,radiation-induced heart disease,FALSE
+RIJ,FALSE,FALSE,right internal jugular,FALSE
+RIJV,FALSE,FALSE,right internal jugular vein,FALSE
+RIMA,FALSE,FALSE,right internal mammary artery,FALSE
+RIS,TRUE,FALSE,radiologically-isolated syndrome|radiology information system,FALSE
+RITA,FALSE,FALSE,right internal thoracic artery,FALSE
+RK,FALSE,FALSE,right kidney,FALSE
+RLL,TRUE,FALSE,right lower lobe|right lobe of liver,FALSE
+RLQ,FALSE,FALSE,right lower quadrant,FALSE
+RLZ,FALSE,FALSE,right lower zone,FALSE
+RMB,FALSE,FALSE,right main bronchus,FALSE
+RML,FALSE,FALSE,right middle lobe,FALSE
+RMO,FALSE,FALSE,resident medical officer,FALSE
+RMS: ,TRUE,FALSE,rhabdomyosarcoma|root mean square,FALSE
+RMT,FALSE,FALSE,retromolar trigone,FALSE
+RMZ,FALSE,FALSE,right middle zone,FALSE
+RN,FALSE,TRUE,registered nurse,FALSE
+Rn,FALSE,TRUE,radon,FALSE
+RNA,FALSE,FALSE,ribonucleic acid,FALSE
+RO,FALSE,FALSE,right ovary,FALSE
+R/O,FALSE,FALSE,rule out,FALSE
+ROC,FALSE,FALSE,receiver operator curve,FALSE
+ROI,FALSE,FALSE,region of interest,FALSE
+ROM,FALSE,FALSE,range of motion,FALSE
+ROP,FALSE,FALSE,retinopathy of prematurity,FALSE
+ROS,FALSE,FALSE,reactive oxygen species,FALSE
+ROSC,FALSE,FALSE,return of spontaneous circulation,FALSE
+RP,TRUE,FALSE,retinopathy of prematurity|retroperitoneal|retropharyngeal,FALSE
+RPA,FALSE,FALSE,right pulmonary artery,FALSE
+RPOC,FALSE,FALSE,retained products of conception,FALSE
+RPL,FALSE,FALSE,recurrent pregnancy loss,FALSE
+RPLND,FALSE,FALSE,retroperitoneal lymph node dissection,FALSE
+RPLS,FALSE,FALSE,reversible posterior leukoencephalopathy syndrome,FALSE
+RR,FALSE,FALSE,respiratory rate,FALSE
+RRA,FALSE,FALSE,right renal artery,FALSE
+RRMS,FALSE,FALSE,relapsing remitting multiple sclerosis,FALSE
+RRT,FALSE,FALSE,renal replacement therapy,FALSE
+RS,FALSE,FALSE,respiratory system,FALSE
+RSBI,FALSE,FALSE,rapid shallow breathing index,FALSE
+RSCA,FALSE,FALSE,right subclavian artery,FALSE
+RSI,FALSE,FALSE,repetitive strain injury,FALSE
+RSM,TRUE,FALSE,recurrent spontaneous abortion|Royal Society of Medicine,FALSE
+RSNA,FALSE,FALSE,Radiological Society of North America,FALSE
+RSO,FALSE,FALSE,resident surgical officer,FALSE
+RSWP,FALSE,FALSE,radial-sided wrist pain,FALSE
+RSX,FALSE,FALSE,radiosurgery,FALSE
+RT,TRUE,FALSE,radiotherapy|right,FALSE
+RTA,TRUE,FALSE,renal tubular acidosis|road traffic accident,FALSE
+RTC,FALSE,FALSE,road traffic collision,FALSE
+RTT,FALSE,FALSE,return to theater,FALSE
+RTI,FALSE,FALSE,respiratory tract infection,FALSE
+RTX,FALSE,FALSE,radiotherapy,FALSE
+Ru,FALSE,FALSE,ruthenium,FALSE
+RUL,FALSE,FALSE,right upper lobe,FALSE
+RUO,FALSE,FALSE,right ureteric orifice,FALSE
+RUQ,FALSE,FALSE,right upper quadrant,FALSE
+RUZ,FALSE,FALSE,right upper zone,FALSE
+RUSH,FALSE,FALSE,rapid ultrasound in shock,FALSE
+RV,TRUE,FALSE,residual volume|right ventricle,FALSE
+RVA,FALSE,FALSE,right vertebral artery,FALSE
+RVAD,FALSE,FALSE,right ventricular assist device,FALSE
+RVCL-S,FALSE,FALSE,retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations,FALSE
+RVD,TRUE,FALSE,retroviral disease|right ventricular dilatation,FALSE
+RVF,FALSE,FALSE,right ventricular failure,FALSE
+RVH,FALSE,FALSE,right ventricular hypertrophy,FALSE
+RVR,FALSE,FALSE,rapid ventricular rate,FALSE
+RVT,FALSE,FALSE,renal vein thrombosis,FALSE
+RWMA,FALSE,FALSE,regional wall motion abnormalities or regional wall motion abnormality,FALSE
+Rx,FALSE,FALSE,prescription,FALSE
+S,TRUE,FALSE,sacral|second|sulfur,FALSE
+SA,TRUE,FALSE,semen analysis|sinoatrial,FALSE
+SAA,FALSE,FALSE,serum amyloid A,FALSE
+SAB,FALSE,FALSE,spontaneous abortion,FALSE
+SABA,FALSE,FALSE,short-acting beta-2 agonist,FALSE
+SABR,FALSE,FALSE,stereotactic ablative radiotherapy,FALSE
+SAE,FALSE,FALSE,sepsis-associated encephalopathy,FALSE
+Sag,FALSE,FALSE,sagittal,FALSE
+SAH,FALSE,FALSE,subarachnoid hemorrhage,FALSE
+SALT,FALSE,FALSE,speech and language therapy,FALSE
+SAM,FALSE,FALSE,segmental arterial mediolysis,FALSE
+SAPHO,FALSE,FALSE,synovitis acne pustulosis hyperostosis osteitis,FALSE
+SAR,FALSE,FALSE,specific absorption rate,FALSE
+SB,TRUE,TRUE,small bowel|spectral broadening|stillbirth,FALSE
+Sb,FALSE,TRUE,antimony,FALSE
+SBC,FALSE,FALSE,simple bone cyst,FALSE
+SBE,FALSE,FALSE,subacute bacterial endocarditis,FALSE
+SBF,FALSE,FALSE,small bowel follow through,FALSE
+SBFT,FALSE,FALSE,small bowel follow through,FALSE
+SBO,FALSE,FALSE,small bowel obstruction,FALSE
+SBP,TRUE,FALSE,spontaneous bacterial peritonitis|systolic blood pressure,FALSE
+SBPL,FALSE,FALSE,spontaneous bacterial pleuritis,FALSE
+SBRT,FALSE,FALSE,stereotactic body radiotherapy,FALSE
+SBS,FALSE,FALSE,seat belt sign,FALSE
+SC,TRUE,TRUE,spinal cord|subcutaneous,FALSE
+Sc,FALSE,TRUE,scandium,FALSE
+SCA,TRUE,FALSE,sickle cell anemia|subclavian artery|superior cerebellar artery,FALSE
+SCAD,FALSE,FALSE,spontaneous coronary artery dissection,FALSE
+SCC,TRUE,FALSE,semicircular canal|spinal cord compression|squamous cell cancer|squamous cell carcinoma,FALSE
+SCCD,FALSE,FALSE,semicircular canal dehiscence,FALSE
+SCD,TRUE,FALSE,sickle cell disease|sudden cardiac death,FALSE
+SCDO,FALSE,FALSE,spondylocostal dysostosis,FALSE
+SCI,FALSE,FALSE,spinal cord injury,FALSE
+SCIWORA,FALSE,FALSE,spinal cord injury without radiographic abnormality,FALSE
+SCJ,FALSE,FALSE,sternoclavicular joint,FALSE
+SCLC,FALSE,FALSE,small cell lung cancer,FALSE
+SCM,FALSE,FALSE,sternocleidomastoid,FALSE
+SCoR,FALSE,FALSE,Society and College of Radiographers,FALSE
+SCORIF,FALSE,FALSE,stimulated cycle oocyte retrieval in [office] fertilisation,FALSE
+SCT,FALSE,FALSE,stem cell transplant,FALSE
+SCV,FALSE,FALSE,subclavian vein,FALSE
+SD,TRUE,FALSE,septal deviation|stable disease|standard deviation,FALSE
+SDASH,FALSE,FALSE,shunt-dependency in symptomatic aneurysmal subarachnoid hemorrhage score,FALSE
+SDD,FALSE,FALSE,surfactant deficiency disorder,FALSE
+SDH,FALSE,FALSE,subdural hemorrhage,FALSE
+SE,TRUE,TRUE,side-effect|spin echo|status epilepticus,FALSE
+Se,FALSE,TRUE,selenium,FALSE
+SEC,FALSE,FALSE,second,FALSE
+SEE,FALSE,FALSE,septic-embolic encephalitis,FALSE
+SEEG,FALSE,FALSE,stereoelectroencephalography,FALSE
+SeHCAT,FALSE,FALSE,selenium homocholic acid taurine,FALSE
+SEMAC,FALSE,FALSE,slice-encoding for metal artifact correction,FALSE
+SEMS,FALSE,FALSE,self-expandable metallic stent,FALSE
+SEP,FALSE,FALSE,superior end-plate,FALSE
+Ser,FALSE,FALSE,serine,FALSE
+sestamibi,FALSE,FALSE,sesta-methoxyisobutylisonitrile,FALSE
+SFA,FALSE,FALSE,superficial femoral artery,FALSE
+SFV,FALSE,FALSE,superficial femoral vein,FALSE
+SGA,FALSE,FALSE,supraglottic airway,FALSE
+SGC,FALSE,FALSE,Swan-Ganz catheter,FALSE
+SGHL,FALSE,FALSE,superior glenohumeral ligament,FALSE
+SH,TRUE,FALSE,Salter-Harris|social history,FALSE
+SHG,FALSE,FALSE,sonohysterogram,FALSE
+SHO,FALSE,FALSE,senior house officer,FALSE
+SHORT syndrome,FALSE,FALSE,short stature hyperextensibility and/or inguinal hernia ocular depression Rieger anomaly teething delay,FALSE
+SHx,FALSE,FALSE,social history,FALSE
+SI,TRUE,TRUE,sacroiliac|secondary infertility|serious incident|sexual intercourse|signal intensity|situs inversus|small intestine|Systeme Internationale,FALSE
+Si,FALSE,TRUE,silicon,FALSE
+SIADH,FALSE,FALSE,syndrome of inappropriate antidiuretic hormone secretion,FALSE
+SICRET,FALSE,FALSE,small infarctions of cochlear retinal and encephalic tissue = Susac syndrome,FALSE
+SIDM,FALSE,FALSE,steroid-induced diabetes mellitus,FALSE
+SIDS,FALSE,FALSE,sudden infant death syndrome,FALSE
+SIJ,FALSE,FALSE,sacroiliac joint,FALSE
+SIM,FALSE,FALSE,simulation,FALSE
+SIMV,FALSE,FALSE,synchronised intermittent mechanical ventilation,FALSE
+SINS,FALSE,FALSE,spinal instability neoplastic score,FALSE
+SIRVA,FALSE,FALSE,shoulder injury related to vaccine administration,FALSE
+SIT,FALSE,FALSE,situs inversus totalis,FALSE
+SJS,FALSE,FALSE,Stevens-Johnson syndrome,FALSE
+SkM,FALSE,FALSE,skeletal muscle,FALSE
+SLAC,FALSE,FALSE,scapholunate advanced collapse,FALSE
+SLAP,FALSE,FALSE,superior labral anterior-posterior,FALSE
+SLE,FALSE,FALSE,systemic lupus erythematosus,FALSE
+SLG,FALSE,FALSE,sublingual gland,FALSE
+SLJ,FALSE,FALSE,Sinding-Larsen-Johansson disease,FALSE
+SLL,FALSE,FALSE,scapholunate ligament,FALSE
+SLN,FALSE,FALSE,sentinel lymph node,FALSE
+SLNBx,FALSE,FALSE,sentinel lymph node biopsy,FALSE
+SLT,FALSE,FALSE,speech and language therapy,FALSE
+SM,TRUE,FALSE,smooth muscle|submucosa,FALSE
+SMA,FALSE,FALSE,superior mesenteric artery,FALSE
+SMART,TRUE,FALSE,specific measurable achievable relevant timely|stroke-like migraine attacks after radiation therapy syndrome,FALSE
+SMAS,FALSE,FALSE,superficial musculoaponeurotic system,FALSE
+SMEI,FALSE,FALSE,severe myoclonic epilepsy of infancy,FALSE
+SMG,FALSE,FALSE,submandibular gland,FALSE
+SMR,FALSE,FALSE,stable metabolic response,FALSE
+SMS,FALSE,FALSE,sonographic Murphy sign,FALSE
+SMV,TRUE,FALSE,submentovertical|superior mesenteric vein,FALSE
+SN,FALSE,TRUE,sentinel node,FALSE
+Sn,TRUE,TRUE,sensitivity|tin,FALSE
+SNAC,FALSE,FALSE,scaphoid nonunion advanced collapse,FALSE
+SNBx,FALSE,FALSE,sentinel node biopsy,FALSE
+SNHL,FALSE,FALSE,sensorineural hearing loss,FALSE
+SNiP,FALSE,FALSE,single nucleotide polymorphism,FALSE
+SNOH,FALSE,FALSE,surgical neck of humerus,FALSE
+SNP,FALSE,FALSE,single nucleotide polymorphism,FALSE
+SNR,FALSE,FALSE,signal-to-noise ratio,FALSE
+SNS,FALSE,FALSE,sympathetic nervous system,FALSE
+SNT,FALSE,FALSE,soft non tender,FALSE
+SOA,FALSE,FALSE,swelling of ankles,FALSE
+SOAP,FALSE,FALSE,subjective objective assessment plan,FALSE
+SOB,FALSE,FALSE,shortness of breath,FALSE
+SOBAR,FALSE,FALSE,shortness of breath at rest,FALSE
+SOBOE,FALSE,FALSE,shortness of breath on exertion,FALSE
+SOD,FALSE,FALSE,septo-optic dysplasia,FALSE
+SOF,FALSE,FALSE,superior orbital fissure,FALSE
+SOL,FALSE,FALSE,space-occupying lesion,FALSE
+SONK,FALSE,FALSE,spontaneous osteonecrosis of the knee,FALSE
+SOP,FALSE,FALSE,standard operating procedure,FALSE
+SoR,FALSE,FALSE,Society of Radiographers,FALSE
+SOS,TRUE,FALSE,satisfaction of search|sinusoidal obstruction syndrome,FALSE
+SOV,FALSE,FALSE,superior ophthalmic vein,FALSE
+SOVA,FALSE,FALSE,sinus of Valsalva aneurysm,FALSE
+SP,TRUE,TRUE,sacral promontory|spinous process,FALSE
+Sp,TRUE,TRUE,species|specificity,FALSE
+S/P,FALSE,FALSE,status post,FALSE
+SPACE,TRUE,FALSE,sampling perfection with application optimized contrasts using different flip angle evolution|spatial and chemical-shift encoded excitation,FALSE
+SpaceOAR,FALSE,FALSE,space organ at risk,FALSE
+SPAIR,FALSE,FALSE,spectral attenuated inversion recovery,FALSE
+SPC,FALSE,FALSE,suprapubic catheter,FALSE
+SPECT,FALSE,FALSE,single photon emission computed tomography,FALSE
+SPET,FALSE,FALSE,single photon emission computed tomography,FALSE
+SPGR,FALSE,FALSE,spoiled gradient recalled,FALSE
+SPIR,FALSE,FALSE,spectral presaturation with inversion recovery,FALSE
+SPMS,FALSE,FALSE,secondary progressive multiple sclerosis,FALSE
+SPN,FALSE,FALSE,solitary pulmonary nodule,FALSE
+Spp,FALSE,FALSE,species,FALSE
+SQ,TRUE,FALSE,status quo|subcutaneous,FALSE
+SR,FALSE,TRUE,sinus rhythm,FALSE
+Sr,FALSE,TRUE,strontium,FALSE
+SREAT,FALSE,FALSE,steroid responsive encephalopathy associated with autoimmune thyroiditis,FALSE
+SRO,FALSE,FALSE,sagittal ramus osteotomy,FALSE
+SROM,FALSE,FALSE,spontaneous rupture of membranes,FALSE
+SRS,TRUE,FALSE,Silver-Russell syndrome|somatostatin receptor scintigraphy|stereotactic radiosurgery,FALSE
+SS,TRUE,FALSE,situs solitus|Sjögren syndrome|straight sinus|supraspinatus muscle|systemic sclerosis,FALSE
+S&S,FALSE,FALSE,signs and symptoms,FALSE
+SSCC,FALSE,FALSE,superior semicircular canal,FALSE
+SSFP,FALSE,FALSE,steady state free precession,FALSE
+SSG,FALSE,FALSE,split skin graft,FALSE
+SSR,FALSE,FALSE,spontaneous splenic rupture,FALSE
+SSS,TRUE,FALSE,sick sinus syndrome|superior sagittal sinus,FALSE
+SST,FALSE,FALSE,short Synacthen test,FALSE
+ST,TRUE,FALSE,speech therapy|ST segment on ECG,FALSE
+STA,FALSE,FALSE,superficial temporal artery,FALSE
+STAMCA,FALSE,FALSE,superficial temporal artery to middle cerebral artery anastomosis,FALSE
+Staph,FALSE,FALSE,_Staphylococcus_ spp _,FALSE
+stat,FALSE,FALSE,immediately,FALSE
+STD,TRUE,FALSE,sexually transmitted disease|ST depression,FALSE
+STE,FALSE,FALSE,ST elevation,FALSE
+STEMI,FALSE,FALSE,ST elevation myocardial infarct,FALSE
+STI:,TRUE,FALSE,sexually transmitted infection|soft tissue injury,FALSE
+STIR,TRUE,FALSE,short tau inversion recovery|short TI inversion recovery,FALSE
+STJ,FALSE,FALSE,subtalar joint,FALSE
+STOP,FALSE,FALSE,selective tubal occlusive procedure,FALSE
+STP,FALSE,FALSE,standard temperature and pressure,FALSE
+Strep,FALSE,FALSE,Streptococcus spp,FALSE
+STT,FALSE,FALSE,scaphotrapeziotrapezoid joint,FALSE
+SUA,FALSE,FALSE,single umbilical artery,FALSE
+Sub,FALSE,FALSE,subiculum,FALSE
+subcut,FALSE,FALSE,subcutaneous,FALSE
+SUDEP,FALSE,FALSE,sudden unexplained death in epilepsy,FALSE
+SUI,FALSE,FALSE,serious untoward incident,FALSE
+SUL,FALSE,FALSE,standardized uptake value corrected for lean body mass,FALSE
+supraclav,FALSE,FALSE,supraclavicular,FALSE
+SUV,FALSE,FALSE,standardized uptake value,FALSE
+SV,FALSE,TRUE,stroke volume,FALSE
+Sv,FALSE,TRUE,sievert,FALSE
+SVC,FALSE,FALSE,superior vena cava,FALSE
+SVD,FALSE,FALSE,spontaneous vaginal delivery,FALSE
+SVT,TRUE,FALSE,subdural venous thrombosis|superficial venous thrombosis|supraventricular tachycardia,FALSE
+SWAN,FALSE,FALSE,syndrome without a name,FALSE
+SWI,FALSE,FALSE,susceptibility-weighted imaging,FALSE
+SWOT analysis,FALSE,FALSE,strengths weaknesses opportunities threats,FALSE
+SWS,FALSE,FALSE,Sturge-Weber syndrome,FALSE
+Sx,FALSE,FALSE,signs,TRUE
+S/X,FALSE,FALSE,signs,TRUE
+SXR,FALSE,FALSE,skull x-ray,FALSE
+Sy,FALSE,FALSE,symptoms,FALSE
+Symp,FALSE,FALSE,symptoms,FALSE
+Symph,FALSE,FALSE,symphysis pubis,FALSE
+Sys,FALSE,FALSE,systems review,FALSE
+T,TRUE,FALSE,temperature|temporal|time,FALSE
+T1,TRUE,FALSE,TNM stage|spin-lattice time,FALSE
+T1DM,FALSE,FALSE,type 1 diabetes mellitus,FALSE
+T1RF,FALSE,FALSE,type 1 respiratory failure,FALSE
+T1WI,FALSE,FALSE,T1 weighted imaging,FALSE
+T2,TRUE,FALSE,spin-spin time|TNM stage,FALSE
+T2DM,FALSE,FALSE,type 2 diabetes mellitus,FALSE
+T2RF,FALSE,FALSE,type 2 respiratory failure,FALSE
+T2WI,FALSE,FALSE,T2 weighted imaging,FALSE
+T3,TRUE,FALSE,tri-iodothyronine|TNM stage,FALSE
+T4,TRUE,FALSE,thyroxine|TNM stage,FALSE
+T1-T12,FALSE,FALSE,thoracic vertebrae,FALSE
+T13,FALSE,FALSE,trisomy 13,FALSE
+T18,FALSE,FALSE,trisomy 18,FALSE
+T21,FALSE,FALSE,trisomy 21,FALSE
+TA,TRUE,FALSE,Terminologia Anatomica|transabdominal|tunica albuginea,FALSE
+T&A,FALSE,FALSE,tonsillectomy and adenoidectomy,FALSE
+TAA,FALSE,FALSE,thoracic aortic aneurysm,FALSE
+TACE,FALSE,FALSE,transcatheter arterial chemoembolisation,FALSE
+TAFRO,FALSE,FALSE,thrombocytopenia anasarca fever reticulin fibrosis and organomegaly syndrome,FALSE
+TAH,FALSE,FALSE,total abdominal hysterectomy,FALSE
+TAHBSO,FALSE,FALSE,total abdominal hysterectomy and bilateral salpingo-oophorectomy,TRUE
+TAH/BSO,FALSE,FALSE,total abdominal hysterectomy and bilateral salpingo-oophorectomy,TRUE
+TAI,TRUE,FALSE,traumatic aortic injury|traumatic axonal injury,FALSE
+TAPS,FALSE,FALSE,traumatic abruptio placenta scale,FALSE
+TAPVR,FALSE,FALSE,total anomalous pulmonary venous return,FALSE
+TAR,FALSE,FALSE,thrombocytopenia with absent radius syndrome,FALSE
+TAT,FALSE,FALSE,turnaround time,FALSE
+TATT,FALSE,FALSE,tired all the time,FALSE
+TAVI,FALSE,FALSE,transcatheter aortic valve implantation,FALSE
+TAVR,FALSE,FALSE,transcatheter aortic valve replacement,FALSE
+TB,TRUE,FALSE,terabyte|tuberculosis,FALSE
+TBI,TRUE,FALSE,toe-brachial index|total body irradiation|traumatic brain injury,FALSE
+TBNA,FALSE,FALSE,transbronchial needle aspiration,FALSE
+TBSA,FALSE,FALSE,total body surface area,FALSE
+tBW,FALSE,FALSE,transmitter bandwidth,FALSE
+TC,TRUE,TRUE,Tenckhoff catheter|transverse colon,FALSE
+Tc,FALSE,TRUE,technetium,FALSE
+TCC,FALSE,FALSE,transitional cell carcinoma,FALSE
+TDC,FALSE,FALSE,thyroglossal duct cyst,FALSE
+TDR-TB,FALSE,FALSE,totally drug-resistant tuberculosis,FALSE
+TDS,FALSE,FALSE,three times a day,FALSE
+TE,FALSE,FALSE,time to echo or echo time,FALSE
+TEA,FALSE,FALSE,total elbow arthroplasty,FALSE
+TECAB,FALSE,FALSE,totally endoscopic coronary artery bypass,FALSE
+TED,FALSE,FALSE,thromboembolic disease,FALSE
+TEE,FALSE,FALSE,transesophageal echocardiography,FALSE
+TEETH,FALSE,FALSE,tried everything else try homeopathy,FALSE
+TEF,FALSE,FALSE,tracheo-esophageal fistula,FALSE
+TENS,TRUE,FALSE,toxic epidermal necrolysis syndrome|transcutaneous electrical nerve stimulation,FALSE
+TER,FALSE,FALSE,total elbow replacement,FALSE
+TESA,FALSE,FALSE,testicular sperm aspiration,FALSE
+TET,FALSE,FALSE,tubal embryo transfer,FALSE
+TEVAR,FALSE,FALSE,thoracic endovascular aortic repair,FALSE
+TFC,FALSE,FALSE,triangular fibrocartilage,FALSE
+TFCC,FALSE,FALSE,triangular fibrocartilage complex,FALSE
+TFE,FALSE,FALSE,turbo field echo,FALSE
+TFL,FALSE,FALSE,tensor fasciae latae,FALSE
+TFTs,FALSE,FALSE,thyroid function tests,FALSE
+TGA,TRUE,FALSE,Therapeutic Goods Administration|transient global amnesia|transposition of the great arteries,FALSE
+TGDC,FALSE,FALSE,thyroglossal duct cyst,FALSE
+TGSE,FALSE,FALSE,turbo gradient spine echo,FALSE
+TGV,FALSE,FALSE,transposition of the great vessels,FALSE
+TH,TRUE,TRUE,teaching hospital|thyroid hormone,FALSE
+Th,FALSE,TRUE,thorium,FALSE
+THA,FALSE,FALSE,total hip arthroplasty,FALSE
+THAD,FALSE,FALSE,transient hepatic attenuation differences,FALSE
+THC,FALSE,FALSE,tetrahydrocannabinol,FALSE
+THID,FALSE,FALSE,transient hepatic intensity differences,FALSE
+THR,FALSE,TRUE,total hip replacement,FALSE
+Thr,FALSE,TRUE,threonine,FALSE
+THRIVE,FALSE,FALSE,T1W high resolution isotropic volume examination,FALSE
+THz,FALSE,FALSE,terahertz,FALSE
+TI,TRUE,TRUE,terminal ileum|thermal index|time to invert,FALSE
+Ti,FALSE,TRUE,titanium,FALSE
+TIA,FALSE,FALSE,transient ischemic attack,FALSE
+Tib,FALSE,FALSE,tibia,FALSE
+Tics,FALSE,FALSE,diverticula,FALSE
+TID,FALSE,FALSE,transient ischemic dilatation,FALSE
+TIFF,FALSE,FALSE,tagged image file format,FALSE
+TIMI score,FALSE,FALSE,thrombolysis in myocardial infarction,FALSE
+TIPC,FALSE,FALSE,tunnelled indwelling pleural catheter,FALSE
+TIPIC,FALSE,FALSE,transient perivascular inflammation of the carotid artery,FALSE
+TI-RADS,FALSE,FALSE,thyroid image reporting and data system,FALSE
+TIRM,FALSE,FALSE,turbo inversion recovery magnitude,FALSE
+TKA,FALSE,FALSE,total knee arthroplasty,FALSE
+TKI,FALSE,FALSE,tyrosine kinase inhibitor,FALSE
+TKR,FALSE,FALSE,total knee replacement,FALSE
+TL,TRUE,TRUE,thoracolumbar|tubal ligation,FALSE
+Tl,FALSE,TRUE,thallium,FALSE
+TLA,FALSE,FALSE,three letter acronym,FALSE
+TLC,TRUE,FALSE,tender loving care|total lung capacity|triple lumen catheter,FALSE
+TLE,FALSE,FALSE,temporal lobe epilepsy,FALSE
+TLH,FALSE,FALSE,total laparoscopic hysterectomy,FALSE
+TLIF,FALSE,FALSE,transforaminal lumbar interbody fusion,FALSE
+T-LOC,FALSE,FALSE,transient loss of consciousness,FALSE
+TLSO,FALSE,FALSE,thoracolumbosacral orthosis,FALSE
+TM,TRUE,TRUE,transverse magnetization|tympanic membrane,FALSE
+Tm,FALSE,TRUE,thulium,FALSE
+Tmax,FALSE,FALSE,time to maximum,FALSE
+TMJ,TRUE,FALSE,temporomandibular joint|trapeziometacarpal joint,FALSE
+TMS,FALSE,FALSE,tumefactive multiple sclerosis,FALSE
+TMTJ,FALSE,FALSE,tarsometatarsal joint,FALSE
+Tn,FALSE,FALSE,troponin,FALSE
+TNM,FALSE,FALSE,tumor-nodes-metastases,FALSE
+T&O,FALSE,FALSE,trauma and orthopedics,FALSE
+TOA,FALSE,FALSE,tubo-ovarian abscess,FALSE
+TOC,FALSE,FALSE,trial of catheter,FALSE
+TOE,FALSE,FALSE,transesophageal echocardiography,FALSE
+TOF,TRUE,FALSE,tetralogy of Fallot|time-of-flight|tracheo-esophageal fistula,FALSE
+TOG,FALSE,FALSE,tracheo-esophageal groove,FALSE
+TOLAC,FALSE,FALSE,trial of labor after cesarean section,FALSE
+Tomo,FALSE,FALSE,tomogram,FALSE
+TONE,FALSE,FALSE,tilt optimized non-saturated excitation,FALSE
+TOP:,TRUE,FALSE,tail of pancreas|tender on palpation|termination of pregnancy,FALSE
+TORCH,FALSE,FALSE,toxoplasmosis other rubella CMV herpes,FALSE
+TOS,FALSE,FALSE,thoracic outlet syndrome,FALSE
+TOV,FALSE,FALSE,trial of void,FALSE
+TP,FALSE,FALSE,transverse process,FALSE
+tPA,FALSE,FALSE,tissue plasminogen activator,FALSE
+TPC,FALSE,FALSE,tunnelled pleural catheter,FALSE
+TPN,FALSE,FALSE,total parenteral nutrition,FALSE
+TPT,TRUE,FALSE,tibioperoneal trunk|transpyloric tube,FALSE
+TR,TRUE,FALSE,time to repeat|tricuspid regurgitation,FALSE
+T/R,FALSE,FALSE,transmit receive,FALSE
+TRALI,FALSE,FALSE,transfusion-related acute lung injury,FALSE
+TRAQ,FALSE,FALSE,time-resolved acquisition,FALSE
+TRH,FALSE,FALSE,thyroid-releasing hormone,FALSE
+TRICKS,FALSE,FALSE,time-resolved imaging of contrast kinetics,FALSE
+Trig,FALSE,FALSE,triggered,FALSE
+Triple-A syndrome,FALSE,FALSE,achalasia-addisonianism-alacrima syndrome,FALSE
+TRO,TRUE,FALSE,to rule out|triple-rule-out,FALSE
+Trop,FALSE,FALSE,troponin,FALSE
+Trp,FALSE,FALSE,tryptophan,FALSE
+TrueFISP,FALSE,FALSE,true fast imaging with steady state precession,FALSE
+TRUFI,FALSE,FALSE,true fast imaging with steady state precession,FALSE
+TRUS,FALSE,FALSE,transrectal ultrasound,FALSE
+TS,TRUE,FALSE,transverse section|tricuspid stenosis|tuberous sclerosis,FALSE
+TSA,FALSE,FALSE,total shoulder arthroplasty,FALSE
+tSDH,FALSE,FALSE,traumatic subdural hemorrhage,FALSE
+TSE,FALSE,FALSE,turbo spin echo,FALSE
+TSETF,FALSE,FALSE,turbo spin echo turbo factor,FALSE
+TSF,FALSE,FALSE,Taylor spatial frame,FALSE
+TSH,FALSE,FALSE,thyroid-stimulating hormone,FALSE
+TSR,FALSE,FALSE,total shoulder replacement,FALSE
+TT-TG,FALSE,FALSE,tibial tuberosity - trochlear groove sulcus distance,FALSE
+TTE,FALSE,FALSE,transthoracic echocardigraphy,FALSE
+TTFO,TRUE,FALSE,told to f**k off|to take fluids orally,FALSE
+TTN,FALSE,FALSE,transient tachypnea of the newborn,FALSE
+TTP,TRUE,FALSE,thrombotic thrombocytopenic purpura|time to peak,FALSE
+TTS,FALSE,FALSE,triple-tissue sampling,FALSE
+TUBS,FALSE,FALSE,traumatic unilateral dislocation with a Bankart lesion requiring surgery,FALSE
+TurboFLASH,FALSE,FALSE,turbo fast low angle shot,FALSE
+TurboGRASS,FALSE,FALSE,turbo gradient recalled acquisition in steady state,FALSE
+TurboGSE,FALSE,FALSE,turbo gradient spin echo,FALSE
+TurboIR,FALSE,FALSE,turbo inversion recovery,FALSE
+TURBT,FALSE,FALSE,transurethral resection of bladder tumor,FALSE
+TURP,FALSE,FALSE,transurethral resection of the prostate,FALSE
+TV,TRUE,FALSE,tidal volume|transvaginal|tricuspid valve|tunica vaginalis,FALSE
+TVH,FALSE,FALSE,total vaginal hysterectomy,FALSE
+TVR,FALSE,FALSE,tricuspid valve replacement,FALSE
+TWB,TRUE,FALSE,total weight bearing|touch weight bearing,FALSE
+TWI,FALSE,FALSE,T-wave inversion,FALSE
+TWIST,FALSE,FALSE,time-resolved angiography with stochastic trajectories,FALSE
+TWOC,FALSE,FALSE,trial without catheter,FALSE
+Tx,TRUE,FALSE,transplant|treatment|tumor cannot be assessed,FALSE
+TXA,FALSE,FALSE,tranexamic acid,FALSE
+Tyr,FALSE,FALSE,tyrosine,FALSE
+TZ,FALSE,FALSE,transition zone,FALSE
+U,TRUE,FALSE,uracil|uranium|selenocysteine,FALSE
+UA,TRUE,FALSE,umbilical artery|urine analysis,FALSE
+UAC,FALSE,FALSE,umbilical arterial catheter,FALSE
+UAE,FALSE,FALSE,uterine artery embolization,FALSE
+U&Es,FALSE,FALSE,urea and electrolytes,FALSE
+UBC,FALSE,FALSE,unicameral bone cyst,FALSE
+UBO,FALSE,FALSE,unidentified bright object,FALSE
+UC,TRUE,FALSE,ulcerative colitis|urinary catheter,FALSE
+UCL,FALSE,FALSE,ulnar collateral ligament,FALSE
+UEC,FALSE,FALSE,urea electrolytes creatinine,FALSE
+UG,FALSE,FALSE,undergraduate,FALSE
+UGIB,FALSE,FALSE,upper gastrointestinal bleeding,FALSE
+UHF,FALSE,FALSE,ultrahigh field,FALSE
+UIP,FALSE,FALSE,usual interstitial pneumonia,FALSE
+UIQ,FALSE,FALSE,upper inner quadrant,FALSE
+UL,FALSE,FALSE,upper limb,FALSE
+UO,FALSE,FALSE,ureteric orifice,FALSE
+UOQ,FALSE,FALSE,upper outer quadrant,FALSE
+UPJ,FALSE,FALSE,ureteropelvic junction,FALSE
+UPPP,FALSE,FALSE,uvulopalatopharyngoplasty,FALSE
+UPS,FALSE,FALSE,uninterruptible power supply,FALSE
+UPSI,FALSE,FALSE,unprotected sexual intercourse,FALSE
+UQ,FALSE,FALSE,upper quartile,FALSE
+URT,FALSE,FALSE,upper respiratory tract,FALSE
+URTI,FALSE,FALSE,upper respiratory tract infection,FALSE
+US,FALSE,FALSE,ultrasound,FALSE
+USG,FALSE,FALSE,ultrasonography,FALSE
+USMLE,FALSE,FALSE,United States Medical Licensing Exam,FALSE
+USPIO,FALSE,FALSE,ultra small superparamagnetic iron oxide,FALSE
+USS,FALSE,FALSE,ultrasound scan,FALSE
+USWP,FALSE,FALSE,ulnar-sided wrist pain,FALSE
+Ut,FALSE,FALSE,uterus,FALSE
+UTE,FALSE,FALSE,ultrashort echo time,FALSE
+UTI,FALSE,FALSE,urinary tract infection,FALSE
+UTSE,FALSE,FALSE,ultrashort turbo spin echo,FALSE
+UV,TRUE,FALSE,ultraviolet|umbilical vein,FALSE
+UVC,FALSE,FALSE,umbilical venous catheter,FALSE
+UVJ,FALSE,FALSE,ureterovesical junction,FALSE
+UZ,FALSE,FALSE,upper zone,FALSE
+V,TRUE,TRUE,coagulation factor V|five|volt,FALSE
+v,FALSE,TRUE,version,FALSE
+VA,TRUE,FALSE,Department of Veterans Affairs|vertebral artery|visual acuity,FALSE
+VAC,FALSE,FALSE,vacuum-assisted closure,FALSE
+VACTER,FALSE,FALSE,vertebral anal cardiac tracheoesophageal renal,FALSE
+VACTERL,FALSE,FALSE,vertebral anal cardiac tracheoesophageal renal limb defects,FALSE
+VAD,FALSE,FALSE,ventricular assistance device,FALSE
+Val,FALSE,FALSE,valine,FALSE
+VALI,FALSE,FALSE,ventilator-associated lung injury,FALSE
+VAP,FALSE,FALSE,ventilator-acquired pneumonia,FALSE
+VASARI,FALSE,FALSE,visually accessible Rembrandt images,FALSE
+VAST,FALSE,FALSE,variable sampling in time,FALSE
+VAT,FALSE,FALSE,view angle tilting,FALSE
+VATS,FALSE,FALSE,video-assisted thoracoscopic surgery,FALSE
+VB,FALSE,FALSE,vertebral body,FALSE
+VBAC,FALSE,FALSE,vaginal birth after cesarean section,FALSE
+VBG,FALSE,FALSE,venous blood gas,FALSE
+VC,TRUE,FALSE,vestibulocochlear|virtual colonoscopy|vital capacity,FALSE
+vCJD,FALSE,FALSE,variant Creutzfeld-Jakob disease,FALSE
+VCME,FALSE,FALSE,vicarious contrast material excretion,FALSE
+VCU,FALSE,FALSE,venous compression ultrasound,FALSE
+VD,TRUE,FALSE,vaginal delivery|vascular dementia|vas deferens|venereal disease,FALSE
+VDRL,FALSE,FALSE,venereal disease research laboratory,FALSE
+VEMP,FALSE,FALSE,vestibular-evoked myogenic potentials,FALSE
+VENC,FALSE,FALSE,velocity encoding,FALSE
+VF,TRUE,FALSE,ventricular fibrillation|visual field,FALSE
+VGKC,FALSE,FALSE,voltage-gated potassium channel,FALSE
+VH,TRUE,FALSE,vaginal hysterectomy|visible hematuria,FALSE
+VHL,FALSE,FALSE,von Hippel Lindau,FALSE
+VI,TRUE,FALSE,abducens nerve|hepatic segment VI|six,FALSE
+VIBE,FALSE,FALSE,volume interpolated breathhold examination,FALSE
+VIBRANT,FALSE,FALSE,volume imaging for breast assessment,FALSE
+VII,TRUE,FALSE,coagulation factor VII|facial nerve|hepatic segment VII|seven,FALSE
+VIII,TRUE,FALSE,coagulation factor VIII|eight|hepatic segment VIII|vestibulocochlear nerve,FALSE
+VISI,FALSE,FALSE,volar intercalated segmental instability,FALSE
+VISTA,FALSE,FALSE,volume isotropic turbo spin echo acquisition,FALSE
+VIT,FALSE,FALSE,vitamin,FALSE
+viz,FALSE,FALSE,namely,FALSE
+VLCFA,FALSE,FALSE,very long chain fatty acids,FALSE
+VLDL,FALSE,FALSE,very low density lipoprotein,FALSE
+VNA,FALSE,FALSE,vendor-neutral archive,FALSE
+VNS,FALSE,FALSE,vagal nerve stimulator,FALSE
+VOD,FALSE,FALSE,veno-occlusive disease,FALSE
+VOG,FALSE,FALSE,vein of Galen,FALSE
+VOI,FALSE,FALSE,volume of interest,FALSE
+VOL,FALSE,FALSE,volume,FALSE
+VOM,FALSE,FALSE,vein of Marshall,FALSE
+VOMIT,FALSE,FALSE,victim of modern imaging technology,FALSE
+Voxel,FALSE,FALSE,volume element,FALSE
+VP,FALSE,FALSE,ventriculoperitoneal,FALSE
+VPS,FALSE,FALSE,ventriculoperitoneal shunt,FALSE
+VPSPr,FALSE,FALSE,variably protease-sensitive prionopathy,FALSE
+VQ,FALSE,FALSE,ventilation perfusion,FALSE
+VR,TRUE,FALSE,vasectomy reversal|virtual reality|voice recognition,FALSE
+VRE,FALSE,FALSE,vancomycin-resistant enterococcus,FALSE
+VRS,FALSE,FALSE,Virchow-Robin space,FALSE
+VRT,FALSE,FALSE,volume-rendered transformation,FALSE
+VS,FALSE,FALSE,versus,FALSE
+VSD,FALSE,FALSE,ventricular septal defect,FALSE
+VSS,FALSE,FALSE,vital signs stable,FALSE
+VT,TRUE,FALSE,tidal volume|ventricular tachycardia,FALSE
+VTE,FALSE,FALSE,venous thromboembolism,FALSE
+VUJ,FALSE,FALSE,vesicoureteric junction,FALSE
+VV,TRUE,FALSE,varicella vaccine|varicose veins|venous varix,FALSE
+VWD,FALSE,FALSE,von Willebrand disease,FALSE
+VZV,FALSE,FALSE,varicella zoster virus,FALSE
+V1,TRUE,FALSE,ophthalmic nerve first division of the trigeminal nerve|primary visual cortex,FALSE
+V2,TRUE,FALSE,maxillary nerve second division of the trigeminal nerve|secondary visual cortex,FALSE
+V3,TRUE,FALSE,mandibular nerve third division of the trigeminal nerve|third visual cortex,FALSE
+W,TRUE,FALSE,tryptophan|tungsten|watt|weight|width,FALSE
+WAGR,FALSE,FALSE,Wilms tumor aniridia genitourinary anomalies retardation,FALSE
+WATS,FALSE,FALSE,water selective,FALSE
+WAVE,FALSE,FALSE,water selective volume excitation,FALSE
+WB,TRUE,TRUE,weight bearing|western blot|whole body,FALSE
+Wb,FALSE,TRUE,weber,FALSE
+WBAT,FALSE,FALSE,weight bearing as tolerated,FALSE
+WBC,FALSE,FALSE,white blood cells,FALSE
+WBCT,FALSE,FALSE,whole body CT,FALSE
+WB-MRI,FALSE,FALSE,whole body-MRI,FALSE
+WBR,FALSE,FALSE,whole body radiation,FALSE
+WCC,FALSE,FALSE,white cell count,FALSE
+WD,FALSE,FALSE,Whipple disease,FALSE
+WHO,FALSE,FALSE,World Health Organization,FALSE
+WHOL,FALSE,FALSE,worst headache of life,FALSE
+WL,FALSE,FALSE,window level,FALSE
+WM,FALSE,FALSE,white matter,FALSE
+WNL,FALSE,FALSE,within normal limits,FALSE
+WPW,FALSE,FALSE,Wolff-Parkinson-White syndrome,FALSE
+WRT,FALSE,FALSE,with regards to,FALSE
+WSW,FALSE,FALSE,women who have sex with women,FALSE
+Wt,FALSE,FALSE,weight,FALSE
+WTU,FALSE,FALSE,ward test urine,FALSE
+WW,FALSE,FALSE,window width,FALSE
+WWP,FALSE,FALSE,warm and well perfused,FALSE
+WWS,FALSE,FALSE,Walker-Warburg syndrome,FALSE
+X,TRUE,FALSE,coagulation factor X|sex-determining chromosome|ten|vagus nerve,FALSE
+XDR-TB,FALSE,FALSE,extensively drug-resistant tuberculosis,FALSE
+Xe,FALSE,FALSE,xenon,FALSE
+XI,TRUE,FALSE,accessory nerve|coagulation factor XI|eleven,FALSE
+XII,TRUE,FALSE,coagulation factor XII|hypoglossal nerve|twelve,FALSE
+XIII,TRUE,FALSE,coagulation factor XIII|thirteen,FALSE
+XLIF,FALSE,FALSE,extreme lateral interbody fusion,FALSE
+XOA,FALSE,FALSE,x-ray on arrival,FALSE
+XR,FALSE,FALSE,x-ray,FALSE
+XROA,FALSE,FALSE,x-ray on arrival,FALSE
+XRT,FALSE,FALSE,radiotherapy,FALSE
+XV,FALSE,FALSE,extended volume,FALSE
+Y,TRUE,FALSE,tyrosine|Y chromosome|year|yotta|yttrium,FALSE
+Yb,FALSE,FALSE,ytterbium,FALSE
+YO,FALSE,FALSE,year old,TRUE
+Y/O,FALSE,FALSE,year old,TRUE
+Yr,FALSE,FALSE,year,FALSE
+YS,FALSE,FALSE,yolk sac,FALSE
+YST,FALSE,FALSE,yolk sac tumor,FALSE
+Z,TRUE,FALSE,atomic number|Z axis|Zee score,FALSE
+ZES,FALSE,FALSE,Zollinger-Ellison syndrome,FALSE
+ZIFT,FALSE,FALSE,zygote intrafallopian transfer,FALSE
+ZIP,FALSE,FALSE,zero fill interpolation,FALSE
+ZMC,FALSE,FALSE,zygomaticomaxillary complex,FALSE
+Zn,FALSE,FALSE,zinc,FALSE
+ZNS,FALSE,FALSE,Ziehl-Neelsen stain,FALSE
+ZOOM,FALSE,FALSE,zonal oblique multisection EPI,FALSE
+Zr,FALSE,FALSE,zirconium,FALSE
+',FALSE,FALSE,feet,FALSE
+"""",FALSE,FALSE,inches,FALSE
+?,FALSE,FALSE,query or question,FALSE
+~,FALSE,FALSE,approximately,FALSE
+#NAME?,FALSE,FALSE,positive,FALSE
+#NAME?,FALSE,FALSE,negative,FALSE
+xo,FALSE,FALSE,number of hours,FALSE
+x/7,FALSE,FALSE,medical shorthand for 'x' number of days,FALSE
+x/12,FALSE,FALSE,medical shorthand for 'x' number of months,FALSE
+x/24,FALSE,FALSE,medical shorthand for 'x' number of hours,FALSE
+x/52,FALSE,FALSE,medical shorthand for 'x' number of weeks,FALSE
+1o,FALSE,FALSE,primary,FALSE
+2o,FALSE,FALSE,secondary,FALSE
+2D,FALSE,FALSE,2-dimensional,FALSE
+3o,FALSE,FALSE,tertiary,FALSE
+3C syndrome,FALSE,FALSE,craniocerebellocardiac syndrome,FALSE
+3D,FALSE,FALSE,3-dimensional,FALSE
+3D MVOX,FALSE,FALSE,multivoxel,FALSE
+4o,FALSE,FALSE,quaternary,FALSE
+4D,FALSE,FALSE,4-dimensional,FALSE
+4D-TRAK,FALSE,FALSE,4D timer resolved angiography using keyhole,FALSE
+5D,FALSE,FALSE,5-dimensional,FALSE
+5-F rule,FALSE,FALSE,fertile fat female fair forty/family history,FALSE
+5-FU,FALSE,FALSE,5-fluorouracil,FALSE
+6-MP,FALSE,FALSE,6-mercaptopurine,FALSE
+6MWT,FALSE,FALSE,6 minute walk test,FALSE
+w/,FALSE,FALSE,with,TRUE
+w,FALSE,FALSE,with,TRUE
+Hb,FALSE,FALSE,hemoglobin,TRUE
+Hgb,FALSE,FALSE,hemoglobin,TRUE
+AF/RVR,FALSE,FALSE,atrial fibrillation with rapid ventricular response,FALSE
+eval,FALSE,FALSE,evaluate,FALSE
+pt,FALSE,FALSE,patient,FALSE
+chole,FALSE,FALSE,cholecystectomy,FALSE
+c/f,FALSE,FALSE,chills and fevers,FALSE
+infxn,FALSE,FALSE,infection,FALSE
+hypox,FALSE,FALSE,hypoxia,FALSE
+ESRD,FALSE,FALSE,end stage renal disease,FALSE
+p/w,FALSE,FALSE,presenting with,FALSE
+c/w,FALSE,FALSE,consistent with,FALSE
+pulm,FALSE,FALSE,pulmonary,FALSE
+pcomm,FALSE,FALSE,posterior communicating artery,TRUE
+pcom,FALSE,FALSE,posterior communicating artery,TRUE
+p-comm,FALSE,FALSE,posterior communicating artery,TRUE
+iup,FALSE,FALSE,intrauterine pregnancy,FALSE
+appy,FALSE,FALSE,appendicitis,FALSE
+RLE,FALSE,FALSE,right lower extremity,FALSE
+LLE,FALSE,FALSE,left lower extremity ,FALSE
+LUE,FALSE,FALSE,left upper extremity ,FALSE
+RUE,FALSE,FALSE,right upper extremity,FALSE
+epig,FALSE,FALSE,epigastric,FALSE
+ldlt,FALSE,FALSE,living donor liver transplantation,FALSE
