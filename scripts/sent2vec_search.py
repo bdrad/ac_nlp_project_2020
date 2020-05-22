@@ -21,10 +21,9 @@ import numpy as np
 import csv
 import requests
 
-class BioSentVecSearch:
+class Sent2VecSearch:
 
-	def __init__(self,table,vocab,word2int,names, docs_embed, headers_embed, tfidf_embed, verbose=True, model=None):
-		self.table = table
+	def __init__(self,vocab,word2int,names, docs_embed, headers_embed, tfidf_embed, verbose=True, model=None, table=None):
 		self.vocab = vocab
 		self.word2int = word2int
 		self.names = names
@@ -33,7 +32,7 @@ class BioSentVecSearch:
 		self.tfidf_embed = tfidf_embed
 		self.verbose = verbose
 		self.model = model
-
+		self.table = table
 		self.preprocessor = Preprocess(want_ngrams=False, verbose=True, fast=True, separate_solved_abbvs=True)
 
 
