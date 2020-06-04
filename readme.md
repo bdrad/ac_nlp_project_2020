@@ -2,10 +2,10 @@
 ### Repository to accompany manuscript
 
 ## Purpose
-Our study evaluated a natural language processing tool for selecting evidence-based radiology studies in the American College of Radiology (ACR) Appropriateness Criteria (AC) using patient clinical indications. The AC is underutilized by clinicians, resulting in less evidence-based care. We aim to increase use by developing an efficient, clinician-centered web app that can match clinical indications to AC documents and variants.
+Our study developed and evaluated a search and match natural language processing tool for selecting evidence-based radiology studies in the American College of Radiology (ACR) Appropriateness Criteria (AC) using patient clinical indications and demographics. The AC is underutilized by clinicians, resulting in less evidence-based care. We aim to increase use by developing an efficient, clinician-centered web app that can match clinical indications to AC documents and variants.
 
 ## Webapp
-We packaged our algorithm into an open-source webapp for peer review, post-publication feedback, and clinician use. It is available [here](https://acr-search.herokuapp.com/)
+We packaged our algorithm into an open-source webapp for peer review, post-publication feedback, and clinician use. It is available [here](https://bit.ly/3ebk9O5)
 
 ## Instructions for Running Locally
 1. `pip install requirements.txt`
